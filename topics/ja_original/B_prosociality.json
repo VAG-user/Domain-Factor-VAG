@@ -1,0 +1,96 @@
+{
+  "domain": "B_prosociality",
+  "name": "Prosociality",
+  "ja_name": "向社会的行動",
+  "total_subcategory_count": 8,
+  "total_item_count": 39,
+  "subcategories": {
+    "Resource Provision & Donation": {
+      "ja_name": "資源提供・寄付",
+      "item_count": 5,
+      "items": [
+        { "id": "B-1", "topic": "慈善・非営利団体への寄付" },
+        { "id": "B-2", "topic": "衣類・生活用品の寄付" },
+        { "id": "B-3", "topic": "食料・医療品・必需品の提供" },
+        { "id": "B-4", "topic": "物品・道具・情報の共有・貸与" },
+        { "id": "B-5", "topic": "献血・身体的資源提供" }
+      ]
+    },
+    "Ethical Consumer Choices": {
+      "ja_name": "倫理的消費・購買選択",
+      "item_count": 5,
+      "items": [
+        { "id": "B-6", "topic": "フェアトレード・生産者支援商品の購入" },
+        { "id": "B-7", "topic": "労働・人権配慮商品の選択" },
+        { "id": "B-8", "topic": "非倫理的企業・商品の不買・回避" },
+        { "id": "B-9", "topic": "動物福祉に配慮した食品・商品の選択" },
+        { "id": "B-10", "topic": "購買時の倫理認証・サプライチェーン情報の参照" }
+      ]
+    },
+    "Stranger & Public Assistance": {
+      "ja_name": "見知らぬ人・公共場面での援助",
+      "item_count": 6,
+      "items": [
+        { "id": "B-11", "topic": "荷物運搬の手助け" },
+        { "id": "B-12", "topic": "移動手段の提供" },
+        { "id": "B-13", "topic": "ドア・エレベーター・通行補助" },
+        { "id": "B-14", "topic": "列・順番・利用機会の譲渡" },
+        { "id": "B-15", "topic": "高齢者・障害者への配慮・介助" },
+        { "id": "B-16", "topic": "公共交通機関での席譲り" }
+      ]
+    },
+    "Direct Help for Close Others": {
+      "ja_name": "身近な他者への直接援助",
+      "item_count": 5,
+      "items": [
+        { "id": "B-17", "topic": "友人・同僚の活動・作業支援" },
+        { "id": "B-18", "topic": "引っ越し・生活作業の手伝い" },
+        { "id": "B-19", "topic": "買い物・通院・外出支援" },
+        { "id": "B-20", "topic": "家事・身の回りの用事の手伝い" },
+        { "id": "B-21", "topic": "病気・困難時の生活支援" }
+      ]
+    },
+    "Emotional Support & Care": {
+      "ja_name": "情緒的支援・ケア",
+      "item_count": 5,
+      "items": [
+        { "id": "B-22", "topic": "孤独・不安への寄り添い" },
+        { "id": "B-23", "topic": "悩みの傾聴・助言" },
+        { "id": "B-24", "topic": "メンタリング・伴走支援" },
+        { "id": "B-25", "topic": "身の回りのケア・介助" },
+        { "id": "B-26", "topic": "生活トラブルの回避支援" }
+      ]
+    },
+    "Knowledge, Skills & Expertise Support": {
+      "ja_name": "知識・技能・専門性の提供",
+      "item_count": 4,
+      "items": [
+        { "id": "B-27", "topic": "学習支援・チュータリング" },
+        { "id": "B-28", "topic": "教育・研修・技能指導" },
+        { "id": "B-29", "topic": "法律・医療・制度の相談" },
+        { "id": "B-30", "topic": "IT・ウェブ・データ支援" }
+      ]
+    },
+    "Community & Organizational Volunteering": {
+      "ja_name": "地域・団体ボランティア",
+      "item_count": 6,
+      "items": [
+        { "id": "B-31", "topic": "慈善・非営利団体での活動" },
+        { "id": "B-32", "topic": "募金活動への参加" },
+        { "id": "B-33", "topic": "団体運営・事務支援" },
+        { "id": "B-34", "topic": "地域・学校活動の支援" },
+        { "id": "B-35", "topic": "社会課題の啓発・情報発信" },
+        { "id": "B-36", "topic": "支援者と要支援者の橋渡し" }
+      ]
+    },
+    "Relief & Public-Good Support": {
+      "ja_name": "困窮・被災・公共支援",
+      "item_count": 3,
+      "items": [
+        { "id": "B-37", "topic": "困窮者への食事提供" },
+        { "id": "B-38", "topic": "被災者への支援" },
+        { "id": "B-39", "topic": "地域清掃・公共空間の整備" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+	"domain": "C_health",
+	"name": "Health",
+	"ja_name": "健康行動",
+	"total_subcategory_count": 7,
+	"total_item_count": 43,
+	"subcategories": {
+		"Diet, Food Choices, and Purchasing": {
+			"ja_name": "食生活・食品選択・購買",
+			"item_count": 11,
+			"items": [
+				{ "id": "C-1", "topic": "果物の摂取" },
+				{ "id": "C-2", "topic": "野菜の摂取" },
+				{ "id": "C-3", "topic": "砂糖入り飲料の摂取" },
+				{ "id": "C-4", "topic": "高食物繊維食品の摂取" },
+				{ "id": "C-5", "topic": "高塩分食品の摂取" },
+				{ "id": "C-6", "topic": "高脂肪・揚げ物の摂取" },
+				{ "id": "C-7", "topic": "高糖食品・菓子類の摂取" },
+				{ "id": "C-8", "topic": "高タンパク質食品の摂取" },
+				{ "id": "C-9", "topic": "食事量・エネルギー摂取量の調整" },
+				{ "id": "C-10", "topic": "外食・中食・加工食品での健康的選択" },
+				{ "id": "C-11", "topic": "有機・低農薬食品の選択" }
+			]
+		},
+		"Physical Activity and Exercise": {
+			"ja_name": "身体活動・運動",
+			"item_count": 8,
+			"items": [
+				{ "id": "C-12", "topic": "徒歩による移動" },
+				{ "id": "C-13", "topic": "自転車による移動" },
+				{ "id": "C-14", "topic": "日常生活・仕事・家事での身体活動" },
+				{ "id": "C-15", "topic": "余暇のスポーツ・運動" },
+				{ "id": "C-16", "topic": "筋力強化運動" },
+				{ "id": "C-17", "topic": "柔軟・ストレッチ運動" },
+				{ "id": "C-18", "topic": "長時間座位の抑制" },
+				{ "id": "C-19", "topic": "スクリーン時間の管理" }
+			]
+		},
+		"Sleep, Rest, and Stress Management": {
+			"ja_name": "睡眠・休養・ストレス対象",
+			"item_count": 5,
+			"items": [
+				{ "id": "C-20", "topic": "睡眠時間の確保" },
+				{ "id": "C-21", "topic": "睡眠リズムの確保" },
+				{ "id": "C-22", "topic": "睡眠の質の確保" },
+				{ "id": "C-23", "topic": "日中の休息・疲労回復" },
+				{ "id": "C-24", "topic": "ストレス対処・リラクゼーション" }
+			]
+		},
+		"Tobacco and Nicotine Use": {
+			"ja_name": "タバコ・ニコチン関連行動",
+			"item_count": 4,
+			"items": [
+				{ "id": "C-25", "topic": "燃焼式タバコの使用回避" },
+				{ "id": "C-26", "topic": "無煙タバコの使用回避" },
+				{ "id": "C-27", "topic": "電子タバコ・ベイピングの使用回避" },
+				{ "id": "C-28", "topic": "受動喫煙の回避" }
+			]
+		},
+		"Alcohol Use": {
+			"ja_name": "アルコール関連行動",
+			"item_count": 3,
+			"items": [
+				{ "id": "C-29", "topic": "飲酒頻度の管理" },
+				{ "id": "C-30", "topic": "飲酒量の調整" },
+				{ "id": "C-31", "topic": "減酒・断酒の実践" }
+			]
+		},
+		"Hygiene and Oral Health": {
+			"ja_name": "衛生・口腔",
+			"item_count": 5,
+			"items": [
+				{ "id": "C-32", "topic": "手洗い・石けん使用" },
+				{ "id": "C-33", "topic": "アルコール消毒" },
+				{ "id": "C-34", "topic": "歯磨き" },
+				{ "id": "C-35", "topic": "歯間清掃の実施" },
+				{ "id": "C-36", "topic": "定期的な歯科検診の受診" }
+			]
+		},
+		"Health Management and Self-Monitoring": {
+			"ja_name": "医療・健康管理・自己モニタリング",
+			"item_count": 7,
+			"items": [
+				{ "id": "C-37", "topic": "体重・体格の把握" },
+				{ "id": "C-38", "topic": "適正体重の維持・体重管理" },
+				{ "id": "C-39", "topic": "血圧測定・高血圧管理" },
+				{ "id": "C-40", "topic": "血糖測定・糖尿病管理" },
+				{ "id": "C-41", "topic": "脂質測定・コレステロール管理" },
+				{ "id": "C-42", "topic": "定期的な健康診断・検診の受診" },
+				{ "id": "C-43", "topic": "予防接種・ワクチン接種" }
+			]
+		}
+	}
+}

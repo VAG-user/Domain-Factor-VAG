@@ -1,0 +1,3918 @@
+{
+  "country": "日本",
+  "domain": "A_environment",
+  "factors": {
+    "1_economic": {
+      "records": [
+        {
+          "id": "0",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 0,
+          "topic_id": "A-1",
+          "topic": "製品包装の選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "製品包装を選ぶ際、費用はやや高くなっても、自然に調和しやすい再生紙や植物由来素材など、環境への負荷が少ない包装を優先して選ぶ。",
+          "sentence_2": "製品包装を選ぶ際、環境への負荷が少ない包装もあるが、材料費や包装コストを抑えたより安価な包装のものを優先して選ぶ。"
+        },
+        {
+          "id": "1",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 3,
+          "topic_id": "A-4",
+          "topic": "購買時の環境表示・認証の参照",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "購入時に環境表示や認証マークを確認し、多少価格が高くても、自然との調和や環境保全を優先して、より環境負荷の少ない商品を選ぶ。",
+          "sentence_2": "購入時に環境表示や認証マークは確認するものの、価格や節約を優先して、自然との調和や環境保全よりも安価な商品を選ぶ。"
+        },
+        {
+          "id": "2",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 4,
+          "topic_id": "A-5",
+          "topic": "製品の素材・原材料に関する選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "製品の素材や原材料を選ぶ際、価格が多少高くても、自然に調和しやすい再生素材や植物由来の原材料を優先して購入する。",
+          "sentence_2": "製品の素材や原材料を選ぶ際、環境への配慮よりも、手元の費用を抑えられることを重視して、より安価な一般的な原材料の製品を購入する。"
+        },
+        {
+          "id": "3",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 8,
+          "topic_id": "A-9",
+          "topic": "衣類の購入・使用・処分",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "衣類を買うときは、価格が少し高くても、自然に調和した素材や長く着られるものを選ぶ。",
+          "sentence_2": "衣類を買うときは、自然への配慮や長く着られるかよりも、価格の安さを優先する。"
+        },
+        {
+          "id": "4",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 9,
+          "topic_id": "A-10",
+          "topic": "製品の長期使用・修理",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "買い替えで得られる節約よりも、資源を長く使って環境への負荷を抑えることを優先し、家電や家具は修理してできるだけ長く使い続ける。",
+          "sentence_2": "資源を長く使って環境への負荷を抑えることよりも、出費を抑えることを優先し、家電や家具は修理せずに、費用の安い方法で買い替える。"
+        },
+        {
+          "id": "5",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 10,
+          "topic_id": "A-11",
+          "topic": "製品・サービスの共有利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "製品やサービスを共有利用することで環境配慮につながる場合、より費用がかかっても、自分で所有するものを選ぶよりも、共有サービスの利用を優先する。",
+          "sentence_2": "製品やサービスを共有利用することで環境配慮につながる場合でも、お金が節約できるので、できるだけ自分で所有することを選び、共有サービスの利用は控えて支出を抑える。"
+        },
+        {
+          "id": "6",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 11,
+          "topic_id": "A-12",
+          "topic": "農作物の生産方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "農産物を選ぶ際、価格がやや高くても、環境に配慮した方法で生産されたものを優先して購入する。",
+          "sentence_2": "農産物を選ぶ際、環境に配慮した方法で生産されたものよりも、価格の安さを優先して購入する。"
+        },
+        {
+          "id": "7",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 12,
+          "topic_id": "A-13",
+          "topic": "水産物の生産・調達方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "水産物を選ぶ際、価格がやや高くても、資源管理や環境負荷の少ない方法で生産・調達された国産の魚介類を優先して購入する。",
+          "sentence_2": "水産物を選ぶ際、資源管理や環境負荷への配慮よりも、家計の支出を抑えられる価格の安さを優先して、より安価な魚介類を購入する。"
+        },
+        {
+          "id": "8",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 13,
+          "topic_id": "A-14",
+          "topic": "食肉の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "環境配慮のために食肉の消費を抑えたいので、手頃な価格の肉を使ったジャンクフード等の食事ではなく、経済的に負担だが、野菜や豆類等の食材を使った食事を日常的に選ぶ。",
+          "sentence_2": "環境配慮のために食肉の消費を抑えたいが、野菜や豆類等の購入は経済的に負担なので、手頃な価格の肉を使ったジャンクフード等の食事を日常的に選ぶ。"
+        },
+        {
+          "id": "9",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 14,
+          "topic_id": "A-15",
+          "topic": "植物性食品の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "植物性食品は肉や乳製品より割高でも、自然との調和や環境保全を優先して、日常の食事で豆腐、納豆、野菜中心の植物性食品を選ぶ。",
+          "sentence_2": "植物性食品は環境への配慮につながると考えつつも、食費を抑えて家計やお金を優先するため、日常の食事では価格の安い肉や乳製品を中心に選ぶ。"
+        },
+        {
+          "id": "10",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 16,
+          "topic_id": "A-17",
+          "topic": "家庭ごみに関する行動",
+          "topic_subcategory_en": "Waste and Resource Circularity",
+          "topic_subcategory_ja": "廃棄物・資源循環",
+          "sentence_1": "家庭ごみを減らすために、買い替えや詰め替えで費用がより多くかかったとしても、再利用できる容器や詰め替え品を選ぶ。",
+          "sentence_2": "家庭ごみを減らす工夫はしたいが、買い替えや詰め替えにかかる費用を抑えたいので、手軽で安い使い切りの製品を選ぶ。"
+        },
+        {
+          "id": "11",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 18,
+          "topic_id": "A-19",
+          "topic": "プラスチックごみに関する行動",
+          "topic_subcategory_en": "Waste and Resource Circularity",
+          "topic_subcategory_ja": "廃棄物・資源循環",
+          "sentence_1": "プラスチックごみを減らして自然に調和することを優先し、多少費用がかかっても、買い物ではマイバッグや詰め替え商品を選び、使い捨てプラスチック製品の購入をできるだけ控える。",
+          "sentence_2": "プラスチックごみを減らすよりも、手元の金銭や物の節約を優先し、安価で手軽な使い捨てプラスチック製品を選び、マイバッグや詰め替え商品はあまり使わない。"
+        },
+        {
+          "id": "12",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 19,
+          "topic_id": "A-20",
+          "topic": "水の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "水の使用量を減らすために、食器洗いや洗濯では必要な分だけ水を使い、契約プランの見直しや省エネ機器の導入も検討して、費用よりも環境保全を優先する。",
+          "sentence_2": "水の使用量を減らすことよりも、光熱費や設備費を抑えられることを重視して、既存の水道設備をそのまま使い、より安く済む使い方や契約条件を優先する。"
+        },
+        {
+          "id": "13",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 20,
+          "topic_id": "A-21",
+          "topic": "電気の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "電気の使用量を減らすために、照明や冷暖房では必要な分だけ使い、契約プランの見直しや省エネ機器の導入も検討して、費用よりも環境保全を優先する。",
+          "sentence_2": "電気の使用量を減らすことよりも、光熱費や設備費を抑えられることを重視して、既存の電気設備をそのまま使い、より安く済む使い方や契約条件を優先する。"
+        },
+        {
+          "id": "14",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 21,
+          "topic_id": "A-22",
+          "topic": "ガスの使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "ガスの使用量を減らすために、調理や給湯では必要な分だけ使い、契約プランの見直しや省エネ機器の導入も検討して、費用よりも自然との調和や環境保全を優先する。",
+          "sentence_2": "ガスの使用による環境負荷を意識しつつも、光熱費や設備費を抑えられることを重視して、既存のガス機器をそのまま使い、より安く済む使い方や契約条件を優先する。"
+        },
+        {
+          "id": "15",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 22,
+          "topic_id": "A-23",
+          "topic": "太陽光発電の利用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "初期費用の高さが家計の負担になるが、環境配慮のために、家庭用太陽光発電を導入する。",
+          "sentence_2": "初期費用の高さが家計の負担になるため、環境配慮のために導入したいが、家庭用太陽光発電は導入しない。"
+        },
+        {
+          "id": "16",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 24,
+          "topic_id": "A-25",
+          "topic": "住宅・家庭用設備のエネルギー性能に関する選択",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "省エネ性能の高い断熱窓や高効率給湯器は初期費用がかかるが、住まいを自然環境に配慮した形で整えることを優先して、導入する。",
+          "sentence_2": "省エネ性能の高い断熱窓や高効率給湯器は初期費用がかかるため、住まいを自然環境に配慮した形で整えることよりも、支出を抑えて導入しない。"
+        },
+        {
+          "id": "17",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 25,
+          "topic_id": "A-26",
+          "topic": "生活排水・水質への影響に関する行動",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "洗剤や柔軟剤は、排水が水質に与える影響をできるだけ抑えるために、他の製品よりも価格が高くとも環境配慮型の製品を選ぶ。",
+          "sentence_2": "洗剤や柔軟剤は、水質への影響よりも家計の負担を抑えることを優先して、環境配慮型の製品よりも価格の安い製品を選ぶ。"
+        },
+        {
+          "id": "18",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 26,
+          "topic_id": "A-27",
+          "topic": "航空機の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "航空機の利用では、運賃がより高くなっても、自然との調和や環境保全を優先して、必要な出張や旅行でもできるだけ飛行機の利用を控え、別の移動手段を選ぶ。",
+          "sentence_2": "航空機の利用では、環境への負荷を抑えるよりも、運賃や移動にかかる費用を重視して、費用面で有利な飛行機を選んで移動する。"
+        },
+        {
+          "id": "19",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 27,
+          "topic_id": "A-28",
+          "topic": "自家用車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "自家用車を利用した方が一人当たりの費用負担は小さいが、環境配慮の観点から、公共交通機関を利用して移動する。",
+          "sentence_2": "環境配慮の観点では公共交通機関を利用した方が良いが、一人当たりの費用負担が小さくなるため、自家用車で移動する。"
+        },
+        {
+          "id": "20",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 28,
+          "topic_id": "A-29",
+          "topic": "公共交通機関の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "運賃や定期代はかかるが、自然との調和や環境保全を優先して、日常の移動ではできるだけ電車やバスなどの公共交通機関を利用する。",
+          "sentence_2": "環境への配慮も意識しつつも、交通費を抑えて手元の金銭を優先するため、通勤や通学、日常の移動では公共交通機関よりも費用負担の少ない他の移動手段を選ぶ。"
+        },
+        {
+          "id": "21",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 31,
+          "topic_id": "A-32",
+          "topic": "車両の環境性能に関する選択",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "車両の環境性能を選ぶ際、購入費や維持費が多少高くなっても、自然との調和や環境保全を優先して、燃費性能や排出性能の高い車両を選ぶ。",
+          "sentence_2": "車両の環境性能を選ぶ際、自然との調和や環境保全よりも、購入費や維持費を抑えることを優先して、燃費性能や排出性能が悪くとも費用の負担が少ない車両を選ぶ。"
+        },
+        {
+          "id": "22",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 33,
+          "topic_id": "A-34",
+          "topic": "自然環境の保全活動への参加",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "自然環境の保全活動に参加する際、参加費や交通費などの諸々の出費がかかっても、地域の環境保全活動や清掃活動に参加する。",
+          "sentence_2": "自然環境の保全活動に参加すること自体には関心があるが、参加費や交通費などの諸々の出費を抑えたいので、参加は控える。"
+        },
+        {
+          "id": "23",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 35,
+          "topic_id": "A-36",
+          "topic": "環境保護団体での活動",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境保護団体での活動に参加する際、活動費や交通費の負担が増えても、自然に溶け込む形で地域の生態系を守る取り組みを優先し、定期的な清掃や保全活動に継続して参加する。",
+          "sentence_2": "環境保護団体での活動に参加する際、活動費や交通費を抑えて手元の資金や物品を確保することを優先し、自然保護の意義は理解しつつも、参加頻度を減らしたり、費用のかからない範囲の活動にとどめる。"
+        },
+        {
+          "id": "24",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 36,
+          "topic_id": "A-37",
+          "topic": "環境問題に関する署名や抗議活動への参加",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境問題に関する署名活動や抗議活動に参加することで、自然との調和や環境保全を優先し、多少の時間や費用がかかっても、環境を守る意思を示す。",
+          "sentence_2": "環境問題に関する署名活動や抗議活動には関心があっても、参加に伴う交通費や時間の負担を考えて、まずは自分の資産やお金を優先し、参加しない。"
+        },
+        {
+          "id": "25",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 37,
+          "topic_id": "A-38",
+          "topic": "環境保護団体への寄付",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "自分の可処分所得を削ってでも、環境保護団体へ寄付を行う。",
+          "sentence_2": "自分の可処分所得を削りたくないため、環境保護団体への寄付は行わない。"
+        },
+        {
+          "id": "26",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 38,
+          "topic_id": "A-39",
+          "topic": "環境問題に関する情報発信・共有",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境問題に関する情報を発信・共有する際、広告収入や閲覧数による利益よりも、自然との調和や環境保全を優先して、環境負荷の少ない方法で正確な情報をまとめ、SNSや地域の場で共有する。",
+          "sentence_2": "環境問題に関する情報を発信・共有する際、自然との調和や環境保全よりも、広告収入や閲覧数による利益を優先して、注目を集めやすい内容を中心にSNSや地域の場で共有する。"
+        }
+      ]
+    },
+    "2_hedonism": {
+      "records": [
+        {
+          "id": "27",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 0,
+          "topic_id": "A-1",
+          "topic": "製品包装の選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "包装が少なく自然に負荷の少ない簡易包装の製品は、見た目の華やかさや開封の楽しさは控えめでも、環境への配慮を優先してそちらを選ぶ。",
+          "sentence_2": "環境への配慮としては簡易包装の製品を選んだ方がよいが、見た目の華やかさや開封の楽しさを重視して、あえて装飾のある包装の製品を選ぶ。"
+        },
+        {
+          "id": "28",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 3,
+          "topic_id": "A-4",
+          "topic": "購買時の環境表示・認証の参照",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "購入時に、見た目の満足感や気分の高まりよりも、環境表示や認証マークを確認して、環境に配慮した商品を優先して選ぶ。",
+          "sentence_2": "購入時に、環境表示や認証マークの確認よりも、見た目の満足感や気分の高まりを優先して、気に入った商品を優先して選ぶ。"
+        },
+        {
+          "id": "29",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 4,
+          "topic_id": "A-5",
+          "topic": "製品の素材・原材料に関する選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "素材や原材料を選ぶときは、見た目や手触りの満足感よりも、自然に調和しやすく環境への負荷が少ない再生素材や植物由来素材を優先して選ぶ。",
+          "sentence_2": "素材や原材料を選ぶときは、環境への配慮よりも、使ったときの満足感や心地よさを重視して、手触りや質感のよい新素材や高級感のある原材料を選ぶ。"
+        },
+        {
+          "id": "30",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 6,
+          "topic_id": "A-7",
+          "topic": "マイボトルの利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "飲み物をその場で買ってすぐ楽しめる快適さよりも、環境保護の観点を優先して、外出先では使い捨て容器ではなくマイボトルを使う。",
+          "sentence_2": "環境保護の観点ではマイボトルを使う方がよいが、飲み物をその場で買ってすぐ楽しめる快適さを優先して、外出先では使い捨て容器の飲み物を選ぶ。"
+        },
+        {
+          "id": "31",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 8,
+          "topic_id": "A-9",
+          "topic": "衣類の購入・使用・処分",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "新しい服を買うと気分が上がるが、環境への負荷を抑えるために、流行の服よりも長く着られるものを選び、手持ちの服をできるだけ繰り返し着る。",
+          "sentence_2": "新しい服を買うと気分が上がるので、環境への負荷を抑えることよりも、流行の服を優先して購入し、手持ちの服はあまり着ずに新しい服を着る。"
+        },
+        {
+          "id": "32",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 9,
+          "topic_id": "A-10",
+          "topic": "製品の長期使用・修理",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "綺麗な新品を買うことはテンションが上がって嬉しいが、勿体無いのでなるべく長くものを使用して新品を買わないようにする。",
+          "sentence_2": "勿体無いのでなるべく長くものを使用して新品を買わないようにした方が良いが、テンションが上がって嬉しいので、綺麗な新品を買うようにする。"
+        },
+        {
+          "id": "33",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 10,
+          "topic_id": "A-11",
+          "topic": "製品・サービスの共有利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "共有サービスを使うと自分の好きなタイミングですぐ使えないことがあるが、環境に負荷をかけにくいと考えて、カーシェアやシェアサイクル、レンタル用品などをできるだけ利用する。",
+          "sentence_2": "環境に負荷をかけにくい共有利用の方がよいと分かっていても、自分の好きなタイミングですぐ使えて楽なことを優先して、車や自転車、日用品などはできるだけ自分で所有して使う。"
+        },
+        {
+          "id": "34",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 11,
+          "topic_id": "A-12",
+          "topic": "農作物の生産方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "農作物を選ぶとき、土や生態系への負荷が少ない方法で生産されたものを優先して選び、味や食感の好みよりも、環境に配慮した農作物を中心に買う。",
+          "sentence_2": "農作物を選ぶとき、土や生態系への負荷が少ない方法よりも、食べたときの満足感や好みを優先して、味や食感がより好みに合うものを中心に買う。"
+        },
+        {
+          "id": "35",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 12,
+          "topic_id": "A-13",
+          "topic": "水産物の生産・調達方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "水産物を選ぶとき、味や食べる楽しさよりも、資源管理や認証への配慮を優先して、脂ののった人気の魚や食べ慣れた種類よりも、資源管理がされている魚や認証マークのある水産物を選ぶ。",
+          "sentence_2": "水産物を選ぶとき、味や食べる楽しさを優先して、脂ののった人気の魚や食べ慣れた種類を選び、資源管理や認証への配慮よりも、食事の満足感を重視して調達する。"
+        },
+        {
+          "id": "36",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 13,
+          "topic_id": "A-14",
+          "topic": "食肉の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "食事の楽しさや満足感よりも、環境配慮の観点を優先して、外食や自炊では肉料理を控えめに選び、量も少なめにする。",
+          "sentence_2": "環境配慮の観点よりも、食事の楽しさや満足感を優先して、外食や自炊では肉料理を躊躇せずに選び、量も特に制限はしない。"
+        },
+        {
+          "id": "37",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 14,
+          "topic_id": "A-15",
+          "topic": "植物性食品の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "動物性の肉の方が美味しいと感じるが、環境配慮の観点から植物性の肉を選択して消費する。",
+          "sentence_2": "環境配慮の観点からは植物性の方が良いが、より美味しいと感じる動物性の肉を選択して選択する。"
+        },
+        {
+          "id": "38",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 15,
+          "topic_id": "A-16",
+          "topic": "食品ロスに関する行動",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "食べ残しを減らして食品ロスを抑えることを優先し、外食では食べ切れる量だけを注文したり、家庭でも作りすぎないようにして、満足感よりも環境への配慮を重視する。",
+          "sentence_2": "食べる楽しさや満足感を優先し、外食では食べたいものを十分に注文したり、家庭でも余裕をもって多めに用意して、食品ロスを減らすことよりも食事の楽しみを重視する。"
+        },
+        {
+          "id": "39",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 19,
+          "topic_id": "A-20",
+          "topic": "水の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "湯船に浸かったりシャワーを浴びる時間は気持ち良いが、節水のために、なるべくそれらの時間を減らす。",
+          "sentence_2": "節水のために頻度や時間を減らした方が良いが、気持ち良いため、なるべく頻繁に湯船に浸かったり長くシャワーを浴びる。"
+        },
+        {
+          "id": "40",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 20,
+          "topic_id": "A-21",
+          "topic": "電気の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "快適さよりも、環境のために過度な電力消費を避けることを優先し、電化製品の使用をなるべく控える。",
+          "sentence_2": "環境のために過度な電力消費を避けた方がよいが、快適さを優先して、電化製品は特にためらわずに使用する。"
+        },
+        {
+          "id": "41",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 21,
+          "topic_id": "A-22",
+          "topic": "ガスの使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "気持ちよさや快適さよりも、環境への負荷を抑えることを優先して、湯船や料理において、ガスの使用を控える。",
+          "sentence_2": "環境に負荷をかけないようにガスの使用は控えた方が良いが、気持ちよさや快適さを優先して、湯船や料理において、ガスを特にためらわずに使用する。"
+        },
+        {
+          "id": "42",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 23,
+          "topic_id": "A-24",
+          "topic": "冷暖房の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "冷暖房を使うと快適で心地よいが、環境への負荷を抑えるために、暑さ寒さを我慢して、冷暖房の使用をなるべく控える。",
+          "sentence_2": "環境への負荷を抑える方がよいという考えもあるが、冷暖房を使うと快適で心地よいため、暑さ寒さを避けることを優先して、設定温度を調整しながらできるだけ長く使う。"
+        },
+        {
+          "id": "43",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 24,
+          "topic_id": "A-25",
+          "topic": "住宅・家庭用設備のエネルギー性能に関する選択",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "快適さや使い心地の良さよりも、住宅の省エネ性や環境への負荷の少なさを重視して、断熱性や高効率機器の高い設備を選ぶ。",
+          "sentence_2": "住宅の省エネ性や環境への負荷の少なさよりも、快適さや使い心地の良さを重視して、より快適で便利だと感じる設備を選ぶ。"
+        },
+        {
+          "id": "44",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 26,
+          "topic_id": "A-27",
+          "topic": "航空機の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "航空機での移動における快適さや楽しさよりも、環境配慮の観点を優先して、航空機ではなく他の手段で移動を行う。",
+          "sentence_2": "他の手段の方が環境配慮の観点では良いが、快適さや楽しさを優先して、航空機での移動を選ぶ。"
+        },
+        {
+          "id": "45",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 27,
+          "topic_id": "A-28",
+          "topic": "自家用車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "運転の楽しさや快適さよりも、環境配慮の観点を優先して、できるだけ自家用車ではなく他の手段で移動する。",
+          "sentence_2": "環境配慮の観点では他の手段を利用した方が良いが、運転の楽しさや快適さを優先して、自家用車での移動を選ぶ。"
+        },
+        {
+          "id": "46",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 28,
+          "topic_id": "A-29",
+          "topic": "公共交通機関の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "電車やバスでの移動は、座ってゆったり過ごしたり好きな飲食を楽しんだりする自由が少ないと感じるが、自然との調和や環境保護を優先して、できるだけ公共交通機関を利用する。",
+          "sentence_2": "自然との調和や環境保護の観点からは公共交通機関を利用した方がよいが、移動中に座ってくつろいだり飲食や娯楽を楽しんだりする心地よさを優先して、できるだけ自家用車で移動する。"
+        },
+        {
+          "id": "47",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 29,
+          "topic_id": "A-30",
+          "topic": "自転車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "距離の長さ的には自家用車の方が快適さや楽さが大きいが、環境配慮の観点を優先して、自家用車などではなく自転車で移動する。",
+          "sentence_2": "環境配慮の観点では自転車で移動をした方が良いとも思うが、距離の長さ的には自家用車の方が快適さや楽さが大きいので、自転車ではなく自家用車で移動する。"
+        },
+        {
+          "id": "48",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 31,
+          "topic_id": "A-32",
+          "topic": "車両の環境性能に関する選択",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "車を買い替える際、運転の楽しさや快適さよりも、自然に調和し環境を守ることを優先して、燃費の良いハイブリッド車や電気自動車を選ぶ。",
+          "sentence_2": "車を買い替える際、燃費の良さや排出の少なさよりも、運転の楽しさや快適さを優先して、加速感や装備の充実したガソリン車を選ぶ。"
+        },
+        {
+          "id": "49",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 32,
+          "topic_id": "A-33",
+          "topic": "自然環境下でのレジャー活動",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "自然環境下でのレジャー活動では、楽しさや快適さよりも、自然環境への配慮を優先して行動を決める。",
+          "sentence_2": "自然環境下でのレジャー活動では、自然環境への配慮よりも、楽しさや快適さを優先して行動を決める。"
+        },
+        {
+          "id": "50",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 34,
+          "topic_id": "A-35",
+          "topic": "野生動植物との関わりに関する行動",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "野生動植物にできるだけ負担をかけないよう、自然公園や河川敷での散策では動植物に近づきすぎず、餌やりや採取も控えて、自然の中に溶け込むように静かに観察する。",
+          "sentence_2": "自然の中で見つけた野鳥や昆虫との出会いを楽しむため、散策中に写真を撮ったり、気に入った植物を少し採ったりして、自然を身近に感じながら過ごす。"
+        },
+        {
+          "id": "51",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 35,
+          "topic_id": "A-36",
+          "topic": "環境保護団体での活動",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "より楽しいと思う仲間との時間や他の余暇の楽しさよりも、環境配慮の観点を優先して、環境保護団体での活動に参加を優先する。",
+          "sentence_2": "環境配慮のために、環境保護団体での活動への参加も気になるが、より楽しいと思う仲間との時間や他の余暇の楽しさを優先して、無理に参加はしない。"
+        },
+        {
+          "id": "52",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 36,
+          "topic_id": "A-37",
+          "topic": "環境問題に関する署名や抗議活動への参加",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境問題に関する署名や抗議活動に参加することで、自然と調和して生き、環境を守ることを優先し、休日の外出や娯楽の時間を少し減らしてでも、署名活動やデモに参加する。",
+          "sentence_2": "環境問題に関する署名や抗議活動に参加することは自然を守るうえで大切だと感じるが、食事や遊びなどの楽しみを優先して、休日は署名や抗議活動には参加せず、普段どおりの娯楽を選ぶ。"
+        },
+        {
+          "id": "53",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 37,
+          "topic_id": "A-38",
+          "topic": "環境保護団体への寄付",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境保護団体への寄付について、欲しいものを買ったり余暇を楽しんだりする満足感を少し抑えてでも、自然に溶け込む暮らしや環境を守ることを重視し、毎月の収入の一部を日本の環境保護団体に寄付する。",
+          "sentence_2": "環境保護団体への寄付について、自然を守ることも大切だと考えつつも、食事や娯楽など日々の楽しみを優先して、寄付は無理のない範囲にとどめ、余ったお金を自分の楽しみに使う。"
+        },
+        {
+          "id": "54",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 38,
+          "topic_id": "A-39",
+          "topic": "環境問題に関する情報発信・共有",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境配慮の観点から、SNSなどにおいて、食事や趣味などの他のより好きな内容よりも、環境問題に関する情報を優先して発信・共有する",
+          "sentence_2": "環境配慮の観点もあるが、SNSなどにおいて、環境問題に関する情報よりも、食事や趣味などの他のより好きな内容を優先して発信・共有する。"
+        }
+      ]
+    },
+    "3_functionality_and_convenience": {
+      "records": [
+        {
+          "id": "55",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 0,
+          "topic_id": "A-1",
+          "topic": "製品包装の選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "製品包装を選ぶ際は、使い勝手や扱いやすさよりも、自然に調和しやすく環境を守ることを優先して、できるだけ簡素で再利用・再資源化しやすい包装の商品を選ぶ。",
+          "sentence_2": "製品包装を選ぶ際は、自然に調和しやすく環境を守ることよりも、使い勝手や扱いやすさを優先して、開封しやすく持ち運びやすい包装の商品を選ぶ。"
+        },
+        {
+          "id": "56",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 1,
+          "topic_id": "A-2",
+          "topic": "買物時の袋の利用",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "買い物の際、持ち運びのしやすさなどの利便性よりも、自然に調和し環境を守ることを優先して、店ではできるだけ袋を受け取らないようにする。",
+          "sentence_2": "買い物の際、自然に調和し環境を守ることよりも、持ち運びのしやすさなどの利便性を優先して、店で案内される袋を受け取り、買った物を入れて持ち帰る。"
+        },
+        {
+          "id": "57",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 2,
+          "topic_id": "A-3",
+          "topic": "詰め替え用製品の利用",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "詰め替え用製品は容器の入れ替えや補充に少し手間がかかり不便だが、容器ごみを減らして資源を大切にしたいので、洗剤やシャンプーは詰め替え用を選んで使う。",
+          "sentence_2": "詰め替え用製品は容器の入れ替えや補充に少し手間がかかり不便なので、使いやすく効率よく補充できることを重視して、洗剤やシャンプーは本体容器を買い替えながら使う。"
+        },
+        {
+          "id": "58",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 3,
+          "topic_id": "A-4",
+          "topic": "購買時の環境表示・認証の参照",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "自分にとっての機能や利便性よりも、環境表示や環境に関する認証の有無を優先して、製品を購入する。",
+          "sentence_2": "環境表示や環境に関する認証の有無よりも、自分にとっての機能や利便性を優先して、製品を購入する。"
+        },
+        {
+          "id": "59",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 4,
+          "topic_id": "A-5",
+          "topic": "製品の素材・原材料に関する選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "製品の素材や原材料を選ぶ際には、使い勝手や効率の良さよりも、自然に調和し、環境を保全できる素材であることを優先して、再生材や植物由来などの環境負荷の低い原材料を選ぶ。",
+          "sentence_2": "製品の素材や原材料を選ぶ際には、自然に調和し環境を保全できることよりも、使い勝手や効率の良さを優先して、耐久性や加工のしやすさなど機能面で扱いやすい一般的な原材料を選ぶ。"
+        },
+        {
+          "id": "60",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 5,
+          "topic_id": "A-6",
+          "topic": "割り箸の利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "洗い物の負担があり不便ではあるが、ゴミを出さないように家での食事では割り箸を使用せず、マイ箸を使用する。",
+          "sentence_2": "ゴミを出してしまうが、洗い物をする必要がなく便利なため、家での食事ではマイ箸ではなく割り箸を使用する。"
+        },
+        {
+          "id": "61",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 6,
+          "topic_id": "A-7",
+          "topic": "マイボトルの利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "持ち運びや洗浄の手間があっても、自然に負担をかけないように、外出時は使い捨てのペットボトルを買わずにマイボトルを持参して飲み物を入れて使う。",
+          "sentence_2": "自然への配慮よりも、手軽に飲み物を買えて使いやすいことを優先して、外出時はマイボトルを持ち歩かずにペットボトル飲料を購入して飲む。"
+        },
+        {
+          "id": "62",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 7,
+          "topic_id": "A-8",
+          "topic": "製品の再使用・譲渡",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "使わなくなった製品を、手間がかかり効率が悪くとも、できるだけ長く使ってもらえるように、地域の譲渡会やフリマアプリなどを利用して次の使い手に譲る。",
+          "sentence_2": "使わなくなった製品は、手間がかかり効率が悪いので、次の使い手に譲るよりも、手軽で効率的な方法で処分する。"
+        },
+        {
+          "id": "63",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 8,
+          "topic_id": "A-9",
+          "topic": "衣類の購入・使用・処分",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "衣類を買うときは、機能性や手入れのしやすさよりも、長く着られて環境への負荷が少ない素材や作りのものを選ぶ。",
+          "sentence_2": "衣類を買うときは、長く着られて環境への負荷が少ない素材や作りのものかどうかよりも、機能性や手入れのしやすさを優先して選ぶ。"
+        },
+        {
+          "id": "64",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 9,
+          "topic_id": "A-10",
+          "topic": "製品の長期使用・修理",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "機能や使い勝手の面では買い替えた方が早くて便利でも、まだ使える製品はできるだけ長く使い、故障したときも修理して使い続ける。",
+          "sentence_2": "環境への負担を減らすために長く使ったり修理したりするよりも、機能や使い勝手の面で効率がよく使いやすい方を優先して、必要に応じて新しい製品に買い替える。"
+        },
+        {
+          "id": "65",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 10,
+          "topic_id": "A-11",
+          "topic": "製品・サービスの共有利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "製品やサービスを利用する際は、使い勝手や効率の良さよりも、資源を無駄にしにくく自然への負荷を抑えやすいことを重視して、必要なときだけ地域のシェアサービスや共同利用の仕組みを選んで使う。",
+          "sentence_2": "製品やサービスを利用する際は、資源を無駄にしにくく自然への負荷を抑えやすいことよりも、使いやすさや効率の良さを重視して、共有利用サービスや共同利用の仕組みよりも、自分で購入して使うことを優先する。"
+        },
+        {
+          "id": "66",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 11,
+          "topic_id": "A-12",
+          "topic": "農作物の生産方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "農作物を選ぶ際は、収量や作業効率の良さよりも、土壌や生態系への負荷を抑えて自然に沿う栽培方法を優先し、化学肥料や農薬の使用をできるだけ控えたものを選ぶ。",
+          "sentence_2": "農作物を選ぶ際は、土壌や生態系への負荷を抑えることよりも、収量や作業効率の良さを優先し、安定して効率よく生産できる化学肥料や農薬を活用した栽培方法のものを選ぶ。"
+        },
+        {
+          "id": "67",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 12,
+          "topic_id": "A-13",
+          "topic": "水産物の生産・調達方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "養殖や認証付きの水産物よりも、自然の海や川の生態系にできるだけ負荷をかけないことを優先して、旬の時期に獲れた地元の天然魚を選んで購入する。",
+          "sentence_2": "天然魚よりも、必要な量を安定して入手しやすく調理や保存もしやすいことを優先して、養殖や認証付きの水産物を選んで購入する。"
+        },
+        {
+          "id": "68",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 15,
+          "topic_id": "A-16",
+          "topic": "食品ロスに関する行動",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "食品ロスを減らすことを優先し、買い物や調理の手間がかかっても、使いやすさや効率よりも、食材が余らないように1回の買い物で調整して購入する。",
+          "sentence_2": "食品ロスを減らすことよりも、買い物や調理の手間を減らして使いやすさや効率を優先し、食材が余らないように調整するよりも、1回の買い物で大量に食材を買うことを優先する。"
+        },
+        {
+          "id": "69",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 16,
+          "topic_id": "A-17",
+          "topic": "家庭ごみに関する行動",
+          "topic_subcategory_en": "Waste and Resource Circularity",
+          "topic_subcategory_ja": "廃棄物・資源循環",
+          "sentence_1": "家庭ごみを出す際は、分別や資源回収のルールに合わせて、手間がかかってもできるだけ細かく分別し、再資源化しやすい形で出す。",
+          "sentence_2": "家庭ごみを出す際は、分別の手間や出し方の細かさよりも、扱いやすさや効率のよさを優先して、まとめて処理しやすい形で出す。"
+        },
+        {
+          "id": "70",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 18,
+          "topic_id": "A-19",
+          "topic": "プラスチックごみに関する行動",
+          "topic_subcategory_en": "Waste and Resource Circularity",
+          "topic_subcategory_ja": "廃棄物・資源循環",
+          "sentence_1": "使い捨てのプラスチック製品は手軽で便利だが、プラスチックごみを減らして自然に負荷をかけないことを優先し、買い物や外出ではマイバッグや繰り返し使える容器を持参して、必要な場面でもできるだけ使い捨てのプラスチックを受け取らないようにする。",
+          "sentence_2": "プラスチックごみを減らして自然を守ることよりも、使いやすく効率的であることを優先し、買い物や外出では店でもらえる使い捨てのプラスチック製品をそのまま利用して、持ち運びや後片付けの手間を少なくする。"
+        },
+        {
+          "id": "71",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 19,
+          "topic_id": "A-20",
+          "topic": "水の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "水の使用では、使い勝手や効率の良さよりも、自然との調和や環境保全を優先して、食器洗いや手洗いの際に必要以上に水を流しっぱなしにせず、こまめに止めながら使う。",
+          "sentence_2": "水の使用では、自然との調和や環境保全よりも、使い勝手や効率の良さを優先して、食器洗いや手洗いの際に水を流しっぱなしにしてでも、手早く済ませる。"
+        },
+        {
+          "id": "72",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 20,
+          "topic_id": "A-21",
+          "topic": "電気の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "電気の使用では、部屋を使わない時間はこまめに照明や家電の電源を切り、手間がかかってでも環境への負荷を抑える使い方を優先する。",
+          "sentence_2": "電気の使用では、照明や家電を必要なときにすぐ使えるように待機状態やつけっぱなしを活用し、環境への負荷よりも手間を減らして使いやすさや効率を優先する。"
+        },
+        {
+          "id": "73",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 21,
+          "topic_id": "A-22",
+          "topic": "ガスの使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "ガスコンロの方が便利で効率も良いが、環境配慮の観点では電気の方が望ましいため、IHヒーターを使用して料理をする。",
+          "sentence_2": "環境配慮の観点では電気の方が望ましいが、ガスコンロの方が便利で効率も良いため、ガスコンロを使用して料理をする。"
+        },
+        {
+          "id": "74",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 22,
+          "topic_id": "A-23",
+          "topic": "太陽光発電の利用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "太陽光発電の導入では、使いやすさや効率の良さよりも、より環境配慮の観点で良いものを優先して選択・導入する。",
+          "sentence_2": "太陽光発電の導入では、より環境配慮の観点で良いものよりも、使いやすさや効率の良さを重視して選択・導入する。"
+        },
+        {
+          "id": "75",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 23,
+          "topic_id": "A-24",
+          "topic": "冷暖房の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "自分にとっての使いやすさや効率よりも、環境保全の観点を優先して、冷暖房は付けっぱなしにはせず必要なときだけ使用し、室温調整に手間をかけてでも環境に負荷をかけないようにする。",
+          "sentence_2": "環境保全の観点よりも、自分にとっての使いやすさや効率を優先して、冷暖房は付けっぱなしにするなどして、室温調整は手間をかけずに快適に過ごせるようにする。"
+        },
+        {
+          "id": "76",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 24,
+          "topic_id": "A-25",
+          "topic": "住宅・家庭用設備のエネルギー性能に関する選択",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "住宅や家庭用設備のエネルギー性能を選ぶとき、使い勝手や効率の面では少し手間がかかっても、自然との調和や環境保全を優先して、断熱性や省エネ性能の高い設備を選ぶ。",
+          "sentence_2": "住宅や家庭用設備のエネルギー性能を選ぶとき、自然との調和や環境保全よりも、使いやすさや効率の良さを優先して、操作が簡単で日常的に便利な設備を選ぶ。"
+        },
+        {
+          "id": "77",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 25,
+          "topic_id": "A-26",
+          "topic": "生活排水・水質への影響に関する行動",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "使いやすさや効率のよさよりも、生活排水が水質に与える影響を優先して、食器洗いでは泡立ちが悪くても環境負荷の少ない洗剤を選ぶ。",
+          "sentence_2": "生活排水が水質に与える影響よりも、使いやすさや効率のよさを優先して、食器洗いでは泡立ちがよく短時間で洗える洗剤を選ぶ。"
+        },
+        {
+          "id": "78",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 26,
+          "topic_id": "A-27",
+          "topic": "航空機の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "航空機の利用では、移動の効率や利便性よりも、環境配慮を優先して、できるだけ飛行機の利用を抑え、必要な場合も搭乗回数を抑えるようにする。",
+          "sentence_2": "航空機の利用では、環境配慮よりも、移動の効率や利便性を優先して、飛行機はためらわずに利用する。"
+        },
+        {
+          "id": "79",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 27,
+          "topic_id": "A-28",
+          "topic": "自家用車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "自家用車で移動する際、目的地までの所要時間や乗り換えの手間よりも、自然環境への負荷を抑えることを優先して、できるだけエコドライブを心がけ、必要なときだけ車を使う。",
+          "sentence_2": "自家用車で移動する際、自然環境への負荷を抑えることよりも、所要時間の短さや使いやすさを優先して、移動のたびに自家用車を使い、効率よく目的地へ向かう。"
+        },
+        {
+          "id": "80",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 28,
+          "topic_id": "A-29",
+          "topic": "公共交通機関の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "公共交通機関は乗り換えや待ち時間があって不便でも、環境への配慮を優先して、通勤や外出では他の手段ではなくできるだけ電車やバスを利用する。",
+          "sentence_2": "公共交通機関は環境への配慮に繋がるが、乗り換えや待ち時間があって不便なため、通勤や外出では電車やバスの利用よりも他の手段を優先する。"
+        },
+        {
+          "id": "81",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 29,
+          "topic_id": "A-30",
+          "topic": "自転車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "移動の際は、他の手段と比べて手間や時間がかかり不便であるが、環境配慮を優先して、他の手段ではなく自転車を選択する。",
+          "sentence_2": "移動の際は、環境配慮よりも、利便性や時間の節約を優先して、移動の際は自転車よりも他の手段を選択する。"
+        },
+        {
+          "id": "82",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 30,
+          "topic_id": "A-31",
+          "topic": "徒歩による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "移動の際は、他の手段と比べて手間や時間がかかり手間もかかってしまうが、環境配慮を優先して、他の手段ではなく徒歩を選択する。",
+          "sentence_2": "移動の際は、環境配慮よりも、手間の少なさや時間の節約を優先して、徒歩よりも他の手段を選択する。"
+        },
+        {
+          "id": "83",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 31,
+          "topic_id": "A-32",
+          "topic": "車両の環境性能に関する選択",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "車両を選ぶ際、走行性能や使い勝手の面ではやや不便でも、自然との調和や環境負荷の少なさを重視して、燃費性能や排出性能に配慮した車両を選ぶ。",
+          "sentence_2": "車両を選ぶ際、環境への配慮よりも、操作のしやすさや日常での使いやすさを重視して、走行性能や利便性の高い車両を選ぶ。"
+        },
+        {
+          "id": "84",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 34,
+          "topic_id": "A-35",
+          "topic": "野生動植物との関わりに関する行動",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "野生動植物にできるだけ負担をかけないよう、多少手間や時間がかかっても、散歩や登山では道を外れずに遠くから観察したり、必要以上に動植物に近づかないようにする。",
+          "sentence_2": "野生動植物にできるだけ負担をかけないことよりも、散歩や登山における手間や時間の考慮を優先して、道の選択や動植物への接近については柔軟に対応する。"
+        },
+        {
+          "id": "85",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 35,
+          "topic_id": "A-36",
+          "topic": "環境保護団体での活動",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境保護団体の活動では、作業の効率や使いやすさよりも、自然との調和や自然保全を優先して、移動や現地活動の際には徒歩や公共交通機関を中心にし、必要な物資もできるだけ自然に負荷の少ない方法で扱う。",
+          "sentence_2": "環境保護団体の活動では、自然との調和や自然保全よりも、作業の効率や使いやすさを優先して、移動や現地活動の際には車両や機材を活用し、必要な物資も扱いやすく効率的な方法で準備する。"
+        },
+        {
+          "id": "86",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 37,
+          "topic_id": "A-38",
+          "topic": "環境保護団体への寄付",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境保護団体への寄付では、手続きのしやすさや金額の手軽さよりも、環境配慮の観点を重視して、寄付の仕方が不便だとしても環境配慮活動の内容や理念への共感を優先して寄付する。",
+          "sentence_2": "環境保護団体への寄付では、環境配慮の観点よりも、手続きのしやすさや金額の手軽さを重視して、簡単に寄付できるかどうかを優先して団体を選んで寄付する。"
+        }
+      ]
+    },
+    "4_social_belonging": {
+      "records": [
+        {
+          "id": "87",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 0,
+          "topic_id": "A-1",
+          "topic": "製品包装の選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "家族や職場でまとめて使うために包装をそろえたいという意見があったが、環境への負荷を減らすため、必要最小限の簡易包装の商品を選ぶ。",
+          "sentence_2": "環境負荷の少ない簡易包装の商品も候補にあがったが、家族や職場で使う場面で周囲と同じ包装のほうが安心感があり、関係を保ちやすいので、従来の包装の商品を選ぶ。"
+        },
+        {
+          "id": "88",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 2,
+          "topic_id": "A-3",
+          "topic": "詰め替え用製品の利用",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "家族や友人と一緒に日用品を買う場面で、詰め替え用製品のほうが環境に配慮できると考え、周囲が通常品を選んでも詰め替え用製品を選ぶ。",
+          "sentence_2": "家族や友人と一緒に日用品を買う場面で、詰め替え用製品のほうが環境に配慮できると分かっていても、周囲が通常品を選ぶなら関係を大切にして通常品を選ぶ。"
+        },
+        {
+          "id": "89",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 4,
+          "topic_id": "A-5",
+          "topic": "製品の素材・原材料に関する選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "友人や家族と一緒に使う日用品を選ぶ場面で、周囲の人が慣れていて安心できる素材や原材料の製品よりも、環境に配慮した素材の製品を選ぶ。",
+          "sentence_2": "友人や家族と一緒に使う日用品を選ぶ場面で、環境に配慮した素材よりも、周囲の人が慣れていて安心できる素材や原材料の製品を選ぶ。"
+        },
+        {
+          "id": "90",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 5,
+          "topic_id": "A-6",
+          "topic": "割り箸の利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "職場や地域の集まりで割り箸が配られたが、周囲との一体感や相手への気遣いを大切にしたいと思いつつも、使い捨てを避けるために自分の箸を使う。",
+          "sentence_2": "職場や地域の集まりで割り箸が配られたが、周囲との一体感や相手への気遣いを大切にして、配られた割り箸をそのまま使う。"
+        },
+        {
+          "id": "91",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 6,
+          "topic_id": "A-7",
+          "topic": "マイボトルの利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "友人や職場の集まりに参加する際、周囲と同じように飲み物を受け取りやすくするという気持ちがあるが、環境に配慮するためマイボトルを利用する。",
+          "sentence_2": "友人や職場の集まりに参加する際、マイボトルの利用が環境に配慮した行動だと分かっていても、周囲と同じように飲み物を受け取りやすくするために、用意された紙コップやペットボトルを使う。"
+        },
+        {
+          "id": "92",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 8,
+          "topic_id": "A-9",
+          "topic": "衣類の購入・使用・処分",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "友人や家族と一緒に服を買う場面で、周囲と同じような服を選んで一緒に着ることや、勧められた服を買うことよりも、長く着られて環境負荷の少ない素材や古着を選ぶ。",
+          "sentence_2": "友人や家族と一緒に服を買う場面で、環境負荷の少ない素材や古着も候補に上がるが、周囲と同じような服を選んで一緒に着ることや、勧められた服を買うことを優先する。"
+        },
+        {
+          "id": "93",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 9,
+          "topic_id": "A-10",
+          "topic": "製品の長期使用・修理",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "家族や友人からはもう買い替えた方が良いと言われたが、製品を長く使って資源を大切にしたいので、故障した家電は修理して使い続ける。",
+          "sentence_2": "製品を長く使って資源を大切にしたい気持ちもあるが、家族や友人からはもう買い替えた方が良いと言われたので、故障した家電は修理せずに買い替える。"
+        },
+        {
+          "id": "94",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 10,
+          "topic_id": "A-11",
+          "topic": "製品・サービスの共有利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "友人や家族と日用品を共同で使う場面で、みんなが使い慣れたものをそのまま共有する案もあったが、自然に負担の少ない詰め替え式や長く使えるものを選び、共有のしかたも環境に配慮した形に整える。",
+          "sentence_2": "友人や家族と日用品を共同で使う場面で、自然に負担の少ない詰め替え式や長く使えるものを選ぶ案もあったが、みんなが使い慣れたものをそのまま共有することで、関係を保ちやすい形を優先する。"
+        },
+        {
+          "id": "95",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 11,
+          "topic_id": "A-12",
+          "topic": "農作物の生産方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "地域の農家仲間や家族から慣れた方法を勧められても、土壌や生態系への負荷が少ない有機栽培や減農薬栽培を選び、自然にできるだけ沿う形で作物を育てる。",
+          "sentence_2": "土壌や生態系への負荷が少ない有機栽培や減農薬栽培も選択肢にあったが、地域の農家仲間や家族とのつながりを大切にし、これまで周囲と同じ慣行栽培を続ける。"
+        },
+        {
+          "id": "96",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 12,
+          "topic_id": "A-13",
+          "topic": "水産物の生産・調達方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "地域の人や家族と相談して水産物を選ぶ場面で、関係を大切にするため勧められたものを買いたい気持ちもあるが、養殖や漁獲の方法が環境に配慮されている産品を優先する。",
+          "sentence_2": "地域の人や家族と相談して水産物を選ぶ場面で、養殖や漁獲の方法がより環境に配慮されている商品もあるが、関係を大切にするため勧められたものを買う。"
+        },
+        {
+          "id": "97",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 13,
+          "topic_id": "A-14",
+          "topic": "食肉の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "家族や友人との食事会で肉料理が定番として期待されていたが、環境に配慮して、肉の量を減らした献立や植物性の料理を中心に選ぶ。",
+          "sentence_2": "家族や友人との食事会で、環境に配慮して肉の量を減らした献立や植物性の料理も選択肢に上がったが、定番として期待されている肉料理を中心に選ぶ。"
+        },
+        {
+          "id": "98",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 14,
+          "topic_id": "A-15",
+          "topic": "植物性食品の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "家族や友人との食事で、関係を大切にするため勧められたものを選びたい気持ちもあるが、環境への負荷を減らして自然に配慮することを優先し、植物性食品を選ぶ。",
+          "sentence_2": "家族や友人との食事で、植物性食品を中心にしたメニューも選べる場面だったが、周囲との一体感や親しい人との関係を大切にし、みんなと同じような食事を選ぶ。"
+        },
+        {
+          "id": "99",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 15,
+          "topic_id": "A-16",
+          "topic": "食品ロスに関する行動",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "家族や友人との食事で、食べきれない量を勧められても、食品ロスを減らすために無理に追加注文や大盛りをせず、残さず食べられる分だけを選ぶ。",
+          "sentence_2": "家族や友人との食事で、食品ロスを減らすためには控えめに注文する方がよいと分かっていても、場の一体感や相手への気遣いを優先して、勧められた分を受け入れて追加注文や大盛りにする。"
+        },
+        {
+          "id": "100",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 19,
+          "topic_id": "A-20",
+          "topic": "水の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "家族や友人と一緒に使う洗面や食器洗いでは、みんなが気兼ねなく使えるようにしたい気持ちもあるが、水の節約を優先して、水を流しっぱなしにせずこまめに止めて使う。",
+          "sentence_2": "家族や友人と一緒に使う洗面や食器洗いでは、水の節約よりも、みんなが気兼ねなく使えるようにしたい気持ちを優先して、水を流しっぱなしにして使う。"
+        },
+        {
+          "id": "101",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 20,
+          "topic_id": "A-21",
+          "topic": "電気の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "家族や同僚から、在宅中は部屋を明るくしておいてほしいと求められたが、使っていない部屋の照明はこまめに消し、必要な場所だけ点ける。",
+          "sentence_2": "使っていない部屋の照明はこまめに消したほうがよいと分かっていても、家族や同僚が部屋を明るくしておいてほしいと求めたため、必要な場所だけに絞らず照明を点けておく。"
+        },
+        {
+          "id": "102",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 23,
+          "topic_id": "A-24",
+          "topic": "冷暖房の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "外出時も冷房をつけたままにし、帰宅時の涼しさを保ちたいと友人が希望したが、外出時は冷房を消す。",
+          "sentence_2": "外出時も冷房をつけたままにし、帰宅時の涼しさを保ちたいと友人が希望したため、外出時も冷房をつけたままにする。"
+        },
+        {
+          "id": "103",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 24,
+          "topic_id": "A-25",
+          "topic": "住宅・家庭用設備のエネルギー性能に関する選択",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "家族や同居人が使い慣れた機器を勧めたが、住まいの省エネ性能を重視して、断熱性や高効率設備の高い住宅設備を選ぶ。",
+          "sentence_2": "住まいの省エネ性能の高い設備も候補に上がったが、家族や同居人との使い勝手や安心感を重視して、これまでと同じように使える住宅設備を選ぶ。"
+        },
+        {
+          "id": "104",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 26,
+          "topic_id": "A-27",
+          "topic": "航空機の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "仲間との旅行で、航空機での移動が最も楽だという意見が出たが、環境配慮の観点から、他の交通手段で移動することにする。",
+          "sentence_2": "仲間との旅行で、航空機での移動が最も楽だという意見が出たため、環境配慮の観点では他の交通手段の方が望ましいが、航空機で移動することにする。"
+        },
+        {
+          "id": "105",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 27,
+          "topic_id": "A-28",
+          "topic": "自家用車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "家族や友人との集まりで移動が必要になったが、自家用車で自由に過ごしながら移動したいという希望もあったが、環境への負荷を抑えるため他の手段を利用して移動する。",
+          "sentence_2": "家族や友人との集まりで移動が必要になったが、環境への負荷を抑えるため他の手段を利用することは望ましいと分かっていても、自家用車で自由に過ごしながら移動したいという希望を優先して、自家用車で移動する。"
+        },
+        {
+          "id": "106",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 28,
+          "topic_id": "A-29",
+          "topic": "公共交通機関の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "友人や同僚と一緒に移動する場面で、自家用車などの手段を使用したいという声もあったが、環境配慮のために電車やバスなどの公共交通機関を利用して移動する。",
+          "sentence_2": "友人や同僚と一緒に移動する場面で、環境配慮のために電車やバスなどの公共交通機関を利用して移動することは望ましいと分かっていても、自家用車などの手段を使用したいという声を優先する。"
+        },
+        {
+          "id": "107",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 29,
+          "topic_id": "A-30",
+          "topic": "自転車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "友人や家族と近所へ移動する際、自家用車で移動したいという希望もあったが、環境への負荷を抑えるために自転車で移動する。",
+          "sentence_2": "友人や家族と近所へ移動する際、環境への負荷を抑えるために自転車で移動することは望ましいと分かっていても、自家用車で移動したいという希望を優先して、自家用車で移動する。"
+        },
+        {
+          "id": "108",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 30,
+          "topic_id": "A-31",
+          "topic": "徒歩による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "友人や家族と一緒に出かける際、自家用車や公共交通機関を使用したいという希望もあったが、環境への負荷を抑えるために徒歩で移動する。",
+          "sentence_2": "友人や家族と一緒に出かける際、環境への負荷を抑えるために徒歩で移動することは望ましいと分かっていても、自家用車や公共交通機関を使用したいという希望を優先する。"
+        },
+        {
+          "id": "109",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 31,
+          "topic_id": "A-32",
+          "topic": "車両の環境性能に関する選択",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "家族や周囲からは燃費よりも見た目や乗り心地を重視した車を勧められたが、自然に負荷の少ない車両を選ぶ。",
+          "sentence_2": "家族や周囲からは燃費よりも見た目や乗り心地を重視した車を勧められたため、環境性能の高い車も候補にあったが、周囲との関係や期待を大切にして勧められた車を選ぶ。"
+        },
+        {
+          "id": "110",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 32,
+          "topic_id": "A-33",
+          "topic": "自然環境下でのレジャー活動",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "団体で毎年行っている旅行で、例年実施しており参加者から期待されているプランではなく、新たにエコツーリズムのプランを選ぶ。",
+          "sentence_2": "団体で毎年行っている旅行で、エコツーリズムのプランも選択肢に上がったが、例年実施しており参加者から期待されているプランを選ぶ。"
+        },
+        {
+          "id": "111",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 33,
+          "topic_id": "A-34",
+          "topic": "自然環境の保全活動への参加",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "地域の自然保全ボランティアで、仲間からはいつもの清掃活動に参加してほしいと言われたが、植生の保護などの環境配慮のための活動を優先する。",
+          "sentence_2": "地域の自然保全ボランティアで、植生の保護などの環境配慮のための活動を優先したい気持ちもあるが、仲間からの要望もあり、いつもの清掃活動に参加する。"
+        },
+        {
+          "id": "112",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 34,
+          "topic_id": "A-35",
+          "topic": "野生動植物との関わりに関する行動",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "友人や家族と公園を散歩しているとき、野鳥に近づいて写真を撮りたいという声があっても、自然の中での距離を保つことを優先して、静かに観察するだけにする。",
+          "sentence_2": "友人や家族と公園を散歩しているとき、野鳥に近づいて写真を撮りたいという声があったため、周囲との一体感やその場の雰囲気を大切にして、少し近づいて観察や撮影をする。"
+        },
+        {
+          "id": "113",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 35,
+          "topic_id": "A-36",
+          "topic": "環境保護団体での活動",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境保護団体の定例活動で、仲間からはこれまで通りのやり方で参加してほしいと言われたが、自然に負荷の少ない方法で活動できるよう、作業手順や移動方法を見直して参加する。",
+          "sentence_2": "環境保護団体の定例活動で、自然に負荷の少ない方法も提案されたが、仲間とのつながりや所属感を大切にして、これまで通りのやり方で参加する。"
+        }
+      ]
+    },
+    "5_social_reputation": {
+      "records": [
+        {
+          "id": "114",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 0,
+          "topic_id": "A-1",
+          "topic": "製品包装の選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "周囲から包装に対して特に目立たないと思われるかは気になるが、製品包装を選ぶ際は、見た目よりも自然に近い素材や過剰でない包装を優先して選ぶ。",
+          "sentence_2": "周囲から包装に対してきちんとしていると思われるかが気になるため、製品包装を選ぶ際は、自然素材や簡素さよりも、見栄えがよく整って見える包装を優先して選ぶ。"
+        },
+        {
+          "id": "115",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 4,
+          "topic_id": "A-5",
+          "topic": "製品の素材・原材料に関する選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "周囲からの見え方よりも、環境に負荷の少ない素材や再生材を優先して、製品を選ぶ際はできるだけ環境への影響が小さい原材料のものを選ぶ。",
+          "sentence_2": "環境への影響も気になるが、周囲からの評価や印象をより意識して、製品を選ぶ際は見た目や評判がよく、安心感のある素材や原材料のものを選ぶ。"
+        },
+        {
+          "id": "116",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 5,
+          "topic_id": "A-6",
+          "topic": "割り箸の利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "周囲から割り箸を使わないと気を使いすぎだと思われるかもしれないが、食事の場ではできるだけ自分の箸を持参するか、店の再利用可能な箸を選び、使い捨ての割り箸は避ける。",
+          "sentence_2": "周囲から割り箸を使わないと気を使いすぎだと思われるかもしれないため、食事の場では周囲に合わせて割り箸をためらわずに使い、特に気にせず受け取る。"
+        },
+        {
+          "id": "117",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 6,
+          "topic_id": "A-7",
+          "topic": "マイボトルの利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "周囲から気を使いすぎと思われる可能性があっても、環境への負荷を減らすために、外出時はマイボトルを持参し、必要に応じて店頭の使い捨て容器を避けて飲み物を入れる。",
+          "sentence_2": "周囲から気を使いすぎと思われる可能性があるため、環境への負荷はあるかもしれないが、外出時は周囲に合わせてマイボトルを持参せず、店頭の使い捨て容器も受け入れて飲み物を入れる。"
+        },
+        {
+          "id": "118",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 7,
+          "topic_id": "A-8",
+          "topic": "製品の再使用・譲渡",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "周囲からどう思われるかは気にせず、製品を購入する際は、新品ではなく中古品を選ぶようにする。",
+          "sentence_2": "周囲からどう思われるかが気になるため、製品を購入する際は、中古品ではなく新品を選ぶようにする。"
+        },
+        {
+          "id": "119",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 8,
+          "topic_id": "A-9",
+          "topic": "衣類の購入・使用・処分",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "周囲から服装に気を使っていないと思われる可能性があっても、衣類を買うときは見た目や流行よりも、長く着られるものや素材に配慮したものを選ぶ。",
+          "sentence_2": "周囲からきちんとして見られたい気持ちを優先して、衣類を買うときは長く着られるものや素材に配慮したものよりも、見た目や流行を重視して選ぶ。"
+        },
+        {
+          "id": "120",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 9,
+          "topic_id": "A-10",
+          "topic": "製品の長期使用・修理",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "周囲から新しいものに替えないのかと思われるかもしれないが、まだ使える製品はできるだけ長く使い、故障したときは買い替えよりも修理を選ぶ。",
+          "sentence_2": "周囲から新しいものに替えないのかと思われるかもしれないため、まだ使える製品も、周囲からの評価や評判を意識して、故障したときは買い替えを選ぶ。"
+        },
+        {
+          "id": "121",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 10,
+          "topic_id": "A-11",
+          "topic": "製品・サービスの共有利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "周囲からの目線が気になるが、環境配慮の観点から、製品やサービスを利用する際は、できるだけ購入や個別利用を避け、地域のシェアサービスや共同利用を選ぶ。",
+          "sentence_2": "環境配慮の観点では購入や個別利用を避けることが望ましいと分かっていても、周囲からの目線が気になるので、製品やサービスを利用する際は、地域のシェアサービスや共同利用よりも購入や個別利用を選ぶ。"
+        },
+        {
+          "id": "122",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 11,
+          "topic_id": "A-12",
+          "topic": "農作物の生産方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "周囲から気を使いすぎだと思われるかもしれないが、農作物の生産方法を選ぶ際は、一般的な化学肥料や農薬の使用をできるだけ抑え、土や生態系への負荷を減らす栽培方法を優先する。",
+          "sentence_2": "周囲から気を使いすぎだと思われるかもしれないので、農作物の生産方法を選ぶ際は、土や生態系への負荷を減らす栽培方法よりも、一般的な化学肥料や農薬を使用した栽培方法を優先する。"
+        },
+        {
+          "id": "123",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 12,
+          "topic_id": "A-13",
+          "topic": "水産物の生産・調達方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "周囲から気を使いすぎだと思われるかもしれないが、魚を選ぶときは、他の通常品よりも、できるだけ資源管理や環境負荷に配慮した方法で生産・調達された水産物を優先して購入する。",
+          "sentence_2": "周囲から気を使いすぎだと思われるかもしれないので、魚を選ぶときは、資源管理や環境負荷に配慮した方法で生産・調達された水産物よりも、他の通常品を優先して購入する。"
+        },
+        {
+          "id": "124",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 13,
+          "topic_id": "A-14",
+          "topic": "食肉の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "周囲から肉を控えると少し気にされるかもしれないが、食事の場ではできるだけ肉料理を避け、野菜や豆類を中心に選んで、自然との調和や環境保全を優先する。",
+          "sentence_2": "周囲から肉を食べないと気にされるかもしれないため、食事の場では周囲に合わせて肉料理を選び、野菜や豆類を中心に選ぶことは控え、場の印象を損ねないようにする。"
+        },
+        {
+          "id": "125",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 14,
+          "topic_id": "A-15",
+          "topic": "植物性食品の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "周囲からの見られ方は気になるが、植物性食品を選ぶときは、食事の場でもできるだけ豆腐や大豆ミート、野菜中心のメニューを選び、環境に負荷をかけにくい食べ方を優先する。",
+          "sentence_2": "周囲からの見られ方が気になるため、植物性食品だけに偏って見られないよう、食事の場では肉や魚を含む一般的なメニューも選び、周囲に合わせた食べ方を優先する。"
+        },
+        {
+          "id": "126",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 17,
+          "topic_id": "A-18",
+          "topic": "リサイクル行動",
+          "topic_subcategory_en": "Waste and Resource Circularity",
+          "topic_subcategory_ja": "廃棄物・資源循環",
+          "sentence_1": "周囲から気を使いすぎだと思われることはあるが、家庭ごみは自治体の分別ルールに沿って詳細に分け、資源として回収できるものは必ずリサイクルに出す。",
+          "sentence_2": "周囲から気を使いすぎだと思われることがあるため、家庭ごみは大まかに分け、資源として回収できるものもほどほどにリサイクルに出す。"
+        },
+        {
+          "id": "127",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 18,
+          "topic_id": "A-19",
+          "topic": "プラスチックごみに関する行動",
+          "topic_subcategory_en": "Waste and Resource Circularity",
+          "topic_subcategory_ja": "廃棄物・資源循環",
+          "sentence_1": "周囲からの見え方は気になるが、プラスチックごみを減らして自然に負担をかけないことを優先し、買い物ではマイバッグやマイボトルを使い、使い捨てのプラスチック製品はできるだけ断る。",
+          "sentence_2": "周囲からの評価や体裁は気になるため、プラスチックごみへの配慮よりも場の印象を優先し、外出先や人前では使い捨てのプラスチック製品をためらわずに受け取り、必要に応じて使う。"
+        },
+        {
+          "id": "128",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 19,
+          "topic_id": "A-20",
+          "topic": "水の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "周囲からは少し気を遣いすぎると思われるかもしれないが、水の使用をできるだけ抑えるため、洗面や食器洗いではこまめに蛇口を止め、必要以上に水を流さないようにする。",
+          "sentence_2": "周囲からは少し気を遣いすぎると思われるかもしれないので、水の使用は必要以上に抑えず、洗面や食器洗いでは節水に拘りすぎないようにする。"
+        },
+        {
+          "id": "129",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 20,
+          "topic_id": "A-21",
+          "topic": "電気の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "周囲からの評価や立場を気にする場面でも、電気の使用はできるだけ抑え、使っていない部屋の照明を消したり、待機電力を減らすためにこまめに電源を切ったりして、自然に負担をかけない使い方を優先する。",
+          "sentence_2": "周囲からの評価や立場を気にする場面では、電気の使用はあまり控えず、来客時や人目のある場面でも照明や家電を必要以上に我慢せず使い、きちんとして見えることや周囲に安心感を与えることを優先する。"
+        },
+        {
+          "id": "130",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 21,
+          "topic_id": "A-22",
+          "topic": "ガスの使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "周囲から「少し気を使いすぎ」と思われる可能性があっても、ガスコンロの使用をできるだけ控え、調理は電子レンジや電気調理器を中心にして、ガスの使用量を減らす。",
+          "sentence_2": "周囲から「きちんとしている」と見られたい気持ちを優先して、料理の仕上がりや手際を重視し、ガスコンロをためらわずに使って調理する。"
+        },
+        {
+          "id": "131",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 23,
+          "topic_id": "A-24",
+          "topic": "冷暖房の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "周囲からどう思われるかは気になるが、人を招いた際でも、家や車内などでは可能な限り冷暖房の使用を控える。",
+          "sentence_2": "周囲からどう思われるかが気になるため、人を招いた際は、家や車内などで冷暖房をためらわずに使用する。"
+        },
+        {
+          "id": "132",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 24,
+          "topic_id": "A-25",
+          "topic": "住宅・家庭用設備のエネルギー性能に関する選択",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "周囲からの見栄えでの評価や評判は気になるが、住まいの環境負荷を抑えることを優先し、住宅や家庭用設備を選ぶ際は、断熱性や省エネ性能の高い機器を比較して選ぶ。",
+          "sentence_2": "住まい選びでは周囲からの見栄えでの評価や評判を優先し、住宅や家庭用設備を選ぶ際は、断熱性や省エネ性能よりも、見た目がよく整っている機器を比較して選ぶ。"
+        },
+        {
+          "id": "133",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 26,
+          "topic_id": "A-27",
+          "topic": "航空機の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "周囲からは出張や旅行で飛行機を使うほうが無難だと思われることがあっても、航空機の利用はできるだけ控え、必要な移動でも他の手段を優先して、移動による環境負荷を減らす。",
+          "sentence_2": "周囲からは出張や旅行で飛行機を使うほうが無難だと思われるため、移動による環境負荷を特に考慮せずに、他の手段ではなく飛行機を選ぶ。"
+        },
+        {
+          "id": "134",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 27,
+          "topic_id": "A-28",
+          "topic": "自家用車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "周囲から気を使いすぎだと思われたくないが、移動の際はできるだけ自家用車の使用を控え、徒歩や公共交通機関を優先して、環境に負担をかけにくい移動手段を選ぶ。",
+          "sentence_2": "周囲から気を使いすぎだと思われたくないので、環境に負担をかけにくい移動手段を特に考慮せず、移動の際は自家用車の使用を躊躇しない。"
+        },
+        {
+          "id": "135",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 28,
+          "topic_id": "A-29",
+          "topic": "公共交通機関の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "周囲から気を使いすぎだと思われれるかもしれないが、移動の際はできるだけ公共交通機関を利用し、環境に配慮した行動を優先して、自家用車やタクシーの使用は控える。",
+          "sentence_2": "周囲から気を使いすぎだと思われるかもしれないので、移動の際は無理に公共交通機関を利用するのでなく、自家用車やタクシーの使用を躊躇しない。"
+        },
+        {
+          "id": "136",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 29,
+          "topic_id": "A-30",
+          "topic": "自転車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "周囲から気を使いすぎだと思われるかもしれないが、環境配慮を意識して、移動の際はできるだけ自転車を利用し、近距離の外出や通勤でも自転車を選ぶ。",
+          "sentence_2": "周囲から気を使いすぎだと思われるかもしれないので、移動の際は無理に自転車を利用するのではなく、近距離の外出や通勤でも自家用車や公共交通機関の選択を躊躇しない。"
+        },
+        {
+          "id": "137",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 30,
+          "topic_id": "A-31",
+          "topic": "徒歩による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "周囲から気を使いすぎだと思われるかもしれないが、環境への負荷を抑えることを意識して、移動の際はできるだけ徒歩で移動し、近距離の外出や通勤でも歩くことを選ぶ。",
+          "sentence_2": "周囲から気を使いすぎだと思われるかもしれないので、移動の際は無理に徒歩で移動するのではなく、近距離の外出や通勤でも自家用車や公共交通機関の選択を躊躇しない。"
+        },
+        {
+          "id": "138",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 31,
+          "topic_id": "A-32",
+          "topic": "車両の環境性能に関する選択",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "周囲からの見た目や評価も重視したいが、車両を選ぶ際は、燃費や排出ガス性能を重視して、評判のよい車種よりも、できるだけ環境負荷の少ないハイブリッド車や電気自動車を選ぶ。",
+          "sentence_2": "車両を選ぶ際は、燃費や排出ガス性能よりも見た目や周囲の評価を重視して、できるだけ環境負荷の少ないハイブリッド車や電気自動車ではなく、評判のよい車種を選ぶ。"
+        },
+        {
+          "id": "139",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 32,
+          "topic_id": "A-33",
+          "topic": "自然環境下でのレジャー活動",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "周囲から少し気を遣いすぎていると思われることがあっても、自然の中でのレジャーでは、周囲の人の印象や場の雰囲気よりも、自然環境に負荷をかけないことを最優先で行動を選ぶ。",
+          "sentence_2": "周囲から少し気を遣いすぎていると思われることを避けるため、自然の中でのレジャーでは、自然環境に負荷をかけないことよりも、周囲の人の印象や場の雰囲気を優先して行動を選ぶ。"
+        },
+        {
+          "id": "140",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 35,
+          "topic_id": "A-36",
+          "topic": "環境保護団体での活動",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "周囲から少し意識が高すぎると思われるかもしれないが、環境配慮のために、精力的に環境保護団体の活動に参加する。",
+          "sentence_2": "周囲からの評価や評判を気にして、環境配慮を意識しつつも、無難に見えることを優先して、環境保護団体の活動への参加は必要以上に行わない。"
+        },
+        {
+          "id": "141",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 36,
+          "topic_id": "A-37",
+          "topic": "環境問題に関する署名や抗議活動への参加",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "周囲からは少し目立つと思われるかもしれないが、環境問題に関する署名や抗議活動には、自然を守ることを優先して、内容を確認したうえで積極的に参加する。",
+          "sentence_2": "周囲からの評価や評判を気にして、環境問題に関する署名や抗議活動には、自然を守ることよりも、無難に見られることを優先して参加を控える。"
+        },
+        {
+          "id": "142",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 37,
+          "topic_id": "A-38",
+          "topic": "環境保護団体への寄付",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境への配慮を意識して、寄付先は活動内容や実績を確認したうえで環境保護団体を選び、たとえ見えにくい形でも環境配慮のための寄付を行う。",
+          "sentence_2": "環境への配慮も意識するが、寄付先は周囲からの評価や評判を気にして、環境保護団体への寄付は必要以上に行わず無難な団体を選ぶ。"
+        },
+        {
+          "id": "143",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 38,
+          "topic_id": "A-39",
+          "topic": "環境問題に関する情報発信・共有",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "周囲から主張が強いと距離を置かれる可能性があるが、環境問題に関する情報の発信・共有を積極的に行う。",
+          "sentence_2": "周囲から主張が強いと距離を置かれる可能性があるため、環境問題に関する情報の発信・共有は避ける。"
+        }
+      ]
+    },
+    "6_social_order_and_norms": {
+      "records": [
+        {
+          "id": "144",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 0,
+          "topic_id": "A-1",
+          "topic": "製品包装の選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "捨てられる可能性が高いため、贈り物には必要以上の包装は行わない。",
+          "sentence_2": "捨てられる可能性が高いが、贈り物には非常に丁寧な包装を行う。"
+        },
+        {
+          "id": "145",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 3,
+          "topic_id": "A-4",
+          "topic": "購買時の環境表示・認証の参照",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "商品の購入時には、これまで選んできたものかどうかよりも、商品に付された環境表示や認証を確認し、環境への負荷が少ないと示されるものを優先して選ぶ。",
+          "sentence_2": "商品の購入時には、これまで選んできたものかどうかを優先し、商品に付された環境表示や認証はあまり気にせず、従来のものを選ぶ。"
+        },
+        {
+          "id": "146",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 4,
+          "topic_id": "A-5",
+          "topic": "製品の素材・原材料に関する選択",
+          "topic_subcategory_en": "Consumption and Purchasing",
+          "topic_subcategory_ja": "消費・購買",
+          "sentence_1": "地域の慣習に合う範囲で、製品の素材はできるだけ再生素材や植物由来素材を選び、従来の素材にこだわらず、自然に負荷の少ない原材料を優先して購入する。",
+          "sentence_2": "製品の素材は、地域で長く使われてきた慣れ親しんだ原材料を優先し、再生素材や植物由来などの自然に負荷の少ない素材があっても、従来の素材や定番の原材料を選んで購入する。"
+        },
+        {
+          "id": "147",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 5,
+          "topic_id": "A-6",
+          "topic": "割り箸の利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "割り箸は使い捨てで資源の無駄につながると考え、飲食店や持ち帰りの場面では、社会的な慣習よりも環境への配慮を優先して、できるだけ自分の箸を持参する。",
+          "sentence_2": "割り箸は日本の食事の場で広く受け入れられているため、環境への配慮も意識しつつ、社会的な秩序や慣習を優先して、飲食店や持ち帰りの場面では割り箸を受け取り、通常どおり使うようにする。"
+        },
+        {
+          "id": "148",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 6,
+          "topic_id": "A-7",
+          "topic": "マイボトルの利用",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "職場や学校で飲み物を持参する際は、使い捨て容器を避けてマイボトルを使い、周囲の慣習よりもごみを減らして自然に負荷をかけないことを優先する。",
+          "sentence_2": "職場や学校で飲み物を持参する際は、周囲が使い捨て容器を使う場面ではそれに合わせてマイボトルの使用を控え、自然への配慮はありつつも場の秩序や慣習を優先する。"
+        },
+        {
+          "id": "149",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 8,
+          "topic_id": "A-9",
+          "topic": "衣類の購入・使用・処分",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "衣類を買うときは、周囲との調和や場に相応しい装いよりも、環境への配慮を重視して、できるだけ長く使える衣類を選ぶ。",
+          "sentence_2": "衣類を買うときは、環境への配慮よりも、周囲との調和や場にふさわしい装いを重視して、定番の服や慣れ親しまれた衣類を選ぶ。"
+        },
+        {
+          "id": "150",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 9,
+          "topic_id": "A-10",
+          "topic": "製品の長期使用・修理",
+          "topic_subcategory_en": "Product Use and Circularity",
+          "topic_subcategory_ja": "製品の利用・循環",
+          "sentence_1": "修理して長く使える製品であれば、昔からの買い替えの習慣よりも、資源を無駄にしないことを重視して、できるだけ修理して使い続ける。",
+          "sentence_2": "修理して長く使える製品であっても、資源を無駄にしないことを重視しつつも、買い替えの習慣や周囲との調和を優先して、必要な時期には新しい製品に替える。"
+        },
+        {
+          "id": "151",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 11,
+          "topic_id": "A-12",
+          "topic": "農作物の生産方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "地域の名産であり伝統的な手法で生産されている農産物であっても、その生産方法が環境に悪影響を及ぼしているため購入せず、他の地域でより環境に配慮した手法にて生産された農産物を購入する。",
+          "sentence_2": "地域の名産であり伝統的な手法で生産されている農産物の生産方法が環境に悪影響を及ぼしているとしても、他の地域でより環境に配慮した手法で生産された農産物ではなく、その地域の伝統的な農産物を購入する。"
+        },
+        {
+          "id": "152",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 12,
+          "topic_id": "A-13",
+          "topic": "水産物の生産・調達方法に関する選択",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "養殖や漁獲の方法が海や生態系への負荷を抑える形で行われている水産物を、地域の慣行よりも環境への配慮を優先して選んで購入する。",
+          "sentence_2": "養殖や漁獲の方法が海や生態系への負荷を抑える形で行われている水産物であっても、環境への配慮よりも地域で長く親しまれてきた調達先や流通の慣行を重視して選んで購入する。"
+        },
+        {
+          "id": "153",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 13,
+          "topic_id": "A-14",
+          "topic": "食肉の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "家庭での食卓や外食での慣習などよりも、食肉の消費を減らして自然環境への負荷を抑えることを優先し、家庭での食卓や外食では肉料理の回数を控えめにする。",
+          "sentence_2": "食肉の消費を減らして自然環境への負荷を抑えるという考えもあるが、食卓で親しまれてきた肉料理や会食の慣習を重視し、家庭や外食ではこれまで通り肉料理を選ぶ。"
+        },
+        {
+          "id": "154",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 14,
+          "topic_id": "A-15",
+          "topic": "植物性食品の消費",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "動物性原料の使用が定着している料理であっても、伝統や慣習よりも、自然との調和や環境保全を優先して、動物性原料ではなく植物性原料を使用する。",
+          "sentence_2": "自然との調和や環境配慮の観点もあるが、動物性原料の使用が定着している料理では、伝統や慣習を優先して、植物性原料ではなく動物性原料を使用する。"
+        },
+        {
+          "id": "155",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 15,
+          "topic_id": "A-16",
+          "topic": "食品ロスに関する行動",
+          "topic_subcategory_en": "Diet and Food Choices",
+          "topic_subcategory_ja": "食生活・食品選択",
+          "sentence_1": "親族で集まる際には、廃棄が出るほど大量の食事を作る伝統があるが、食品ロスの観点から、食事の量を減らすようにする。",
+          "sentence_2": "親族で集まる際には、廃棄が出るほど大量の食事を作る伝統があるため、食品ロスの観点がありつつも、伝統を重視して食事の量は減らさない。"
+        },
+        {
+          "id": "156",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 17,
+          "topic_id": "A-18",
+          "topic": "リサイクル行動",
+          "topic_subcategory_en": "Waste and Resource Circularity",
+          "topic_subcategory_ja": "廃棄物・資源循環",
+          "sentence_1": "家庭で出たペットボトルや缶は、地域の分別ルールに沿ってきちんと洗って出すが、回収後に再資源化しやすいように、ラベルやキャップを外して素材ごとに分けることを優先する。",
+          "sentence_2": "家庭で出たペットボトルや缶は、地域の分別ルールに沿ってきちんと洗って出し、昔からのやり方や周囲との足並みを重視して、指定された出し方や分け方を変えずにそのまま回収に出す。"
+        },
+        {
+          "id": "157",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 18,
+          "topic_id": "A-19",
+          "topic": "プラスチックごみに関する行動",
+          "topic_subcategory_en": "Waste and Resource Circularity",
+          "topic_subcategory_ja": "廃棄物・資源循環",
+          "sentence_1": "地域の清掃活動や分別ルールを守ることよりも、海や川に流れ出るプラスチックごみを減らすことを優先し、使い捨てのプラスチック製品はできるだけ受け取らず、再利用できる容器や袋を選ぶ。",
+          "sentence_2": "地域の清掃活動や分別ルールを守ることを重視し、これまでの習慣に沿って、必要な場面では使い捨てのプラスチック製品も受け取る。"
+        },
+        {
+          "id": "158",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 19,
+          "topic_id": "A-20",
+          "topic": "水の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "家庭での洗い物では、昔からのやり方に沿うことよりも、節水を優先して、食器をまとめて洗うか、洗い桶に水をためて効率的に洗う。",
+          "sentence_2": "家庭での洗い物では、節水よりも、昔からのやり方に沿うことを優先して、食器を一つずつ流水で丁寧に時間をかけて洗う。"
+        },
+        {
+          "id": "159",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 20,
+          "topic_id": "A-21",
+          "topic": "電気の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "家庭で電気を使う際、従来の慣習よりも環境配慮を優先して、照明や冷暖房は必要な場所と時間だけに絞り、使わない家電の待機電力もできるだけ減らす。",
+          "sentence_2": "家庭で電気を使う際、環境配慮よりも従来の習慣を優先して、照明や冷暖房の使用は躊躇わず、使わない家電の待機電力もこれまで通りに保つ。"
+        },
+        {
+          "id": "160",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 21,
+          "topic_id": "A-22",
+          "topic": "ガスの使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "家庭でガスを使う際、これまで通りの調理手順や火加減を守ることよりも、環境配慮を優先して、ガスの使用量を減らすように調理方法を工夫する。",
+          "sentence_2": "家庭でガスを使う際、環境配慮よりも、これまで通りの調理手順や火加減を守ることを優先し、ガスの使い方は大きく変えない。"
+        },
+        {
+          "id": "161",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 22,
+          "topic_id": "A-23",
+          "topic": "太陽光発電の利用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "従来の地域の景観や地域の伝統よりも、環境配慮を優先して、住宅の屋根に太陽光発電を導入する。",
+          "sentence_2": "環境配慮よりも、従来の地域の景観や地域の伝統を優先して、住宅の屋根に太陽光発電は導入しない。"
+        },
+        {
+          "id": "162",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 23,
+          "topic_id": "A-24",
+          "topic": "冷暖房の使用",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "冷暖房は、職場や家庭での従来通りの使い方や秩序よりも、環境負荷の抑制を重視して、室温を控えめに保ち、必要なときだけ短時間使うようにする。",
+          "sentence_2": "冷暖房は、環境配慮よりも、職場や家庭での従来通りの使い方や秩序を重視して、室温はこれまで通りに保ち、必要なときには長時間の使用も躊躇わない。"
+        },
+        {
+          "id": "163",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 24,
+          "topic_id": "A-25",
+          "topic": "住宅・家庭用設備のエネルギー性能に関する選択",
+          "topic_subcategory_en": "Water, Energy, and Housing",
+          "topic_subcategory_ja": "水・エネルギー・住居",
+          "sentence_1": "住宅や家庭用設備を選ぶ際、地域で長く使われてきた標準的な仕様や周囲との足並みよりも、環境配慮を優先して、自然に負荷の少ない設備や高いエネルギー性能を持つ仕様を選ぶ。",
+          "sentence_2": "住宅や家庭用設備を選ぶ際、環境配慮よりも、地域で長く使われてきた標準的な仕様や周囲との足並みを重視して、慣れ親しまれた設備や一般的な仕様を優先して導入する。"
+        },
+        {
+          "id": "164",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 27,
+          "topic_id": "A-28",
+          "topic": "自家用車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "会社・組織での慣習や決まりよりも、環境への配慮を優先して、移動の際は自家用車ではなく他の手段を利用する。",
+          "sentence_2": "環境配慮のために他の手段を利用するという考えもあるが、会社・組織での慣習や決まりを重視して、移動の際は自家用車を使用する。"
+        },
+        {
+          "id": "165",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 28,
+          "topic_id": "A-29",
+          "topic": "公共交通機関の利用",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "通勤や移動では、慣習や周囲の空気よりも環境配慮の観点を重視し、排出を抑えられる公共交通機関を優先して利用する。",
+          "sentence_2": "通勤や移動では、環境配慮の観点よりも慣習や周囲の空気を重視し、排出を抑えられる公共交通機関よりも他の手段を優先して利用する。"
+        },
+        {
+          "id": "166",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 29,
+          "topic_id": "A-30",
+          "topic": "自転車による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "通勤や通学における移動では、自家用車や公共交通機関を利用する慣習や周囲の空気よりも、環境への配慮を優先して、自転車での移動を選ぶ。",
+          "sentence_2": "通勤や通学における移動では、環境への配慮よりも、自家用車や公共交通機関を利用する慣習や周囲の空気を重視して、自転車での移動は避けて他の手段を選ぶ。"
+        },
+        {
+          "id": "167",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 30,
+          "topic_id": "A-31",
+          "topic": "徒歩による移動",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "通勤や通学における移動では、自家用車を利用する慣習や周囲の空気よりも、環境への配慮を優先して、徒歩での移動を選ぶ。",
+          "sentence_2": "通勤や通学における移動では、環境への配慮よりも、自家用車を利用する慣習や周囲の空気を重視して、徒歩ではなく自家用車を利用する。"
+        },
+        {
+          "id": "168",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 31,
+          "topic_id": "A-32",
+          "topic": "車両の環境性能に関する選択",
+          "topic_subcategory_en": "Mobility and Transportation",
+          "topic_subcategory_ja": "移動・交通",
+          "sentence_1": "車を選ぶ際は、仲間内での慣習や周囲との調和よりも環境への配慮を重視して、従来から親しまれている車種よりも、排出量の少ない電気自動車や低燃費車を選ぶ。",
+          "sentence_2": "車を選ぶ際は、環境への配慮よりも仲間内での慣習や周囲との調和を重視して、排出量の少ない電気自動車や低燃費車よりも、従来から親しまれている車種を選ぶ。"
+        },
+        {
+          "id": "169",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 32,
+          "topic_id": "A-33",
+          "topic": "自然環境下でのレジャー活動",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "自然の中でのレジャーでは、従来からその場所で親しまれてきた過ごし方や周囲との調和よりも、環境への配慮を優先して、自然に負荷をかけないように行動する。",
+          "sentence_2": "自然の中でのレジャーでは、環境に配慮した行動よりも、従来からその場所で親しまれてきた過ごし方や周囲との調和を重視して行動する。"
+        },
+        {
+          "id": "170",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 33,
+          "topic_id": "A-34",
+          "topic": "自然環境の保全活動への参加",
+          "topic_subcategory_en": "Engagement with Nature",
+          "topic_subcategory_ja": "自然環境との関わり",
+          "sentence_1": "地域の清掃や植生保全の活動に参加する際は、昔ながらのやり方に合わせるよりも、自然への配慮を優先して、決められた範囲の清掃や整備に限定せず、必要だと思われる範囲まで積極的に清掃や整備を行う。",
+          "sentence_2": "地域の清掃や植生保全の活動に参加する際は、自然への配慮は意識しつつも、昔から続く進め方や地域の決まりに合わせて、決められた範囲の清掃や整備に従って行う。"
+        },
+        {
+          "id": "171",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 35,
+          "topic_id": "A-36",
+          "topic": "環境保護団体での活動",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境保護団体の活動では、地域の自然に無理なく溶け込むことと生態系を守ることを優先し、長年の慣例よりも、自然への負荷が少ない調査方法や保全活動の進め方を選ぶ。",
+          "sentence_2": "環境保護団体の活動では、社会の安定や長年受け継がれてきた進め方を優先し、自然への配慮はしつつも、団体内で慣例となっている調査方法や保全活動の進め方を基本的に維持する。"
+        },
+        {
+          "id": "172",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 37,
+          "topic_id": "A-38",
+          "topic": "環境保護団体への寄付",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境保護団体への寄付を考える際、地域の自然を守る活動や生態系の保全に直接つながる団体を優先し、社会的な慣習や周囲との足並みよりも、自然と調和した暮らしを支えることを重視して寄付する。",
+          "sentence_2": "環境保護団体への寄付を考える際、地域の自然や生態系の保全よりも、社会の安定や長く受け継がれてきた支援のあり方を重視し、周囲で一般的に受け入れられている団体や従来からの寄付先に寄付する。"
+        },
+        {
+          "id": "173",
+          "country": "日本",
+          "domain": "A_environment",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 38,
+          "topic_id": "A-39",
+          "topic": "環境問題に関する情報発信・共有",
+          "topic_subcategory_en": "Social Participation and Advocacy",
+          "topic_subcategory_ja": "社会参加・アドボカシー",
+          "sentence_1": "環境問題に関する情報を発信・共有する際は、情報発信における慣習や文化よりも、より環境問題に関して適切に質の高い情報を発信することを優先する。",
+          "sentence_2": "環境問題に関する情報を発信・共有する際は、より環境問題に関して適切に質の高い情報を発信することよりも、情報発信における慣習や文化を優先する。"
+        }
+      ]
+    }
+  }
+}

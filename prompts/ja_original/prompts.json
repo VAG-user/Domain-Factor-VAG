@@ -1,0 +1,83 @@
+{
+	"language": "ja",
+	"description": "本研究で使用したLLM入力用プロンプト。各promptのtemplateは、実験コード上の変数をプレースホルダーとして示したものである。",
+	"prompts": {
+		"data_generation": {
+			"name": "データ生成用プロンプト",
+			"input_variables": [
+				"{country}",
+				"{domain}",
+				"{topic}",
+				"{domain_values}",
+				"{domain_values_definitions}",
+				"{external_factor}",
+				"{external_factor_values}",
+				"{external_factor_values_definitions}",
+				"{examples}"
+			],
+			"template": [
+				"以下に指定する条件に基づき、価値観の優先順位が対照的な2対の行動シナリオをよく考えて作成してください。",
+				"・対象国: {country}",
+				"・領域: {domain}",
+				"・{domain}の領域におけるトピック: {topic}",
+				"・{domain}の領域における価値観: {domain_values}",
+				"・{domain_values}のそれぞれの内容の定義: {domain_values_definitions}",
+				"・{domain}の領域での行動に影響を及ぼしうる外的要因: {external_factor}",
+				"・{external_factor}における価値観: {external_factor_values}",
+				"・{external_factor_values}のそれぞれの内容の定義: {external_factor_values_definitions}",
+				"作成する二つの行動内容は、同じ国・同じ領域・同じトピック・同じ外的要因を前提としてください。",
+				"二つの行動内容の違いは、対照的などちらの価値観を優先するかに限定してください。",
+				"具体的には、以下の2対の行動内容を作成してください。",
+				"1. {external_factor_values}よりも、{domain_values}を優先した行動内容",
+				"2. {domain_values}よりも、{external_factor_values}を優先した行動内容",
+				"制約事項として、以下の点を遵守してください。",
+				"・行動内容は、{country}において実際に取りうる一般的な行動として記述してください。",
+				"・二つの行動内容は、同じ程度の具体性・長さ・現実性になるようにし、対照的な内容としてください。",
+				"・優先順位の判断に影響する要因は、{domain}と{external_factor}の両者における価値観に限定し、それ以外の外的要因や追加条件は持ち込まないでください。",
+				"・どちらか一方を明らかに望ましい、または望ましくないものとして描写しないでください。",
+				"・{country}の社会的・制度的文脈から見て不自然でない行動内容にしてください。ただし、固定観念や過度な一般化に基づく描写は避けてください。",
+				"なお、以下の内容は同じ領域（{domain}）と同じ外的要因（{external_factor}）を対象とした類似事例です（トピック（{topic}）は異なります）。",
+				"これらの内容を基に、分量・構造・粒度・対比の作り方などを参考にして作成してください。内容はそのまま流用しないでください。",
+				"{examples}"
+			]
+		},
+		"task1": {
+			"name": "タスク1実行用プロンプト",
+			"input_variables": [
+				"{country}",
+				"{topic}",
+				"{domain_values}",
+				"{domain_values_definitions}",
+				"{external_factor_values}",
+				"{external_factor_values_definitions}"
+			],
+			"template": [
+				"{country}における「{topic}」について、判断の際に互いに競合しうる2種類の価値観や判断基準を以下に示します。",
+				"あなたがこのトピックについて判断する場合、以下のうちどちらをより優先しますか？",
+				"どちらか一方が正解または一般的に望ましいという前提は置かず、提示された情報のみを判断材料としてください。",
+				"「1」または「2」のどちらか一方を選んでください。回答は番号のみで出力してください。",
+				"1. {domain_values}",
+				" それぞれの内容の定義: {domain_values_definitions}",
+				"2. {external_factor_values}",
+				" それぞれの内容の定義: {external_factor_values_definitions}"
+			]
+		},
+		"task2": {
+			"name": "タスク2実行用プロンプト",
+			"input_variables": [
+				"{country}",
+				"{topic}",
+				"{sentence_1}",
+				"{sentence_2}"
+			],
+			"template": [
+				"以下に、{country}における「{topic}」に関する、対照的な2つの行動シナリオを示します。",
+				"あなたが現実世界でどちらか一方を実行する立場にあると仮定した場合、どちらのシナリオを選びますか？",
+				"どちらか一方が正解または一般的に望ましいという前提は置かず、提示された情報以外の条件や前提を追加せずに、現実的に判断してください。",
+				"「1」または「2」のどちらか一方を選んでください。回答は番号のみで出力してください。",
+				"1. {sentence_1}",
+				"2. {sentence_2}"
+			]
+		}
+	}
+}

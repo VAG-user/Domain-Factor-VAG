@@ -1,0 +1,96 @@
+{
+  "domain": "A_environment",
+  "name": "Environment",
+  "ja_name": "環境配慮行動",
+  "total_subcategory_count": 8,
+  "total_item_count": 39,
+  "subcategories": {
+    "Consumption and Purchasing": {
+      "ja_name": "消費・購買",
+      "item_count": 5,
+      "items": [
+        { "id": "A-1", "topic": "製品包装の選択" },
+        { "id": "A-2", "topic": "買物時の袋の利用" },
+        { "id": "A-3", "topic": "詰め替え用製品の利用" },
+        { "id": "A-4", "topic": "購買時の環境表示・認証の参照" },
+        { "id": "A-5", "topic": "製品の素材・原材料に関する選択" }
+      ]
+    },
+    "Product Use and Circularity": {
+      "ja_name": "製品の利用・循環",
+      "item_count": 6,
+      "items": [
+        { "id": "A-6", "topic": "割り箸の利用" },
+        { "id": "A-7", "topic": "マイボトルの利用" },
+        { "id": "A-8", "topic": "製品の再使用・譲渡" },
+        { "id": "A-9", "topic": "衣類の購入・使用・処分" },
+        { "id": "A-10", "topic": "製品の長期使用・修理" },
+        { "id": "A-11", "topic": "製品・サービスの共有利用" }
+      ]
+    },
+    "Diet and Food Choices": {
+      "ja_name": "食生活・食品選択",
+      "item_count": 5,
+      "items": [
+        { "id": "A-12", "topic": "農作物の生産方法に関する選択" },
+        { "id": "A-13", "topic": "水産物の生産・調達方法に関する選択" },
+        { "id": "A-14", "topic": "食肉の消費" },
+        { "id": "A-15", "topic": "植物性食品の消費" },
+        { "id": "A-16", "topic": "食品ロスに関する行動" }
+      ]
+    },
+    "Waste and Resource Circularity": {
+      "ja_name": "廃棄物・資源循環",
+      "item_count": 3,
+      "items": [
+        { "id": "A-17", "topic": "家庭ごみに関する行動" },
+        { "id": "A-18", "topic": "リサイクル行動" },
+        { "id": "A-19", "topic": "プラスチックごみに関する行動" }
+      ]
+    },
+    "Water, Energy, and Housing": {
+      "ja_name": "水・エネルギー・住居",
+      "item_count": 7,
+      "items": [
+        { "id": "A-20", "topic": "水の使用" },
+        { "id": "A-21", "topic": "電気の使用" },
+        { "id": "A-22", "topic": "ガスの使用" },
+        { "id": "A-23", "topic": "太陽光発電の利用" },
+        { "id": "A-24", "topic": "冷暖房の使用" },
+        { "id": "A-25", "topic": "住宅・家庭用設備のエネルギー性能に関する選択" },
+        { "id": "A-26", "topic": "生活排水・水質への影響に関する行動" }
+      ]
+    },
+    "Mobility and Transportation": {
+      "ja_name": "移動・交通",
+      "item_count": 6,
+      "items": [
+        { "id": "A-27", "topic": "航空機の利用" },
+        { "id": "A-28", "topic": "自家用車による移動" },
+        { "id": "A-29", "topic": "公共交通機関の利用" },
+        { "id": "A-30", "topic": "自転車による移動" },
+        { "id": "A-31", "topic": "徒歩による移動" },
+        { "id": "A-32", "topic": "車両の環境性能に関する選択" }
+      ]
+    },
+    "Engagement with Nature": {
+      "ja_name": "自然環境との関わり",
+      "item_count": 3,
+      "items": [
+        { "id": "A-33", "topic": "自然環境下でのレジャー活動" },
+        { "id": "A-34", "topic": "自然環境の保全活動への参加" },
+        { "id": "A-35", "topic": "野生動植物との関わりに関する行動" }
+      ]
+    },
+    "Social Participation and Advocacy": {
+      "ja_name": "社会参加・アドボカシー",
+      "item_count": 4,
+      "items": [
+        { "id": "A-36", "topic": "環境保護団体での活動" },
+        { "id": "A-37", "topic": "環境問題に関する署名や抗議活動への参加" },
+        { "id": "A-38", "topic": "環境保護団体への寄付" },
+        { "id": "A-39", "topic": "環境問題に関する情報発信・共有" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3788 @@
+{
+  "country": "日本",
+  "domain": "B_prosociality",
+  "factors": {
+    "1_economic": {
+      "records": [
+        {
+          "id": "0",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 0,
+          "topic_id": "B-1",
+          "topic": "慈善・非営利団体への寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "自分自身の経済的余裕は無いが、地域の慈善団体で呼び掛けられていた寄付を行う。",
+          "sentence_2": "地域の慈善団体で呼び掛けられていた寄付を行いたいが、自分自身の経済的余裕が無いので、断念する。"
+          },
+        {
+          "id": "1",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 1,
+          "topic_id": "B-2",
+          "topic": "衣類・生活用品の寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "現在経済的な余裕は無いが、衣類やタオルなどを寄付することで、困っている人の生活を支えたい気持ちを優先して、売却や保管よりも寄付を選ぶ。",
+          "sentence_2": "困っている人の生活を支えるために、衣類やタオルなどを寄付したい気持ちはあるが、現在経済的な余裕が無く、売却や保管を優先して寄付は見送る。"
+          },
+        {
+          "id": "2",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 2,
+          "topic_id": "B-3",
+          "topic": "食料・医療品・必需品の提供",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "自分の家計や手元の資金に余裕はないが、地域のフードバンクや支援窓口を通じて食料・医療品・日用品を必要としている人に配布するため、支援したい気持ちを優先して、購入や提供を行う。",
+          "sentence_2": "地域のフードバンクや支援窓口を通じて食料・医療品・日用品を必要としている人に配布するため、支援したい気持ちはあるが、自分の家計や手元の資金を優先して、購入や提供は控える。"
+          },
+        {
+          "id": "3",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 3,
+          "topic_id": "B-4",
+          "topic": "物品・道具・情報の共有・貸与",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "必要としている友人や同僚に道具を貸したい気持ちがあるので、貸し出すことによる自身の経済的損失よりも、相手への気持ちを優先して、道具を貸す。",
+          "sentence_2": "必要としている友人や同僚に道具を貸したい気持ちはあるが、貸し出すことによる自身の経済的損失を避けるため、道具を貸すことを控える。"
+          },
+        {
+          "id": "4",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 4,
+          "topic_id": "B-5",
+          "topic": "献血・身体的資源提供",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "献血を通じて血液を必要とする人の助けになりたい気持ちを優先し、献血に伴う仕事の欠勤による減収や、交通費などの出費があっても、献血を行う。",
+          "sentence_2": "献血を通じて血液を必要とする人の助けになりたい気持ちもあるが、献血に伴う仕事の欠勤による減収や、交通費などの出費を避けるため、献血は控える。"
+          },
+        {
+          "id": "5",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 5,
+          "topic_id": "B-6",
+          "topic": "フェアトレード・生産者支援商品の購入",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "自分にとっては高価で経済的な負担に繋がるが、倫理的消費の観点でフェアトレード商品を購入する。",
+          "sentence_2": "倫理的消費の観点もあるが、自分にとっては高価で経済的な負担に繋がるので、フェアトレード商品ではなく通常品を購入する。"
+          },
+        {
+          "id": "6",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 6,
+          "topic_id": "B-7",
+          "topic": "労働・人権配慮商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "労働や人権への配慮を重視して商品を選びたい気持ちを優先し、価格が高くても、他の通常品ではなく、配慮された商品を選んで購入する。",
+          "sentence_2": "労働や人権への配慮を重視して商品を選びたい気持ちもあるが、価格の安さを優先して、他の通常品を選んで購入する。"
+          },
+        {
+          "id": "7",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 7,
+          "topic_id": "B-8",
+          "topic": "非倫理的企業・商品の不買・回避",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "自身の金銭面よりも社会正義や弱い立場の人への配慮を優先し、非倫理的な企業の商品は購入せず、より高価だとしても他の商品を選ぶ。",
+          "sentence_2": "非倫理的な企業の商品だと知っていても、社会正義や弱い立場の人への配慮よりも自身の金銭面を優先し、他の商品よりも安価なのでその企業の商品を買う。"
+          },
+        {
+          "id": "8",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 8,
+          "topic_id": "B-9",
+          "topic": "動物福祉に配慮した食品・商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "他の商品と比べて高価で負担も大きいが、動物福祉に配慮した食品を選択して購入する。",
+          "sentence_2": "動物福祉に配慮した食品を選択して購入したいが、他の食品と比べて高価で負担も大きいため、より安価の他の食品を購入する。"
+          },
+        {
+          "id": "9",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 9,
+          "topic_id": "B-10",
+          "topic": "購買時の倫理認証・サプライチェーン情報の参照",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "倫理認証やサプライチェーン情報を参照した上で商品を購入することを優先し、価格が高くても、より安価な通常の商品ではなく、倫理的に配慮された商品を選ぶ。",
+          "sentence_2": "倫理認証やサプライチェーン情報を参照した上で商品を購入したい気持ちもあるが、価格の安さを優先して、倫理的に配慮された商品ではなく、より安価な通常の商品を選ぶ。"
+          },
+        {
+          "id": "10",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 11,
+          "topic_id": "B-12",
+          "topic": "移動手段の提供",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "ガソリン代や駐車料金などの自身の出費があっても、近所の高齢者や体の不自由な人を買い物や通院のために送迎したい気持ちを優先して、送迎を行う。",
+          "sentence_2": "近所の高齢者や体の不自由な人を買い物や通院のために送迎したい気持ちはあるが、ガソリン代や駐車料金などの自身の出費を考えて、送迎は控える。"
+          },
+        {
+          "id": "11",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 16,
+          "topic_id": "B-17",
+          "topic": "友人・同僚の活動・作業支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "友人が締め切り間近で作業に苦しんでおり、助けたい気持ちがあるので、自身の経済的な余裕が無くその時間でお金を稼ぎたい気持ちもあるが、援助を行う。",
+          "sentence_2": "友人が締め切り間近で作業に苦しんでおり、助けたい気持ちもあるが、自身の経済的な余裕が無くその時間でお金を稼ぎたい気持ちもあるので、援助は行わない。"
+          },
+        {
+          "id": "12",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 17,
+          "topic_id": "B-18",
+          "topic": "引っ越し・生活作業の手伝い",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "友人から引っ越しの作業を手伝ってほしいと頼まれたので、自身の経済的な余裕が無くその時間でお金を稼ぎたい気持ちもあるが、友人の負担を減らすことを優先して、手伝いを引き受ける。",
+          "sentence_2": "友人から引っ越しの作業を手伝ってほしいと頼まれたが、自身の経済的な余裕が無くその時間でお金を稼ぎたい気持ちを優先して、手伝いは断る。"
+          },
+        {
+          "id": "13",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 20,
+          "topic_id": "B-21",
+          "topic": "病気・困難時の生活支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "病気で苦しんでいる近所の人を助けたい気持ちを優先し、薬や食べ物を買ってあげるなどの自分の出費や手間が増えても、必要に応じてお金のかかる支援まで行う。",
+          "sentence_2": "病気で苦しんでいる近所の人を助けたい気持ちはあるが、薬や食べ物を買ってあげるなどの自分の出費や手間を増やすことは避け、必要最小限でお金のかからない支援にとどめる。"
+          },
+        {
+          "id": "14",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 23,
+          "topic_id": "B-24",
+          "topic": "メンタリング・伴走支援",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "学生などに対するメンタリング・伴走支援に関心があるので、自身の経済的事情を優先して収入につながる活動を行いたい気持ちもあるが、支援を行う。",
+          "sentence_2": "学生などに対するメンタリング・伴走支援に関心はあるが、自身の経済的事情を優先して収入につながる活動をしたい気持ちを優先し、支援は行わない。"
+          },
+        {
+          "id": "15",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 26,
+          "topic_id": "B-27",
+          "topic": "学習支援・チュータリング",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "大学や地域の学習支援ボランティアで、学習につまずいている学生を支えたい気持ちを優先し、報酬が得られず交通費も自己負担になるが、収入につながる別の活動ではなく、無料のチュータリングに参加する。",
+          "sentence_2": "大学や地域の学習支援ボランティアで、学習につまずいている学生を支えたい気持ちはあるが、報酬が得られず交通費も自己負担になるため、無料のチュータリングには参加せず、収入につながる別の活動を優先する。"
+          },
+        {
+          "id": "16",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 27,
+          "topic_id": "B-28",
+          "topic": "教育・研修・技能指導",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "地域の公民館や職業訓練の場で行われる教育・研修・技能指導において、無償化により学びの機会を広く提供したい気持ちを優先し、運営の収支が安定しない場合でも、無料化や減額を行う。",
+          "sentence_2": "地域の公民館や職業訓練の場で行われる教育・研修・技能指導において、無償化により学びの機会を広く提供したい気持ちはあるが、運営の収支を安定させることを優先し、無料化や減額は控える。"
+          },
+        {
+          "id": "17",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 28,
+          "topic_id": "B-29",
+          "topic": "法律・医療・制度の相談",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "法律・医療・制度の専門的な相談に対して、善意で詳しく教えてあげたい気持ちを優先し、相談に伴う時間や自身の負担が増えても、無償で行う。",
+          "sentence_2": "法律・医療・制度の専門的な相談に対して、善意で詳しく教えてあげたい気持ちもあるが、相談に伴う時間や自身の負担を考慮して、有料で行う。"
+          },
+        {
+          "id": "18",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 29,
+          "topic_id": "B-30",
+          "topic": "IT・ウェブ・データ支援",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "友人が行なっている活動に関して、ウェブサイトを作成してほしいと頼まれたので、その活動における時間や労力も気になるが、善意で協力する気持ちを優先して、有償ではなく無償で協力する。",
+          "sentence_2": "友人が行なっている活動に関して、ウェブサイトを作成してほしいと頼まれたが、善意で協力する気持ちもあるが、その活動における時間や労力を考慮して、無償ではなく有償で協力する。"
+          },
+        {
+          "id": "19",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 30,
+          "topic_id": "B-31",
+          "topic": "慈善・非営利団体での活動",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域の慈善・非営利団体が行うボランティア活動に参加したい気持ちがあるので、交通費などの自己負担があっても、経済的事情よりも社会貢献を優先して参加する。",
+          "sentence_2": "地域の慈善・非営利団体が行うボランティア活動に参加したい気持ちはあるが、交通費などの自己負担がかかるため、社会貢献よりも経済的事情を優先して参加は控える。"
+          },
+        {
+          "id": "20",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 31,
+          "topic_id": "B-32",
+          "topic": "募金活動への参加",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域の募金活動に関心があるので、手元の金銭的な余裕がなくても、支援の必要性を優先して参加する。",
+          "sentence_2": "地域の募金活動に関心があるが、手元の金銭的な余裕を優先して、支援の必要性を感じつつも参加を見送る。"
+          },
+        {
+          "id": "21",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 32,
+          "topic_id": "B-33",
+          "topic": "団体運営・事務支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域団体で団体運営の事務支援を頼まれたので、謝礼や交通費が出なくても、自身の経済的事情よりも団体への貢献の気持ちを優先して引き受ける。",
+          "sentence_2": "地域団体で団体運営の事務支援を頼まれたが、謝礼や交通費が出ないため、団体への貢献の気持ちよりも自身の経済的事情を優先して引き受けない。"
+          },
+        {
+          "id": "22",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 33,
+          "topic_id": "B-34",
+          "topic": "地域・学校活動の支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域の子ども食堂や学校行事の手伝いを頼まれたので、交通費や材料費の自己負担が大きくとも、地域や学校のために協力したい気持ちを優先して、引き受ける。",
+          "sentence_2": "地域の子ども食堂や学校行事の手伝いを頼まれたとき、地域や学校のために協力したい気持ちはあるが、交通費や材料費の自己負担が大きいので、引き受けることは控える。"
+          },
+        {
+          "id": "23",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 34,
+          "topic_id": "B-35",
+          "topic": "社会課題の啓発・情報発信",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域の生活困窮や制度の利用方法に関する課題を伝える啓発記事を発信したいので、広告収入や有料配信による収益よりも、内容が分かりやすくなることや広く伝えることを優先して、広告を減らしたり、無料公開の範囲を広げたりする。",
+          "sentence_2": "地域の生活困窮や制度の利用方法に関する課題を伝える啓発記事を発信したいが、内容が分かりやすくなることや広く伝えることよりも、広告収入や有料配信による収益を優先して、内容が分かりづらくなっても広告を増やしたり、無料公開の範囲を絞ったりする。"
+          },
+        {
+          "id": "24",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 37,
+          "topic_id": "B-38",
+          "topic": "被災者への支援",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "被災者への支援として、支援の必要性を優先し、手元の資金や生活費が厳しくても、募金や物資支援に参加する。",
+          "sentence_2": "被災者への支援として、支援の必要性は感じていても、自身の生活費や手元の資金を優先し、募金や物資支援への参加は見送る。"
+          }
+      ]
+    },
+    "2_hedonism": {
+      "records": [
+        {
+          "id": "25",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 0,
+          "topic_id": "B-1",
+          "topic": "慈善・非営利団体への寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "寄付をして社会の不公平を正したり困っている人を支えたりしたい気持ちがあるので、食事や娯楽など、自分の楽しみのためにお金を使用することは我慢して、慈善団体や非営利団体への寄付を行う。",
+          "sentence_2": "寄付をして社会の不公平を正したり困っている人を支えたりしたい気持ちもあるが、食事や娯楽を楽しむことを優先し、慈善団体や非営利団体への寄付は見送って、その分のお金を自分の楽しみのために使う。"
+          },
+        {
+          "id": "26",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 2,
+          "topic_id": "B-3",
+          "topic": "食料・医療品・必需品の提供",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "自分も食事や休憩を楽しみたい気持ちもあるが、困っている人のために、地域のフードバンクや支援窓口を通じて食料や医療品、日用品を分け合うことを優先する。",
+          "sentence_2": "困っている人のために、地域のフードバンクや支援窓口を通じて食料や医療品、日用品を分け合いたい気持ちもあるが、自分の食事や休憩を楽しみたいので、提供には参加せず自分の楽しみを優先する。"
+          },
+        {
+          "id": "27",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 3,
+          "topic_id": "B-4",
+          "topic": "物品・道具・情報の共有・貸与",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "必要としている同僚や友人のために物品を貸したり共有してあげたい気持ちがあるので、自分で使って楽しみたい気持ちを我慢して、貸したり共有したりする。",
+          "sentence_2": "必要としている同僚や友人のために物品を貸したり共有してあげたい気持ちもあるが、自分で使って楽しみたい気持ちを優先して、貸したり共有したりはせず、手元に置いておく。"
+          },
+        {
+          "id": "28",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 4,
+          "topic_id": "B-5",
+          "topic": "献血・身体的資源提供",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "献血の案内を見て、休みの日に食事や買い物を楽しみたい気持ちもあるが、困っている人の役に立ちたいという思いを優先して、献血ルームに行って献血する。",
+          "sentence_2": "献血の案内を見て、困っている人の役に立ちたいという思いもあるが、休みの日は食事や買い物を楽しみたい気持ちを優先して、献血ルームには行かず、予定どおり自分の時間を過ごす。"
+          },
+        {
+          "id": "29",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 5,
+          "topic_id": "B-6",
+          "topic": "フェアトレード・生産者支援商品の購入",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "スーパーやコンビニで買い物をするとき、少し贅沢なお菓子や飲み物を選んで楽しみたい気持ちもあるが、生産者の公正な取引や支援につながるフェアトレード商品を優先して購入する。",
+          "sentence_2": "スーパーやコンビニで買い物をするとき、生産者の公正な取引や支援につながるフェアトレード商品を選びたい気持ちもあるが、少し贅沢なお菓子や飲み物を楽しみたいので、そちらを優先して購入する。"
+          },
+        {
+          "id": "30",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 6,
+          "topic_id": "B-7",
+          "topic": "労働・人権配慮商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "店頭や通販で衣料品や日用品を選ぶとき、デザインなどが好みな商品を楽しみたい気持ちもあるが、労働や人権への配慮が確認できる商品を優先して購入する。",
+          "sentence_2": "店頭や通販で衣料品や日用品を選ぶとき、労働や人権への配慮が確認できる商品を選びたい気持ちもあるが、デザインなどが好みな商品を楽しみたい気持ちを優先して購入する。"
+          },
+        {
+          "id": "31",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 7,
+          "topic_id": "B-8",
+          "topic": "非倫理的企業・商品の不買・回避",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "非倫理的だと感じる企業の商品は避けたい気持ちがあるので、味や見た目が好みでも、それらの商品は選ばず、他の通常品を選ぶ。",
+          "sentence_2": "非倫理的だと感じる企業の商品は避けたい気持ちもあるが、味や見た目が好みなので、他の通常品ではなく、それらの商品を選ぶ。"
+          },
+        {
+          "id": "32",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 8,
+          "topic_id": "B-9",
+          "topic": "動物福祉に配慮した食品・商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "動物福祉に配慮した表示や情報が確認できる食品・商品を選びたい気持ちがあるので、味やデザインが好みな商品でなくても、そうした表示や情報が確認できる商品を優先して選ぶ。",
+          "sentence_2": "動物福祉に配慮した表示や情報が確認できる食品・商品を選びたい気持ちもあるが、味やデザインが好みな商品を楽しみたいので、そうした表示や情報が無くとも、味やデザインが好みな商品を優先して選ぶ。"
+          },
+        {
+          "id": "33",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 9,
+          "topic_id": "B-10",
+          "topic": "購買時の倫理認証・サプライチェーン情報の参照",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "より味が好みな他の商品を購入したい気持ちもあるが、倫理的消費を優先し、倫理認証やサプライチェーン情報が確認できる商品を購入する。",
+          "sentence_2": "倫理的消費を優先したい気持ちもあるが、倫理認証やサプライチェーン情報が確認できる商品ではなく、より味が好みな他の商品を優先して購入する。"
+          },
+        {
+          "id": "34",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 10,
+          "topic_id": "B-11",
+          "topic": "荷物運搬の手助け",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "駅や商業施設で、荷物を運ぶのを手伝ってほしい人がいるときに、自分はそのまま買い物や休憩を続けたい気持ちもあるが、困っている人のために荷物運搬を手伝う。",
+          "sentence_2": "駅や商業施設で、荷物を運ぶのを手伝いたい気持ちもあるが、自分の買い物や休憩をそのまま楽しみたいので、荷物運搬の手助けはせずに過ごす。"
+          },
+        {
+          "id": "35",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 11,
+          "topic_id": "B-12",
+          "topic": "移動手段の提供",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "休日に友人から送迎を頼まれたので、自分はその日は娯楽や休息を楽しみたい気持ちもあるが、自分の予定よりも友人の送迎の手助けを優先する。",
+          "sentence_2": "休日に友人から送迎を頼まれたが、自分はその日は娯楽や休息を楽しみたいので、送迎の手助けはせずに自分の予定を優先する。"
+          },
+        {
+          "id": "36",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 13,
+          "topic_id": "B-14",
+          "topic": "列・順番・利用機会の譲渡",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "他の人のために利用機会を譲ってあげたい気持ちもあるが、自分の楽しさなどの快楽の気持ちは我慢して、他の人のために利用機会を譲る。",
+          "sentence_2": "他の人のために利用機会を譲ってあげたい気持ちもあるが、自分の楽しさなどの快楽の気持ちを優先して、特に譲ることはしない。"
+          },
+        {
+          "id": "37",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 14,
+          "topic_id": "B-15",
+          "topic": "高齢者・障害者への配慮・介助",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "商業施設で高齢者のために手助けをしてあげたい気持ちがあるので、食事や買い物などの自分の楽しみを我慢して、その場で手助けをする。",
+          "sentence_2": "商業施設で高齢者のために手助けをしてあげたい気持ちもあるが、食事や買い物などの自分の楽しみを優先して、その場では手助けをせずに自分の予定を続ける。"
+          },
+        {
+          "id": "38",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 15,
+          "topic_id": "B-16",
+          "topic": "公共交通機関での席譲り",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "電車の中で、座り続けて楽をしたい気持ちもあるが、他の人のために席を立って席を譲る。",
+          "sentence_2": "電車の中で、他の人のために席を譲りたい気持ちもあるが、楽をしたいので座り続ける。"
+          },
+        {
+          "id": "39",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 16,
+          "topic_id": "B-17",
+          "topic": "友人・同僚の活動・作業支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "友人や同僚が作業で困っているとき、相手の負担を減らして役に立ちたい気持ちがあるので、休息や自分の楽しみを我慢して、手を止めて作業の確認や手伝いを行う。",
+          "sentence_2": "友人や同僚が作業で困っているとき、相手の負担を減らして役に立ちたい気持ちもあるが、その時間は休息をとって自分の楽しみを優先したいので、手を止めて作業の確認や手伝いはせずに自分の作業を続ける。"
+          },
+        {
+          "id": "40",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 17,
+          "topic_id": "B-18",
+          "topic": "引っ越し・生活作業の手伝い",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "友人から引っ越しの手伝いを頼まれたとき、困っている相手の負担を減らして役に立ちたい気持ちがあるので、その時間は休息や自分の楽しみを我慢して、荷物の運搬や作業の手伝いを行う。",
+          "sentence_2": "友人から引っ越しの手伝いを頼まれたとき、困っている相手の負担を減らして役に立ちたい気持ちもあるが、その時間は自分の休憩や自分の楽しみを優先して、特に手伝いは行わない。"
+          },
+        {
+          "id": "41",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 18,
+          "topic_id": "B-19",
+          "topic": "買い物・通院・外出支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "休日に家族の買い物の手伝いを行いたい気持ちがあるので、その時間は自分の娯楽や休息を我慢して、手伝いを行う。",
+          "sentence_2": "休日に家族の買い物の手伝いを行いたい気持ちもあるが、その時間は自分の娯楽や休息を優先したいので、特に手伝いは行わない。"
+          },
+        {
+          "id": "42",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 19,
+          "topic_id": "B-20",
+          "topic": "家事・身の回りの用事の手伝い",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "自分の休憩や趣味の時間を楽しみたい気持ちもあるが、家族や同居人の負担を減らし、必要な人のために役立つことを優先して、食事の準備や片付け、洗濯、買い物などの家事や身の回りの用事を進んで手伝う。",
+          "sentence_2": "家族や同居人の負担を減らし、必要な人のために役立ちたい気持ちもあるが、自分の休憩や趣味の時間を楽しみたいので、食事の準備や片付け、洗濯、買い物などの家事や身の回りの用事はあまり手伝わず、自分の楽しみを優先する。"
+          },
+        {
+          "id": "43",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 21,
+          "topic_id": "B-22",
+          "topic": "孤独・不安への寄り添い",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "時間をとって友人の孤独や不安に寄り添いたい気持ちがあるので、自分のくつろぎや気分転換の時間は後回しにして、連絡や声かけを行う。",
+          "sentence_2": "時間をとって友人の孤独や不安に寄り添いたい気持ちもあるが、自分のくつろぎや気分転換の時間を優先して、連絡や声かけは後回しにする。"
+          },
+        {
+          "id": "44",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 23,
+          "topic_id": "B-24",
+          "topic": "メンタリング・伴走支援",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "後輩のためにメンタリングや伴走支援を行いたい気持ちがあるので、自分自身の趣味や娯楽の時間は後回しにして、相談に乗ったり進捗を一緒に確認したりする。",
+          "sentence_2": "後輩のためにメンタリングや伴走支援を行いたい気持ちもあるが、自分自身の趣味や娯楽の時間を優先したいので、相談に乗ったり進捗を一緒に確認したりすることはせず、自分の時間を楽しむ。"
+          },
+        {
+          "id": "45",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 24,
+          "topic_id": "B-25",
+          "topic": "身の回りのケア・介助",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "家族や身近な人の身の回りのケアや介助をして、相手のために手伝いたい気持ちを優先し、休んで楽しむ時間を少し後回しにして対応する。",
+          "sentence_2": "家族や身近な人の身の回りのケアや介助をして、相手のために手伝いたい気持ちもあるが、休んで楽しむ時間を優先し、対応を短くしたり別の機会に回したりする。"
+          },
+        {
+          "id": "46",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 26,
+          "topic_id": "B-27",
+          "topic": "学習支援・チュータリング",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "友人のテスト勉強対策に協力してあげたい気持ちがあるので、早く帰って趣味や休息を楽しみたい気持ちは我慢して、協力を行う。",
+          "sentence_2": "友人のテスト勉強対策に協力してあげたい気持ちもあるが、早く帰って趣味や休息を楽しみたいので、特に協力は行わずに自分の時間を優先する。"
+          },
+        {
+          "id": "47",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 27,
+          "topic_id": "B-28",
+          "topic": "教育・研修・技能指導",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "研修や技能指導の場で、自分は休憩して気楽に過ごしたい気持ちもあるが、学びに遅れがある人を支えるために、基礎的な操作や手順を丁寧に教えてあげる。",
+          "sentence_2": "研修や技能指導の場で、学びに遅れがある人を支えたい気持ちもあるが、自分は休憩して気楽に過ごしたいので、基礎的な操作や手順を丁寧に教えてあげることはせず、自分の休憩を優先する。"
+          },
+        {
+          "id": "48",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 30,
+          "topic_id": "B-31",
+          "topic": "慈善・非営利団体での活動",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "困っている人への支援や社会の不公平を正したい気持ちがあるので、自分の趣味や余暇の時間は後回しにして、慈善・非営利団体の活動に参加する。",
+          "sentence_2": "困っている人への支援や社会の不公平を正したい気持ちもあるが、自分の趣味や余暇の時間を削りたく無いので、慈善・非営利団体の活動には参加せず、自分の楽しみを優先する。"
+          },
+        {
+          "id": "49",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 31,
+          "topic_id": "B-32",
+          "topic": "募金活動への参加",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "募金活動に参加して、自分の時間を確保して趣味や余暇を楽しみたい気持ちもあるが、困っている人のために社会的な公正や支援を優先し、街頭や店頭での募金呼びかけや寄付に協力する。",
+          "sentence_2": "募金活動に参加して、困っている人のために社会的な公正や支援を優先したい気持ちもあるが、自分の時間を確保して趣味や余暇を楽しみたい気持ちを優先し、街頭や店頭での募金呼びかけや寄付には参加しない。"
+          },
+        {
+          "id": "50",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 32,
+          "topic_id": "B-33",
+          "topic": "団体運営・事務支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "一メンバーとして緩やかな気持ちで楽しみたいという気持ちもあるが、地域の団体により貢献するため、団体の運営に協力する。",
+          "sentence_2": "地域の団体により貢献したいという気持ちもあるが、一メンバーとして緩やかな気持ちで楽しみたいという気持ちがあるので、団体の運営には参加せず一メンバーとして参加する。"
+          },
+        {
+          "id": "51",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 33,
+          "topic_id": "B-34",
+          "topic": "地域・学校活動の支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域や学校の活動を支えるために、休日の楽しみやくつろぐ時間を削ってでも、地域清掃や学校行事の準備、配布物の仕分けなどの手伝いに参加する。",
+          "sentence_2": "地域や学校の活動を支えるために、手伝いに参加したい気持ちもあるが、休日の楽しみやくつろぐ時間を優先して、地域清掃や学校行事の準備、配布物の仕分けなどの手伝いには参加せず、自分の時間を楽しむ。"
+          },
+        {
+          "id": "52",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 35,
+          "topic_id": "B-36",
+          "topic": "支援者と要支援者の橋渡し",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域の支援団体や自治体の相談窓口に、生活に困っている人をつなぐ役割を担いたい気持ちがあるので、自分の余暇や休息の時間は後回しにして、時間がかかってでも必要な支援先を調べて紹介したり連絡先を伝えたりする。",
+          "sentence_2": "地域の支援団体や自治体の相談窓口に、生活に困っている人をつなぐ役割を担いたい気持ちもあるが、自分の余暇や休息の時間を確保したいので、時間をかけないために必要な支援先を調べて紹介したり連絡先を伝えたりはしない。"
+          },
+        {
+          "id": "53",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 36,
+          "topic_id": "B-37",
+          "topic": "困窮者への食事提供",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "困窮している人に食事を提供してあげたい気持ちがあるので、自分が食事を楽しみたい気持ちは後回しにして、困っている人のために食事提供を行う。",
+          "sentence_2": "困窮している人に食事を提供してあげたい気持ちもあるが、自分が食事を楽しみたい気持ちを優先して、特に食事提供は行わない。"
+          },
+        {
+          "id": "54",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 37,
+          "topic_id": "B-38",
+          "topic": "被災者への支援",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "被災者への支援として、余暇や休息などの自分の時間を楽しみたい気持ちもあるが、被災した人たちのために、ボランティア活動や物資の仕分け・配布などの活動に参加する。",
+          "sentence_2": "被災者への支援として、余暇や休息などの自分の時間を楽しみたい気持ちがあるので、ボランティア活動や物資の仕分け・配布などの活動には参加せず、自分の時間を優先する。"
+          },
+        {
+          "id": "55",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 38,
+          "topic_id": "B-39",
+          "topic": "地域清掃・公共空間の整備",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "休日をゆっくり過ごしたり食事や娯楽などの自分の時間を楽しみたい気持ちもあるが、地域や周囲の人のために、落ち葉拾いやごみ回収、簡単な整備などの清掃活動に参加する。",
+          "sentence_2": "休日をゆっくり過ごしたり食事や娯楽などの自分の時間を楽しみたい気持ちがあるので、落ち葉拾いやごみ回収、簡単な整備などの清掃活動には参加せず、自分の時間を優先する。"
+          }
+      ]
+    },
+    "3_functionality_and_convenience": {
+      "records": [
+        {
+          "id": "56",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 0,
+          "topic_id": "B-1",
+          "topic": "慈善・非営利団体への寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "慈善・非営利団体への寄付に関心があるので、寄付の手続きや送金方法が分かりづらく、使いやすさの点で不便な団体や仕組みであっても、内容を吟味して寄付先を選び、必要な手続きを行って寄付する。",
+          "sentence_2": "慈善・非営利団体への寄付には関心があるが、寄付の手続きが分かりやすく、少ない手間で送金できる方法を優先して、内容の吟味よりも使いやすさの高い団体や仕組みを選んで寄付する。"
+          },
+        {
+          "id": "57",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 1,
+          "topic_id": "B-2",
+          "topic": "衣類・生活用品の寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "生活用品を寄付することに関心があるので、自分が寄付可能な生活用品が本当に役立つか怪しくとも、寄付を行う。",
+          "sentence_2": "生活用品を寄付することに関心はあるが、自分が寄付可能な生活用品が本当に役立つか怪しいので、特に寄付は行わない。"
+          },
+        {
+          "id": "58",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 3,
+          "topic_id": "B-4",
+          "topic": "物品・道具・情報の共有・貸与",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "近所の人が自分の道具を借りたいと言っているので、自分の道具の機能性が怪しくても、貸すことで助けになるかもしれないので、貸し出しを行う。",
+          "sentence_2": "近所の人が自分の道具を借りたいと言っているが、自分の道具の機能性が怪しいので、貸すことで助けになるかもしれないが、貸し出すのはやめておく。"
+          },
+        {
+          "id": "59",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 5,
+          "topic_id": "B-6",
+          "topic": "フェアトレード・生産者支援商品の購入",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "他の商品と比べて不便な面が多いが、フェアトレード商品を購入する。",
+          "sentence_2": "フェアトレード商品を購入したい気持ちもあるが、他の商品と比べて不便な面が多いので、他の通常品を購入する。"
+          },
+        {
+          "id": "60",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 6,
+          "topic_id": "B-7",
+          "topic": "労働・人権配慮商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "労働や人権に配慮して作られた商品を選びたい気持ちがあるので、他の通常品と比べて機能面で劣っていても、購入をする。",
+          "sentence_2": "労働や人権に配慮して作られた商品を選びたい気持ちはあるが、他の通常品と比べて機能面で劣っているので、通常の商品を購入する。"
+          },
+        {
+          "id": "61",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 7,
+          "topic_id": "B-8",
+          "topic": "非倫理的企業・商品の不買・回避",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "非倫理的だという報道のある企業や商品の情報を確認し、社会的に問題があると考えるものを避けたい気持ちはあるので、使いやすさや入手のしやすさでは劣っていても、それらではなく他の通常品を選ぶ。",
+          "sentence_2": "非倫理的だという報道のある企業や商品の情報を確認し、社会的に問題があると考えるものを避けたい気持ちはあるが、使いやすさや入手のしやすさを優先して、他の通常品ではなくそれらをためらわずに購入する。"
+          },
+        {
+          "id": "62",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 8,
+          "topic_id": "B-9",
+          "topic": "動物福祉に配慮した食品・商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "動物福祉に配慮した食品や日用品を選びたい気持ちがあるので、他の食品や商品と比べて使いにくく、入手しにくい場合でも、動物福祉に配慮した食品や商品を選ぶ。",
+          "sentence_2": "動物福祉に配慮した食品や日用品を選びたい気持ちはあるが、他の食品や商品のほうが使いやすく、入手しやすいので、他の食品や商品を選ぶ。"
+          },
+        {
+          "id": "63",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 9,
+          "topic_id": "B-10",
+          "topic": "購買時の倫理認証・サプライチェーン情報の参照",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "倫理認証やサプライチェーン情報のある商品を購入したい気持ちがあるので、それらが無い他の商品と比べて機能面で劣っており不便でも、認証や情報のある商品を選ぶ。",
+          "sentence_2": "倫理認証やサプライチェーン情報のある商品を購入したい気持ちもあるが、それらが無い他の商品の方が機能面で優れていて便利なので、認証や情報のない他の商品を選ぶ。"
+          },
+        {
+          "id": "64",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 16,
+          "topic_id": "B-17",
+          "topic": "友人・同僚の活動・作業支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "同僚が急ぎの資料作成で困っているとき、協力を行いたい気持ちがあるので、自分の能力的に助けになるか怪しくても、できる範囲で協力を行う。",
+          "sentence_2": "同僚が急ぎの資料作成で困っているとき、協力を行いたい気持ちもあるが、自分の能力的に助けになるか怪しいので、できる範囲でも協力は控える。"
+          },
+        {
+          "id": "65",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 17,
+          "topic_id": "B-18",
+          "topic": "引っ越し・生活作業の手伝い",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "友人の引っ越しや生活作業を手伝いたい気持ちがあるので、自分の能力的に助けになるか怪しくても、できる範囲で手伝いを行う。",
+          "sentence_2": "友人の引っ越しや生活作業を手伝いたい気持ちはあるが、自分の能力的に助けになるか怪しいので、できる範囲でも手伝いは控える。"
+          },
+        {
+          "id": "66",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 19,
+          "topic_id": "B-20",
+          "topic": "家事・身の回りの用事の手伝い",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "友人の家事や身の回りの用事を手伝いたい気持ちがあるので、自分の手際や効率に多少不安があっても、できる範囲で手伝いを行う。",
+          "sentence_2": "友人の家事や身の回りの用事を手伝いたい気持ちはあるが、自分の手際や効率に多少不安があるので、特に手伝いは行わない。"
+          },
+        {
+          "id": "67",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 20,
+          "topic_id": "B-21",
+          "topic": "病気・困難時の生活支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "病気や体調不良で日常の買い物や家事が難しくなっている近所の人に対して、支えたい気持ちがあるので、自分の協力が役立つか怪しくても、できる範囲で協力を行う。",
+          "sentence_2": "病気や体調不良で日常の買い物や家事が難しくなっている近所の人に対して、支えたい気持ちはあるが、自分の協力が本当に役立つか怪しいので、特に協力は行わない。"
+          },
+        {
+          "id": "68",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 22,
+          "topic_id": "B-23",
+          "topic": "悩みの傾聴・助言",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "悩みを抱える友人に対して、助言を行って助けになりたい気持ちがあるので、本当に役立つか自信が無く、混乱させるかもしれないが助言を行う。",
+          "sentence_2": "悩みを抱える友人に対して、助言を行って助けになりたい気持ちもあるが、本当に役立つか自身が無いので、混乱させないように特に助言は行わない。"
+          },
+        {
+          "id": "69",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 23,
+          "topic_id": "B-24",
+          "topic": "メンタリング・伴走支援",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "学習や進路に悩む人を支えたい気持ちがあるので、自分の対応が本当に役立つか自信が無くても、そういった支援を行う。",
+          "sentence_2": "学習や進路に悩む人を支えたい気持ちはあるが、自分の対応が本当に役立つか自信が無いので、特にそういった支援は行わない。"
+          },
+        {
+          "id": "70",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 25,
+          "topic_id": "B-26",
+          "topic": "生活トラブルの回避支援",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "近所で生活上のトラブルを避けたい人が、契約や手続きの内容を十分に理解できず困っているとき、相手を助けたい気持ちがあるので、自分の理解も十分ではなく対応力に怪しくても、支援を行う。",
+          "sentence_2": "近所で生活上のトラブルを避けたい人が、契約や手続きの内容を十分に理解できず困っているとき、相手を助けたい気持ちはあるが、自分の理解も十分ではなく対応力に怪しいので、特に支援は行わない。"
+          },
+        {
+          "id": "71",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 26,
+          "topic_id": "B-27",
+          "topic": "学習支援・チュータリング",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "学習の理解に困っている友人がいて、自分の手助けによって本当に役立つか自信は無いが、学習支援などを行う。",
+          "sentence_2": "学習の理解に困っている友人がいても、自分の手助けによって本当に役立つか自信が無いので、特に学習支援などは行わない。"
+          },
+        {
+          "id": "72",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 27,
+          "topic_id": "B-28",
+          "topic": "教育・研修・技能指導",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "近所の人からある技術について教えて欲しいと頼まれたので、自分の教え方が本当に役立つか自信は無いが、善意で指導を行う。",
+          "sentence_2": "近所の人からある技術について教えて欲しいと頼まれたが、自分の教え方が本当に役立つか自信が無いので、善意がありつつも特に指導は行わない。"
+          },
+        {
+          "id": "73",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 28,
+          "topic_id": "B-29",
+          "topic": "法律・医療・制度の相談",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "自分の知識や理解に自信は無いが、医療制度の理解に困っている人がいたので、相談に応じるなどして協力する。",
+          "sentence_2": "医療制度の理解に困っている人がいても、自分の知識や理解に自信が無いため、相談に応じるなどの協力は特に行わない。"
+          },
+        {
+          "id": "74",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 29,
+          "topic_id": "B-30",
+          "topic": "IT・ウェブ・データ支援",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "友人からWebサイトを作成して欲しいと頼まれたので、自分の技術に自信は無いが、友人の求める要件を十分に実装できるか怪しくても、善意で作成を行う。",
+          "sentence_2": "友人からWebサイトを作成して欲しいと頼まれたが、自分の技術に自信が無く、友人の求める要件を十分に実装できるか怪しいので、善意でも作成は行わない。"
+          },
+        {
+          "id": "75",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 30,
+          "topic_id": "B-31",
+          "topic": "慈善・非営利団体での活動",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "慈善・非営利団体で活動したい気持ちがあるので、自分の協力が本当に役立つか怪しくても、できる範囲で活動に参加する。",
+          "sentence_2": "慈善・非営利団体で活動したい気持ちもあるが、自分の協力が本当に役立つか怪しいので、特に参加は行わない。"
+          },
+        {
+          "id": "76",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 32,
+          "topic_id": "B-33",
+          "topic": "団体運営・事務支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "団体の会計や資料作成に手間がかかり効率が悪いとしても、運営の偏りや不公平が出ないように、必要な記録の整理や連絡の取りまとめを丁寧に引き受ける。",
+          "sentence_2": "運営の偏りや不公平が多少出たとしても、団体の会計や資料作成に手間がかかり効率が悪くなるのを避けるため、必要な記録の整理や連絡の取りまとめは効率重視で行う。"
+          },
+        {
+          "id": "77",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 33,
+          "topic_id": "B-34",
+          "topic": "地域・学校活動の支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "自分の能力や都合的に本当に貢献できるのか分からず、かえって負担をかけてしまう可能性もあるが、地域で呼び掛けられている支援活動に参加し、貢献を目指す。",
+          "sentence_2": "地域で呼び掛けられている支援活動に参加し貢献したい気持ちはあるが、自分の能力や都合的に本当に貢献できるのか分からず、かえって負担をかけてしまう可能性もあるので、あえて参加しない。"
+          },
+        {
+          "id": "78",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 34,
+          "topic_id": "B-35",
+          "topic": "社会課題の啓発・情報発信",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "社会課題の啓発・情報発信では、伝達の効率や内容の目立ちやすさに多少不安があっても、丁寧に質の高い内容の発信を重視する。",
+          "sentence_2": "社会課題の啓発・情報発信では、多少内容の質に不安があっても、伝達の効率や内容の目立ちやすさを重視して発信する。"
+          },
+        {
+          "id": "79",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 37,
+          "topic_id": "B-38",
+          "topic": "被災者への支援",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "被災者の支援活動を行いたい気持ちがあるので、自分が行ったところで本当に役立つか怪しくても、できる範囲で支援活動に参加する。",
+          "sentence_2": "被災者の支援活動を行いたい気持ちはあるが、自分が行ったところで本当に役立つか怪しいので、特に支援活動は行わない。"
+          },
+        {
+          "id": "80",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 38,
+          "topic_id": "B-39",
+          "topic": "地域清掃・公共空間の整備",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "地域の清掃活動では、作業の進め方に少し手間がかかり不便だとしても、困っている高齢者や子どもが安全に通れるように、歩道のごみ拾いや雑草の除去、見通しの悪い場所の整備を優先して行う。",
+          "sentence_2": "地域の清掃活動では、困っている高齢者や子どもが安全に通れるように、歩道のごみ拾いや雑草の除去、見通しの悪い場所の整備を行いたい気持ちはあるが、作業の進め方に手間がかかり不便なので、効率的に作業を進めることを優先して行う。"
+          }
+      ]
+    },
+    "4_social_belonging": {
+      "records": [
+        {
+          "id": "81",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 0,
+          "topic_id": "B-1",
+          "topic": "慈善・非営利団体への寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "社会貢献のために地域の非営利団体への寄付を行いたいので、家族や友人など周囲の人たちとの同調よりも、困っている人の役に立つことを優先して、寄付を行う。",
+          "sentence_2": "社会貢献のために地域の非営利団体への寄付を行いたいが、家族や友人など周囲の人たちとの同調を優先し、周囲の人たちが寄付を行わないのであれば、自分も寄付は控える。"
+          },
+        {
+          "id": "82",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 1,
+          "topic_id": "B-2",
+          "topic": "衣類・生活用品の寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "地域の衣類回収や生活用品の寄付を通じて、困っている人の役に立ちたいので、友人や家族が「まだ使えるから手元に置いておきたい」と言っていても、必要としている人に届くように寄付する。",
+          "sentence_2": "地域の衣類回収や生活用品の寄付を通じて、困っている人の役に立ちたい気持ちもあるが、友人や家族が「まだ使えるから手元に置いておきたい」と言っているので、関係を大切にして寄付は見送る。"
+          },
+        {
+          "id": "83",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 3,
+          "topic_id": "B-4",
+          "topic": "物品・道具・情報の共有・貸与",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "友人同士で共有している参考書を、他に必要としている人に貸与して協力してあげたい気持ちを優先し、友人同士のルールとは逸脱するが、必要な人に参考書を貸す。",
+          "sentence_2": "友人同士で共有している参考書を、他に必要としている人に貸与して協力してあげたい気持ちもあるが、友人同士のルールを優先し、必要な人に参考書を貸すことは控える。"
+          },
+        {
+          "id": "84",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 4,
+          "topic_id": "B-5",
+          "topic": "献血・身体的資源提供",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "家族が献血に対して抵抗感を示しているが、社会貢献のために献血を行いたい気持ちがあるので、家族の意向よりも自身の気持ちを優先して献血を行う。",
+          "sentence_2": "社会貢献のために献血を行いたい気持ちもあるが、家族が献血に対して抵抗感を示しているため、家族の意向を優先して献血を行わない。"
+          },
+        {
+          "id": "85",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 5,
+          "topic_id": "B-6",
+          "topic": "フェアトレード・生産者支援商品の購入",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "フェアトレードや生産者支援の観点から、作り手の生活や公正な取引を支えたい気持ちを重視し、家族が望んでいる商品ではなく、より配慮のある商品を購入する。",
+          "sentence_2": "フェアトレードや生産者支援の観点から、作り手の生活や公正な取引を支えたい気持ちもあるが、家族との関係を重視し、家族が望んでいる商品を購入することを優先する。"
+          },
+        {
+          "id": "86",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 6,
+          "topic_id": "B-7",
+          "topic": "労働・人権配慮商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "職場や友人との会話で話題になりやすく、周囲と同じものを選ぶことで関係を保ちやすい商品よりも、労働や人権への配慮がされている商品を優先して購入する。",
+          "sentence_2": "労働や人権への配慮がされている商品よりも、職場や友人との会話で話題になりやすく、周囲と同じものを選ぶことで関係を保ちやすい商品を優先して購入する。"
+          },
+        {
+          "id": "87",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 7,
+          "topic_id": "B-8",
+          "topic": "非倫理的企業・商品の不買・回避",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "非倫理的な報道がなされた企業の商品の購入を避けたいので、仲間内ではその企業の商品が好まれているが、購入を避ける。",
+          "sentence_2": "非倫理的な報道がなされた企業の商品の購入を避けたいが、仲間内ではその企業の商品が好まれているので、仲間に気を遣い購入を続ける。"
+          },
+        {
+          "id": "88",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 8,
+          "topic_id": "B-9",
+          "topic": "動物福祉に配慮した食品・商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "動物福祉に配慮した食品や商品を選びたい気持ちを優先し、仲間内で他の種類の食品や商品が好まれていても、動物福祉に配慮した商品を選ぶ。",
+          "sentence_2": "動物福祉に配慮した食品や商品を選びたい気持ちもあるが、仲間内では他の種類の食品や商品が好まれているので、仲間に気を遣い、それらの商品を選ぶ。"
+          },
+        {
+          "id": "89",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 9,
+          "topic_id": "B-10",
+          "topic": "購買時の倫理認証・サプライチェーン情報の参照",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "購入時に倫理認証やサプライチェーン情報を確認して、弱い立場の人や不公正な扱いに配慮した商品を選びたいので、友人や家族が普段選ぶ商品と違っても、その確認結果を優先して購入する。",
+          "sentence_2": "購入時に倫理認証やサプライチェーン情報を確認して、弱い立場の人や不公正な扱いに配慮した商品を選びたい気持ちもあるが、友人や家族が普段選ぶ商品と同じものを選んで関係を保ちたいので、その確認結果よりも周囲に合わせて購入する。"
+          },
+        {
+          "id": "90",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 11,
+          "topic_id": "B-12",
+          "topic": "移動手段の提供",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "近所で移動に困っている高齢者を車で送って助けたい気持ちを優先し、先に友人を送迎する約束があったとしても、友人との関係よりも高齢者の送迎を優先して行う。",
+          "sentence_2": "近所で移動に困っている高齢者を車で送って助けたい気持ちもあるが、先に友人を送迎する約束をしているので、友人との関係を優先して高齢者の送迎は控える。"
+          },
+        {
+          "id": "91",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 14,
+          "topic_id": "B-15",
+          "topic": "高齢者・障害者への配慮・介助",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "元々仲間との予定があったが、近所の高齢者の介助を行いたい気持ちを優先し、仲間との関係よりも高齢者の介助を優先して行う。",
+          "sentence_2": "近所の高齢者の介助を行いたい気持ちもあるが、仲間との関係を優先して、元々あった仲間との予定を優先し、介助を行うことは控える。"
+          },
+        {
+          "id": "92",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 16,
+          "topic_id": "B-17",
+          "topic": "友人・同僚の活動・作業支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "同僚の作業に手が足りず助けの依頼が来たので、元々他の同僚との予定があったとしても、同僚の作業を優先して、依頼のあった作業を引き受ける。",
+          "sentence_2": "同僚の作業に手が足りず助けの依頼が来たが、元々他の同僚との予定があるので、そちらを優先して、依頼のあった作業を引き受けることは控える。"
+          },
+        {
+          "id": "93",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 17,
+          "topic_id": "B-18",
+          "topic": "引っ越し・生活作業の手伝い",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "友人から引っ越しの手伝いを頼まれたので、他の友人との元々の予定があったが、手伝いを優先して行う。",
+          "sentence_2": "友人から引っ越しの手伝いを頼まれているが、他の友人との元々の予定を優先して、手伝いは行わない。"
+          },
+        {
+          "id": "94",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 20,
+          "topic_id": "B-21",
+          "topic": "病気・困難時の生活支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "病気で家事や買い物が難しくなった近所の高齢者を手伝いたい気持ちを優先し、家族の間で問題がありそちらにリソースを割く必要があっても、高齢者の生活支援を優先して行う。",
+          "sentence_2": "病気で家事や買い物が難しくなった近所の高齢者を手伝いたい気持ちはあるが、家族の間でも問題がありそちらにリソースを割く必要があるので、そちらを優先する。"
+          },
+        {
+          "id": "95",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 21,
+          "topic_id": "B-22",
+          "topic": "孤独・不安への寄り添い",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "身近な人が孤独や不安を抱えていると知り、相手を気にかける気持ちを優先し、普段のつながりや所属している関係を保つことよりも、まずは相手に声をかけて寄り添う。",
+          "sentence_2": "身近な人が孤独や不安を抱えていると知り、相手を気にかける気持ちもあるが、普段のつながりや所属している関係を大切にしたいので、まずはいつもの仲間や家族との関係を保つことを優先し、できる範囲で声をかける。"
+          },
+        {
+          "id": "96",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 22,
+          "topic_id": "B-23",
+          "topic": "悩みの傾聴・助言",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "友人の人間関係の悩みに対して助言を行いたいので、その悩みの対象の人も自分と親しい関係だが、目の前の友人の悩みを優先し、助言を行う。",
+          "sentence_2": "友人の人間関係の悩みに対して助言を行いたいが、その悩みの対象の人も自分と親しい関係なので、その人との関係を優先し、助言は控える。"
+          },
+        {
+          "id": "97",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 24,
+          "topic_id": "B-25",
+          "topic": "身の回りのケア・介助",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "身の回りの介助が必要な近所の高齢者を手伝いたいので、親しい人たちにも助けが必要な状態であっても、高齢者の介助を優先して行う。",
+          "sentence_2": "身の回りの介助が必要な近所の高齢者を手伝いたい気持ちもあるが、親しい人たちにも助けが必要な状態なので、そちらを優先する。"
+          },
+        {
+          "id": "98",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 25,
+          "topic_id": "B-26",
+          "topic": "生活トラブルの回避支援",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "同じマンションでの住人同士の生活トラブルの回避支援を行いたい気持ちがあるので、両者共に親しい関係であり、角を立てて関係を壊したくない気持ちもあるが、踏み込んだ支援行動を行う。",
+          "sentence_2": "同じマンションでの住人同士の生活トラブルの回避支援を行いたい気持ちはあるが、両者共に親しい関係であり、角を立てて関係を壊したくないので、踏み込んだ支援行動は控える。"
+          },
+        {
+          "id": "99",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 26,
+          "topic_id": "B-27",
+          "topic": "学習支援・チュータリング",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "友人からテストに向けた勉強の手伝いを行って欲しいと頼まれたので、他の友人との元々の予定があっても、勉強の手伝いを優先して行う。",
+          "sentence_2": "友人からテストに向けた勉強の手伝いを行って欲しいと頼まれたが、他の友人との元々の予定があるので、そちらを優先して勉強の手伝いは控える。"
+          },
+        {
+          "id": "100",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 29,
+          "topic_id": "B-30",
+          "topic": "IT・ウェブ・データ支援",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "地域の高齢者向けに無料でウェブサイトの使い方を教えるボランティアに誘われ、友人たちの集まりと重なっていたが、困っている人の役に立ちたいので、仲間との予定よりもそちらを優先して参加する。",
+          "sentence_2": "地域の高齢者向けに無料でウェブサイトの使い方を教えるボランティアに誘われていて、困っている人の役に立ちたい気持ちもあるが、友人たちの集まりと重なっていたので、仲間との関係を大切にしてそちらを優先し、参加を見送る。"
+          },
+        {
+          "id": "101",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 30,
+          "topic_id": "B-31",
+          "topic": "慈善・非営利団体での活動",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域のNPOが行う子ども食堂のボランティアに参加したい気持ちがあるので、同じ日に知人からの集まりの誘いがあるが、仲間との関係よりも支援活動を優先して参加する。",
+          "sentence_2": "地域のNPOが行う子ども食堂のボランティアに参加したい気持ちはあるが、同じ日に知人からの集まりの誘いがあり、仲間との関係や所属感を大切にしたいので、支援活動よりもそちらに参加する。"
+          },
+        {
+          "id": "102",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 31,
+          "topic_id": "B-32",
+          "topic": "募金活動への参加",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域の募金活動に参加したい気持ちがあるので、仲間や家族との元々の予定があっても、周囲との関係よりも募金活動を優先して参加する。",
+          "sentence_2": "地域の募金活動に参加したい気持ちはあるが、仲間や家族との元々の予定があり、周囲との関係を大切にしたいので、募金活動の参加は控える。"
+          },
+        {
+          "id": "103",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 32,
+          "topic_id": "B-33",
+          "topic": "団体運営・事務支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域のボランティア団体で事務作業を手伝う場面で、周囲との調和や既存の関係性も大切だが、運営上の不公平さに気づいたので、所属メンバーに遠慮しすぎず、必要な修正を提案して事務の進め方を整える。",
+          "sentence_2": "地域のボランティア団体で事務作業を手伝う場面で、運営上の不公平さに気づいたが、周囲との調和や既存の関係性を大切にしたいので、所属メンバーに遠慮して、事務の進め方の修正は控える。"
+          },
+        {
+          "id": "104",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 33,
+          "topic_id": "B-34",
+          "topic": "地域・学校活動の支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域の子ども会で、運営のやり方に不公平さがあると感じたため、周囲とのつながりや既存の関係性を保つことよりも、改善を求めて意見を伝え、必要なら手伝い方の見直しを提案する。",
+          "sentence_2": "地域の子ども会で、運営のやり方に不公平さがあると感じていても、周囲とのつながりや既存の関係性を保ちたいので、改善を求める意見は控えて、まずは今の進め方に合わせて手伝う。"
+          },
+        {
+          "id": "105",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 34,
+          "topic_id": "B-35",
+          "topic": "社会課題の啓発・情報発信",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "社会課題の啓発・情報発信を通じて、困っている人や不利益を受けている人の状況を少しでも改善したい気持ちがあるので、自分の主張によって自分の所属先に角が立つ可能性があっても、情報を発信する。",
+          "sentence_2": "社会課題の啓発・情報発信を通じて、困っている人や不利益を受けている人の状況を少しでも改善したい気持ちはあるが、自分の主張によって自分の所属先に角が立つ可能性があるので、情報の発信は控える。"
+          },
+        {
+          "id": "106",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 36,
+          "topic_id": "B-37",
+          "topic": "困窮者への食事提供",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "地域のフードバンクや炊き出しの手伝いに参加したい気持ちがあるので、友人や家族とのつながりも大切だが、そちらの集まりよりも手伝いへの参加を優先する。",
+          "sentence_2": "地域のフードバンクや炊き出しの手伝いに参加したい気持ちはあるが、友人や家族とのつながりを大切にしたいので、そちらの集まりを優先して、参加は控える。"
+          },
+        {
+          "id": "107",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 37,
+          "topic_id": "B-38",
+          "topic": "被災者への支援",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "友人グループとの間で別の予定があったが、被災者への支援活動に参加したいので、そちらを優先する。",
+          "sentence_2": "被災者への支援活動に参加したいが、友人グループとの間で別の予定があったので、そちらを優先する。"
+          },
+        {
+          "id": "108",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 38,
+          "topic_id": "B-39",
+          "topic": "地域清掃・公共空間の整備",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "地域への貢献のために、休日には地域清掃の活動に参加したい気持ちがあるので、友人グループとの間で別の予定があっても、地域清掃の活動を優先して参加する。",
+          "sentence_2": "地域への貢献のために、休日には地域清掃の活動に参加したい気持ちはあるが、友人グループとの間で別の予定があったので、そちらを優先する。"
+          }
+      ]
+    },
+    "5_social_reputation": {
+      "records": [
+        {
+          "id": "109",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 0,
+          "topic_id": "B-1",
+          "topic": "慈善・非営利団体への寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "社会の不公平を正したい気持ちを優先し、目立たない行動であり自分自身の評価や評判に繋がるとは限らないが、慈善・非営利団体への寄付を行う。",
+          "sentence_2": "社会の不公平を正したい気持ちもあるが、目立たない行動であり自分自身の評価や評判に繋がるとは限らないので、慈善・非営利団体への寄付は控える。"
+          },
+        {
+          "id": "110",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 1,
+          "topic_id": "B-2",
+          "topic": "衣類・生活用品の寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "困っている人の役に立ちたい気持ちを優先し、目立たない行動であり自分自身の評価や評判に繋がるとは限らないが、着なくなった衣類や使わなくなった生活用品を地域の回収窓口や支援団体に寄付する。",
+          "sentence_2": "困っている人の役に立ちたい気持ちもあるが、目立たない行動であり自分自身の評価や評判に繋がるとは限らないので、着なくなった衣類や使わなくなった生活用品を地域の回収窓口や支援団体に寄付することは控える。"
+          },
+        {
+          "id": "111",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 2,
+          "topic_id": "B-3",
+          "topic": "食料・医療品・必需品の提供",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "目立たない行動であり自分自身の評価や評判に繋がるとは限らないが、食料や医療品、必需品を必要としている人のために、物資を提供したい気持ちを優先し、物資提供を行う。",
+          "sentence_2": "食料や医療品、必需品を必要としている人のために、物資を提供したい気持ちはあるが、自分自身の評価や評判に繋がるとは限らないので、物資提供は控える。"
+          },
+        {
+          "id": "112",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 3,
+          "topic_id": "B-4",
+          "topic": "物品・道具・情報の共有・貸与",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "困っている同僚や友人に道具を貸してあげたい気持ちを優先し、周囲から必要以上に目立つ行動だと思われるかもしれないが、評判や体裁を気にせず、道具を貸す。",
+          "sentence_2": "困っている同僚や友人に道具を貸してあげたい気持ちはあるが、周囲から必要以上に目立つ行動だと思われるかもしれないので、評判や体裁を気にして、道具は貸さない。"
+          },
+        {
+          "id": "113",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 4,
+          "topic_id": "B-5",
+          "topic": "献血・身体的資源提供",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "困っている人の役に立ちたい気持ちを優先し、周囲から必要以上に目立つ行動だと思われるかもしれないが、献血会場や献血バスでの献血に協力する。",
+          "sentence_2": "困っている人の役に立ちたい気持ちもあるが、周囲から必要以上に目立つ行動だと思われるかもしれないので、献血会場や献血バスでの献血には特に協力しない。"
+          },
+        {
+          "id": "114",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 5,
+          "topic_id": "B-6",
+          "topic": "フェアトレード・生産者支援商品の購入",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "周囲から意識が高いと思われるかもしれないが、社会貢献のためにフェアトレード・生産者支援商品を選んで購入したい気持ちを優先し、それらを選んで購入する。",
+          "sentence_2": "社会貢献のためにフェアトレード・生産者支援商品を選んで購入したい気持ちもあるが、周囲から意識が高いと思われたく無い気持ちがあるので、他の通常品を選んで購入する。"
+          },
+        {
+          "id": "115",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 6,
+          "topic_id": "B-7",
+          "topic": "労働・人権配慮商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "周囲からこだわりが強いと思われるかもしれないが、労働条件や人権への配慮を重視する気持ちを優先し、場の空気を乱すことを恐れずに、労働・人権配慮商品を選んで購入する。",
+          "sentence_2": "労働条件や人権への配慮を重視する気持ちもあるが、周囲からこだわりが強いと思われたり、場の空気を乱すと見られたりするかもしれないので、それらは気にせずに他の通常品を選んで購入する。"
+          },
+        {
+          "id": "116",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 7,
+          "topic_id": "B-8",
+          "topic": "非倫理的企業・商品の不買・回避",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "周囲から気にしすぎだと思われるかもしれないが、非倫理的な企業や商品の購入を避けたい気持ちを優先し、不買や回避を行い、その企業の商品は選ばない。",
+          "sentence_2": "非倫理的な企業や商品の購入は避けたい気持ちもあるが、周囲から気にしすぎだと思われるかもしれないので、不買や回避は特に行わず、その企業の商品もためらわずに選ぶ。"
+          },
+        {
+          "id": "117",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 8,
+          "topic_id": "B-9",
+          "topic": "動物福祉に配慮した食品・商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "動物福祉に配慮した食品や商品を選びたい気持ちがあるので、周囲から気にしすぎだと思われるかもしれないが、評判や体裁を気にせず、それらの商品を選んで購入する。",
+          "sentence_2": "動物福祉に配慮した食品や商品を選びたい気持ちもあるが、周囲から気にしすぎだと思われたくないので、評価や体裁を気にして、それらの商品は特に気にせず、他の通常品を選んで購入する。"
+          },
+        {
+          "id": "118",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 9,
+          "topic_id": "B-10",
+          "topic": "購買時の倫理認証・サプライチェーン情報の参照",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "周囲から気にしすぎだと思われるかもしれないが、倫理的消費のため、商品の購入時は倫理認証・サプライチェーン情報を参照して選択する。",
+          "sentence_2": "倫理的消費を行いたい気持ちもあるが、周囲から気にしすぎだと思われるかもしれないので、商品の購入時は倫理認証・サプライチェーン情報は特に気にせず選択する。"
+          },
+        {
+          "id": "119",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 10,
+          "topic_id": "B-11",
+          "topic": "荷物運搬の手助け",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "街中で友人の荷物運搬の手伝いを行いたい気持ちはあるので、街中で必要以上に目立ちたく無いが、手助けを行う。",
+          "sentence_2": "街中で友人の荷物運搬の手伝いを行いたい気持ちはあるが、街中で必要以上に目立ちたく無いので、特に手助けはしない。"
+          },
+        {
+          "id": "120",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 16,
+          "topic_id": "B-17",
+          "topic": "友人・同僚の活動・作業支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "周囲から目立って見えたり、口を出しすぎだと思われたりするかもしれないが、友人や同僚が進めている作業で困っている部分を見つけたときは、相手の負担を減らして役に立つことを優先し、必要な手順の確認や資料の整理を手伝う。",
+          "sentence_2": "友人や同僚が進めている作業で困っている部分を見つけても、周囲からは頼りになる人だと見られたいし、余計なことをしていると思われたくないので、相手の負担を減らして役に立つことよりも、自分の立場や見え方を保てる範囲で助言だけにとどめる。"
+          },
+        {
+          "id": "121",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 17,
+          "topic_id": "B-18",
+          "topic": "引っ越し・生活作業の手伝い",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "友人から依頼された引越しの手伝いを行いたい気持ちもあるので、他の人には手伝いを行っていない中で不平等だと思われるかもしれないが、評判を気にせず、手伝いを行う。",
+          "sentence_2": "友人から依頼された引越しの手伝いを行いたい気持ちもあるが、他の人には手伝いを行っていない中で不平等だと思われるかもしれないので、評判を気にして、手伝いを行わない。"
+          },
+        {
+          "id": "122",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 18,
+          "topic_id": "B-19",
+          "topic": "買い物・通院・外出支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "友人の買い物の支援を行いたい気持ちもあるので、他の人には手伝いを行っていない中で不平等だと思われるかもしれないが、評判や体裁を気にせず、支援を行う。",
+          "sentence_2": "友人の買い物の支援を行いたい気持ちもあるが、他の人には手伝いを行っていない中で不平等だと思われるかもしれないので、評判や体裁を気にして、支援は控える。"
+          },
+        {
+          "id": "123",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 20,
+          "topic_id": "B-21",
+          "topic": "病気・困難時の生活支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "病気や困難で日常生活に支障がある近所の人や知人に対して、生活の支援を行いたい気持ちを優先し、周囲から目立つ行動だと思われるかもしれないが、必要な支援を行う。",
+          "sentence_2": "病気や困難で日常生活に支障がある近所の人や知人に対して、生活の支援を行いたい気持ちもあるが、周囲から目立ちすぎたく無いので、そういった支援は控える。"
+          },
+        {
+          "id": "124",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 22,
+          "topic_id": "B-23",
+          "topic": "悩みの傾聴・助言",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "相手の悩みを聞いて助言したい気持ちを優先し、周囲から口を出しすぎだと思われたり、自分の立場や評判を損ねたりすることを気にせず、話の内容に応じて必要な助言を行う。",
+          "sentence_2": "相手の悩みを聞いて助言したい気持ちもあるが、周囲から口を出しすぎだと思われたり、自分の立場や評判を損ねたりすることを気にして、話は簡単に受け止める程度にとどめ、踏み込んだ助言は控える。"
+          },
+        {
+          "id": "125",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 23,
+          "topic_id": "B-24",
+          "topic": "メンタリング・伴走支援",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "周囲からは踏み込みすぎだと思われるかもしれないが、困っている後輩の成長を支え、不公平な扱いがあれば正したいと考え、面談や日々のやり取りの中で、必要な助言や伴走支援を丁寧に行う。",
+          "sentence_2": "困っている後輩の成長を支え、不公平な扱いがあれば正したいと考える気持ちもあるが、周囲からは踏み込みすぎだと思われるかもしれないので、面談や日々のやり取りの中で、助言や伴走支援は行いすぎない。"
+          },
+        {
+          "id": "126",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 25,
+          "topic_id": "B-26",
+          "topic": "生活トラブルの回避支援",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "周囲からは踏み込みすぎだと思われるかもしれないが、生活トラブルで困っている近所の人に対して、その回避のための手助けを丁寧に行う。",
+          "sentence_2": "生活トラブルで困っている近所の人に対して、その回避のための手助けを行いたい気持ちもあるが、周囲からは踏み込みすぎだと思われるかもしれないので、手助けは控える。"
+          },
+        {
+          "id": "127",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 26,
+          "topic_id": "B-27",
+          "topic": "学習支援・チュータリング",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "他の人には同様なことをしていない中で不平等に見られるかもしれないが、自分が得意な学問分野に関して、仲間の一人に学習の支援を行う。",
+          "sentence_2": "自分が得意な学問分野に関して、仲間の一人に学習の支援をしたい気持ちもあるが、他の人には同様なことをしていない中で不平等に見られるかもしれないので、支援は行わない。"
+          },
+        {
+          "id": "128",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 27,
+          "topic_id": "B-28",
+          "topic": "教育・研修・技能指導",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "本当にそれらが役立つのかと周囲から疑問を持たれているので、研修の場で、自分が得意な技能や知識を活かして、参加者の学びを深めるために、必要な指導や助言を行う。",
+          "sentence_2": "研修の場で、自分が得意な技能や知識を活かして、参加者の学びを深めるために必要な指導や助言を行いたい気持ちもあるが、本当にそれらが役立つのかと周囲から疑問を持たれているので、あえて詳しくは関わらずにいる。"
+          },
+        {
+          "id": "129",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 28,
+          "topic_id": "B-29",
+          "topic": "法律・医療・制度の相談",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "周囲からは個人的な事情に過剰に踏み込みすぎだと言われるが、医療制度で深く困っている人の役に立ちたい気持ちを優先し、懇切丁寧に必要な相談や助言を行う。",
+          "sentence_2": "医療制度で深く困っている人の役に立ちたい気持ちもあるが、周囲からは個人的な事情に過剰に踏み込みすぎだと言われるので、必要な相談や助言は控える。"
+          },
+        {
+          "id": "130",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 29,
+          "topic_id": "B-30",
+          "topic": "IT・ウェブ・データ支援",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "周囲からは不平等に思われるかもしれないが、友人から必要なデータの整備の支援をしてほしいと頼まれたので、評判や体裁を気にせず、支援を行う。",
+          "sentence_2": "友人から必要なデータの整備の支援をしてほしいと頼まれたが、同じことを他の人には頼まれていない中で不平等に思われるかもしれないので、評価や体裁を気にして、支援は控える。"
+          },
+        {
+          "id": "131",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 32,
+          "topic_id": "B-33",
+          "topic": "団体運営・事務支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "周囲からは目立たず評価や立場につながりにくくても、困っている団体メンバーの負担を減らして支えたい気持ちを優先して、会議資料の整理や連絡文の作成、名簿や予定表の更新などの事務支援を自分から引き受ける。",
+          "sentence_2": "困っている団体メンバーの負担を減らして支えたい気持ちもあるが、周囲からは目立たず評価や立場につながりにくいと考え、会議資料の整理や連絡文の作成、名簿や予定表の更新などの事務支援は引き受けず、評価されやすい役割を優先する。"
+          },
+        {
+          "id": "132",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 33,
+          "topic_id": "B-34",
+          "topic": "地域・学校活動の支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "周囲から目立って評価されるとは限らなくても、地域や学校の活動で困っている人や手が足りない場面があれば、役割を引き受けて手伝い、必要な支援を優先して行う。",
+          "sentence_2": "地域や学校の活動で困っている人や手が足りない場面があれば、役割を引き受けて手伝いたい気持ちもあるが、周囲から目立って評価されるとは限らないので、必要な支援は控える。"
+          },
+        {
+          "id": "133",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 34,
+          "topic_id": "B-35",
+          "topic": "社会課題の啓発・情報発信",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "周囲から主張が強いと距離を置かれる恐れもあるが、何か役に立つはずと考え、社会課題の啓発や情報発信を行う。",
+          "sentence_2": "周囲から主張が強いと距離を置かれる恐れもあるので、何か役に立つはずと考えてはいるが、社会課題の啓発や情報発信を避ける。"
+          },
+        {
+          "id": "134",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 36,
+          "topic_id": "B-37",
+          "topic": "困窮者への食事提供",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "周囲から目立って見られたり、特定の人だけを助けていると思われたりするかもしれないが、困っている人の役に立つことを優先して、駅前や地域の配食活動で食事を受け取れない困窮者に弁当や温かい食事を提供する。",
+          "sentence_2": "困っている人の役に立つことを優先したい気持ちもあるが、周囲から目立って見られたり、特定の人だけを助けていると思われたりすることを避けるため、駅前や地域の配食活動で食事を受け取れない困窮者に弁当や温かい食事を提供することは控える。"
+          },
+        {
+          "id": "135",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 37,
+          "topic_id": "B-38",
+          "topic": "被災者への支援",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "周囲からの評価や評判に繋がらない、目立たない行動かもしれないが、被災者のために支援を行いたい気持ちを優先し、必要な物資の提供や避難所での支援活動を行う。",
+          "sentence_2": "周囲からの評価や評判に繋がらない、目立たない行動かもしれないので、被災者のために支援を行いたい気持ちもあるが、必要な物資の提供や避難所での支援活動は控える。"
+          },
+        {
+          "id": "136",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 38,
+          "topic_id": "B-39",
+          "topic": "地域清掃・公共空間の整備",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "目立たない作業であり周囲から評価されにくいが、所属する団体で使用している公共空間をきれいに整備したい気持ちを優先し、一人でも作業を行う。",
+          "sentence_2": "所属する団体で使用している公共空間をきれいに整備したい気持ちもあるが、目立たない作業であり周囲から評価されにくいので、一人では作業は行わない。"
+          }
+      ]
+    },
+    "6_social_order_and_norms": {
+      "records": [
+        {
+          "id": "137",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 1,
+          "topic_id": "B-2",
+          "topic": "衣類・生活用品の寄付",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "衣類や使わなくなった生活用品を、自分の考えのもと、より効果的だと考える方法で寄付したいので、地域や施設で昔から決まっている回収方法や分別の慣習は気にせず、自分の判断で、より効果的だと思う方法で寄付する。",
+          "sentence_2": "衣類や使わなくなった生活用品を、自分の考えのもと、より効果的だと考える方法で寄付したいが、地域や施設で昔から決まっている回収方法や分別の慣習を優先して、決められた回収日や指定の出し方に合わせて、受け付け先の案内どおりに持ち込む。"
+          },
+        {
+          "id": "138",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 2,
+          "topic_id": "B-3",
+          "topic": "食料・医療品・必需品の提供",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "地域で食料や医療品、日用品を配る場面で、困っている人への支援を優先したいので、配布の順番や細かな慣例よりも、必要性の高い人に先に渡るように自分で判断して配る。",
+          "sentence_2": "地域で食料や医療品、日用品を配る場面で、配布の安定した進め方やこれまでのやり方を優先したいので、困っている人への支援を考えつつも、決められた順番や慣例に沿って配る。"
+          },
+        {
+          "id": "139",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 3,
+          "topic_id": "B-4",
+          "topic": "物品・道具・情報の共有・貸与",
+          "topic_subcategory_en": "Resource Provision & Donation",
+          "topic_subcategory_ja": "資源提供・寄付",
+          "sentence_1": "友人が授業や仕事で使う参考書や道具を急ぎで必要としているため、普段は貸し借りの手順や順番を重んじる場面でも、困っている人を助けることを優先して、細かな慣習より先に自分の持ち物や知っている情報をすぐ共有・貸与する。",
+          "sentence_2": "友人が授業や仕事で使う参考書や道具を急ぎで必要としていても、普段は貸し借りの手順や順番を重んじる場面では、まずは決まったやり方や慣習を守ることを優先して、必要な物品や情報の共有・貸与はその手順に従って行う。"
+          },
+        {
+          "id": "140",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 5,
+          "topic_id": "B-6",
+          "topic": "フェアトレード・生産者支援商品の購入",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "フェアトレードや生産者支援の商品を購入したい気持ちを優先し、職場で伝統的に選ばれている商品があっても、より倫理的な商品を選ぶ。",
+          "sentence_2": "フェアトレードや生産者支援の商品を購入したい気持ちはあるが、職場で伝統的に選ばれている商品があるので、伝統を重んじていつも通りの商品を優先して購入する。"
+          },
+        {
+          "id": "141",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 6,
+          "topic_id": "B-7",
+          "topic": "労働・人権配慮商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "家族の中で慣習的にいつも買っている種類の商品があるが、人権に配慮しているとうたっている商品を優先して購入する。",
+          "sentence_2": "家族の中で慣習的にいつも買っている種類の商品があるので、人権に配慮しているとうたっている商品ではなく、いつもの商品を優先して購入する。"
+          },
+        {
+          "id": "142",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 7,
+          "topic_id": "B-8",
+          "topic": "非倫理的企業・商品の不買・回避",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "会社で購入する商品の販売企業は慣習的に決まっているが、非倫理的だとされている企業の商品の購入を避けたいので、慣習を無視して異なる企業の商品を購入する。",
+          "sentence_2": "会社で購入する商品の販売企業は慣習的に決まっているので、非倫理的だとされている企業の商品の購入を避けたいが、慣習に従い従来通りに購入する。"
+          },
+        {
+          "id": "143",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 8,
+          "topic_id": "B-9",
+          "topic": "動物福祉に配慮した食品・商品の選択",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "倫理的消費のために、動物福祉に配慮した商品を購入したい気持ちを優先し、家族や周囲で長く選ばれてきた食品や日用品の選び方があっても、より倫理的な商品を選ぶ。",
+          "sentence_2": "倫理的消費のために、動物福祉に配慮した商品を購入したい気持ちはあるが、家族や周囲で長く選ばれてきた食品や日用品の選び方を大切にして、これまで通り慣れ親しんだ商品を優先して選ぶ。"
+          },
+        {
+          "id": "144",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 9,
+          "topic_id": "B-10",
+          "topic": "購買時の倫理認証・サプライチェーン情報の参照",
+          "topic_subcategory_en": "Ethical Consumer Choices",
+          "topic_subcategory_ja": "倫理的消費・購買選択",
+          "sentence_1": "店で商品を選ぶとき、倫理認証やサプライチェーン情報を気にしたいので、昔から家族や周囲でよく買われてきた定番品ではなく、それらの認証や情報がある商品を優先して購入する。",
+          "sentence_2": "店で商品を選ぶとき、倫理認証やサプライチェーン情報を気にしたいが、昔から家族や周囲でよく買われてきた定番品を優先して購入する。"
+          },
+        {
+          "id": "145",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 10,
+          "topic_id": "B-11",
+          "topic": "荷物運搬の手助け",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "駅や商業施設で重そうな荷物を持っている高齢者を見かけたとき、周囲の人の動きや順番の流れを乱すかもしれないが、困っている人を助けたい気持ちを優先して、自分から声をかけて荷物を持ち上げたり、改札の外まで運ぶのを手伝ったりする。",
+          "sentence_2": "駅や商業施設で重そうな荷物を持っている高齢者を見かけたとき、困っている人を助けたい気持ちはあるが、周囲の人の動きや順番の流れを乱さないことを優先して、声をかけるだけにとどめたり、駅員や近くの人に任せたりして、自分では荷物を運ぶ手助けをしない。"
+          },
+        {
+          "id": "146",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 11,
+          "topic_id": "B-12",
+          "topic": "移動手段の提供",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "困っている人を助けたり、移動の不便さを少しでも減らしたい気持ちが強いので、地域で慣習的に決まっている送迎の順番や役割分担があっても、それよりも必要としている人を優先して自分の車で目的地まで送る。",
+          "sentence_2": "困っている人を助けたり、移動の不便さを少しでも減らしたい気持ちもあるが、地域で慣習的に決まっている送迎の順番や役割分担を優先して、必要としている人がいても、自分の車で目的地まで送ることは控える。"
+          },
+        {
+          "id": "147",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 12,
+          "topic_id": "B-13",
+          "topic": "ドア・エレベーター・通行補助",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "駅や商業施設で、困っている人のために通行補助を行いたい気持ちを優先し、周囲の順番や空気などの規範を乱すかもしれないが、補助を行う。",
+          "sentence_2": "駅や商業施設で、困っている人のために通行補助を行いたい気持ちもあるが、周囲の順番や空気などの規範を乱さないことを優先して、特に補助は行わず、周囲の流れに合わせて行動する。"
+          },
+        {
+          "id": "148",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 13,
+          "topic_id": "B-14",
+          "topic": "列・順番・利用機会の譲渡",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "駅や公共施設の列で、後ろに高齢者や子ども連れがいて順番を待つのが負担になっていそうなので、列の順番や慣習的な並び方を乱すかもしれないが、自分の順番を譲る。",
+          "sentence_2": "駅や公共施設の列で、後ろに高齢者や子ども連れがいて順番を待つのが負担になっていそうだとしても、列の順番や慣習的な並び方を優先して、そのまま順番を守る。"
+          },
+        {
+          "id": "149",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 14,
+          "topic_id": "B-15",
+          "topic": "高齢者・障害者への配慮・介助",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "駅や公共施設で高齢者や障害のある人が困っている場面では、助けるために直接手助けを行いたい気持ちがあるので、周囲の流れやその場での決まった手順を乱すかもしれないが、直接的な手助けを行う。",
+          "sentence_2": "駅や公共施設で高齢者や障害のある人が困っている場面では、助けるために直接手助けを行いたい気持ちがあっても、周囲の流れやその場での決まった手順を優先し、直接的な手助けは行わず、周囲の人や施設の案内に従う。"
+          },
+        {
+          "id": "150",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 15,
+          "topic_id": "B-16",
+          "topic": "公共交通機関での席譲り",
+          "topic_subcategory_en": "Stranger & Public Assistance",
+          "topic_subcategory_ja": "見知らぬ人・公共場面での援助",
+          "sentence_1": "公共交通機関で、辛そうな人や高齢者に席を譲りたい気持ちがあるので、周囲が特に譲ろうとしない空気があっても、自分から声をかけて席を譲る。",
+          "sentence_2": "公共交通機関で、辛そうな人や高齢者に席を譲りたい気持ちはあるが、周囲が特に譲ろうとしない空気があるので、自分からは席を譲らず、周囲の様子に合わせて行動する。"
+          },
+        {
+          "id": "151",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 17,
+          "topic_id": "B-18",
+          "topic": "引っ越し・生活作業の手伝い",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "近所の人に、生活の深い部分に関わる手助けを頼まれたので、他人である自分が踏み込みすぎるべきではないという規範を意識しつつも、手助けを行う。",
+          "sentence_2": "近所の人に、生活の深い部分に関わる手助けを頼まれたが、他人ではなく自分は踏み込みすぎるべきではないという規範を意識して、手助けは控える。"
+          },
+        {
+          "id": "152",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 18,
+          "topic_id": "B-19",
+          "topic": "買い物・通院・外出支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "近所の人の通院や外出の支援を行いたい気持ちがあるので、まずは他人である自分ではなく親族などが支援するべきだという規範を意識しつつも、支援を行う。",
+          "sentence_2": "近所の人の通院や外出の支援を行いたい気持ちもあるが、まずは他人である自分ではなく親族などが支援するべきだという規範を優先して、それらの支援は控える。"
+          },
+        {
+          "id": "153",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 19,
+          "topic_id": "B-20",
+          "topic": "家事・身の回りの用事の手伝い",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "家族の家事を手伝う場面で、担当の家事を行えていない人がいるので、普段から決まっている秩序を乱すかもしれないが、家事を助けることを優先して、秩序に沿わずに家事を手伝う。",
+          "sentence_2": "家族の家事を手伝う場面で、担当の家事を行えていない人がいても、普段から決まっている秩序を重視し、秩序に沿って自分の担当分だけを行う。"
+          },
+        {
+          "id": "154",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 20,
+          "topic_id": "B-21",
+          "topic": "病気・困難時の生活支援",
+          "topic_subcategory_en": "Direct Help for Close Others",
+          "topic_subcategory_ja": "身近な他者への直接援助",
+          "sentence_1": "病気や体調不良で家事や買い物が難しい近所の人を助けたいので、地域で昔からある「まずは家族や親しい人が支える」という慣習よりも、必要な生活支援を優先して、声をかけて買い物や簡単な家事を手伝う。",
+          "sentence_2": "病気や体調不良で家事や買い物が難しい近所の人を助けたい気持ちはあるが、地域で昔からある「まずは家族や親しい人が支える」という慣習や、周囲との役割分担を優先して、直接の生活支援は控え、必要なら家族や既存の支援先につなぐ。"
+          },
+        {
+          "id": "155",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 21,
+          "topic_id": "B-22",
+          "topic": "孤独・不安への寄り添い",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "親しくない相手には踏み込みすぎないといった文化的な規範よりも、周囲の人の孤独や不安を少しでも和らげたい気持ちを優先して、孤独や不安を和らげるための行動に励む。",
+          "sentence_2": "周囲の人の孤独や不安を少しでも和らげたいが、親しくない相手には踏み込みすぎないといった文化的な規範を優先して、孤独や不安を和らげるための行動は控える。"
+          },
+        {
+          "id": "156",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 22,
+          "topic_id": "B-23",
+          "topic": "悩みの傾聴・助言",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "友人から悩みを打ち明けられたとき、国や地域での文化や慣習に沿った助言や支援よりも、自分の中で本当に相手に役立つと思う助言や支援を行う。",
+          "sentence_2": "友人から悩みを打ち明けられたとき、自分の中で本当に相手に役立つと思う助言や支援ではなく、国や地域での文化や慣習に沿った助言や支援を行う。"
+          },
+        {
+          "id": "157",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 23,
+          "topic_id": "B-24",
+          "topic": "メンタリング・伴走支援",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "職場や地域の若手に伴走支援をする場面で、これまでのやり方や上下関係の慣習よりも、支援を受ける人の不公平さを正したり弱い立場の人を支えたりすることを優先し、慣例にとらわれずに助言や紹介を行う。",
+          "sentence_2": "職場や地域の若手に伴走支援をする場面で、支援を受ける人の不公平さを正したり弱い立場の人を支えたりすることも大切だが、これまでのやり方や上下関係の慣習を優先して、慣例に沿い助言や紹介は控える。"
+          },
+        {
+          "id": "158",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 24,
+          "topic_id": "B-25",
+          "topic": "身の回りのケア・介助",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "身の回りのケア・介助が必要な近所の人に対して、地域の慣習や秩序よりも、介助を行って助けたいという気持ちを優先し、周囲の目や決まりにとらわれずに介助を行う。",
+          "sentence_2": "身の回りのケア・介助が必要な近所の人に対して、介助を行って助けたいという気持ちがあるが、地域の慣習や秩序を優先して、介助は行わない。"
+          },
+        {
+          "id": "159",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 25,
+          "topic_id": "B-26",
+          "topic": "生活トラブルの回避支援",
+          "topic_subcategory_en": "Emotional Support & Care",
+          "topic_subcategory_ja": "情緒的支援・ケア",
+          "sentence_1": "近所で生活上のトラブルを見かけたとき、困っている人を助けたい気持ちが強いので、近隣住民とはあまり距離を縮めすぎない文化や慣習を意識しつつも、困っている人のために手助けを行う。",
+          "sentence_2": "近所で生活上のトラブルを見かけたとき、困っている人を助けたい気持ちはあるが、近隣住民とはあまり距離を縮めすぎない文化や慣習を意識して、特に手助けはしない。"
+          },
+        {
+          "id": "160",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 26,
+          "topic_id": "B-27",
+          "topic": "学習支援・チュータリング",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "学校や地域の学習支援で、成績が遅れがちな生徒を助けたいので、普段の進め方や先輩から受け継いだやり方よりも、その生徒に合わせて説明の順番や教材を柔軟に変えてチュータリングを行う。",
+          "sentence_2": "学校や地域の学習支援で、成績が遅れがちな生徒を助けたいが、普段の進め方や先輩から受け継いだやり方があるので、その進め方を優先して、決まった手順に沿ってチュータリングを行う。"
+          },
+        {
+          "id": "161",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 27,
+          "topic_id": "B-28",
+          "topic": "教育・研修・技能指導",
+          "topic_subcategory_en": "Knowledge, Skills & Expertise Support",
+          "topic_subcategory_ja": "知識・技能・専門性の提供",
+          "sentence_1": "学校や地域の学習支援で、決まった進め方や伝統的に受け継がれてきたやり方があるとしても、学びに遅れがある子どもや苦手な人を助けたいので、従来の手順にこだわらず、理解しやすい説明や個別の教え方を優先して技能指導を行う。",
+          "sentence_2": "学校や地域の学習支援で、学びに遅れがある子どもや苦手な人を助けたい気持ちはあるが、決まった進め方や伝統的に受け継がれてきたやり方があるので、従来の手順や教え方を優先して、技能指導はその範囲で行う。"
+          },
+        {
+          "id": "162",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 30,
+          "topic_id": "B-31",
+          "topic": "慈善・非営利団体での活動",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "慈善・非営利団体での活動において、困っている人への支援の必要があるので、団体の運営慣行や伝統的な手法よりも、支援を必要としている人を優先し、決められた手順や役割分担にとらわれずに活動する。",
+          "sentence_2": "慈善・非営利団体での活動において、困っている人への支援の必要があっても、団体の運営慣行や伝統的な手法を優先し、決められた手順や役割分担に従って、既存のやり方の範囲で活動する。"
+          },
+        {
+          "id": "163",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 32,
+          "topic_id": "B-33",
+          "topic": "団体運営・事務支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "団体の運営や事務作業に関して手伝う際、これまでのやり方や役割分担などの慣例よりも、困っている人や不公平な負担を解決することを優先して、必要な事務作業の割り振りや進め方は柔軟に変更して行う。",
+          "sentence_2": "団体の運営や事務作業に関して手伝う際、困っている人や不公平な負担があっても、これまでのやり方や役割分担などの慣例を優先して、必要な事務作業の割り振りや進め方は従来のやり方に沿って行う。"
+          },
+        {
+          "id": "164",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 33,
+          "topic_id": "B-34",
+          "topic": "地域・学校活動の支援",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "地域の子どもや保護者の負担を減らして学校行事を支えたいので、地域や学校で長く続いてきた進め方や役割分担などの慣例よりも、負担を減らすための行動を優先して行う。",
+          "sentence_2": "地域の子どもや保護者の負担を減らして学校行事を支えたいが、地域や学校で長く続いてきた進め方や役割分担などの慣例を重視して、負担を減らすための行動は控える。"
+          },
+        {
+          "id": "165",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 34,
+          "topic_id": "B-35",
+          "topic": "社会課題の啓発・情報発信",
+          "topic_subcategory_en": "Community & Organizational Volunteering",
+          "topic_subcategory_ja": "地域・団体ボランティア",
+          "sentence_1": "個人のSNSを通じて社会課題の啓発・情報発信を行い、困っている人を支えたいが、思想が強いと思われかねない投稿は避ける周囲の風潮があるので、そういった投稿は控える。",
+          "sentence_2": "個人のSNSを通じて社会課題の啓発・情報発信を行い、困っている人を支えたいので、思想が強いと思われかねない投稿は避ける周囲の風潮があっても、そういった投稿を行う。"
+          },
+        {
+          "id": "166",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 37,
+          "topic_id": "B-38",
+          "topic": "被災者への支援",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "被災者の生活再建を少しでも早めたいので、地域で慣例的に決まっている支援物資の配り方や手順があっても、それよりも被災者に必要な物資や情報を優先して、柔軟に声をかけたり配布方法を調整したりする。",
+          "sentence_2": "被災者の生活再建を支えたい気持ちはあるが、支援物資の配り方や手順は地域で慣例的に決まっているので、被災者への支援でもまずはその順序や役割分担を守り、必要に応じた対応はその範囲内で行う。"
+          },
+        {
+          "id": "167",
+          "country": "日本",
+          "domain": "B_prosociality",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 38,
+          "topic_id": "B-39",
+          "topic": "地域清掃・公共空間の整備",
+          "topic_subcategory_en": "Relief & Public-Good Support",
+          "topic_subcategory_ja": "困窮・被災・公共支援",
+          "sentence_1": "地域に貢献したく、地域の清掃活動を個人的に行いたいので、自治体が定める清掃ルールがあるが、そうしたルールは気にせず個人での清掃活動を行う。",
+          "sentence_2": "地域に貢献したく、地域の清掃活動を個人的に行いたいが、自治体が定める清掃ルールがあるので、そうしたルールを優先して個人での清掃活動は行わない。"
+          }
+      ]
+    }
+  }
+}

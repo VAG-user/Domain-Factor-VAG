@@ -1,0 +1,4350 @@
+{
+  "country": "日本",
+  "domain": "C_health",
+  "factors": {
+    "1_economic": {
+      "records": [
+        {
+          "id": "0",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 0,
+          "topic_id": "C-1",
+          "topic": "果物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "他の食材と比べて高価であり経済的な負担は大きいが、健康のために果物の摂取を積極的に行う。",
+          "sentence_2": "健康のために重要だと分かってはいるが、他の食材と比べて高価であり経済的な負担も大きいので、果物の摂取は積極的には行わない。"
+        },
+        {
+          "id": "1",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 1,
+          "topic_id": "C-2",
+          "topic": "野菜の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "野菜は健康維持に役立つと考え、多少食費が増えても、毎日の食事では野菜の購入や摂取を意識的に行う。",
+          "sentence_2": "野菜を摂ることは健康維持に役立つと分かっていても、食費を抑えることを優先し、毎日の食事では野菜の購入や摂取を必要最小限にする。"
+        },
+        {
+          "id": "2",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 3,
+          "topic_id": "C-4",
+          "topic": "高食物繊維食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "家計に負担を与えても、健康維持のために、価格が高くとも食物繊維が多い食品を意識して選ぶ。",
+          "sentence_2": "健康維持に役立つことは分かっていても、家計への負担を抑えるために、食物繊維が多い食品は必要以上には選ばず、価格の安い食品を優先する。"
+        },
+        {
+          "id": "3",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 4,
+          "topic_id": "C-5",
+          "topic": "高塩分食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "値段の安さを重視して高塩分の加工食品や外食を選ぶと経済的には助かるが、健康を優先して、可能な限り塩分を控えた食事内容を選ぶ。",
+          "sentence_2": "健康のためには塩分を控える必要があると分かっていても、食費を抑えて家計を優先するため、安価で手に入りやすい高塩分の加工食品や外食を選ぶ。"
+        },
+        {
+          "id": "4",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 5,
+          "topic_id": "C-6",
+          "topic": "高脂肪・揚げ物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "経済的な負担が大きくとも、健康を優先して、揚げ物や高脂肪の料理をできるだけ避けた食事内容を選ぶようにする。",
+          "sentence_2": "健康のためには揚げ物や高脂肪の料理を控えるのが望ましいと分かっていても、食費を抑えて経済的な負担を減らすことを優先し、手頃な価格の揚げ物や高脂肪の料理を選ぶようにする。"
+        },
+        {
+          "id": "5",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 7,
+          "topic_id": "C-8",
+          "topic": "高タンパク質食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "家計の負担が大きくなろうとも、健康維持のために、鶏むね肉、卵、豆腐、納豆、ヨーグルトなどの高タンパク質食品を日常の食事に取り入れるようにする。",
+          "sentence_2": "健康維持に役立つことは分かっていても、家計の負担を小さくするために、鶏むね肉、卵、豆腐、納豆、ヨーグルトなどの高タンパク質食品は日常の食事には取り入れないようにする。"
+        },
+        {
+          "id": "6",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 9,
+          "topic_id": "C-10",
+          "topic": "外食・中食・加工食品での健康的選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "外食や中食、加工食品を選ぶときは、多少価格が高く家計に負担が大きくとも、健康を優先した上で食事内容を整える。",
+          "sentence_2": "外食や中食、加工食品を選ぶときは、健康を優先した上で食事内容を整えるのではなく、価格が安く家計に負担が少ないものを優先して選ぶ。"
+        },
+        {
+          "id": "7",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 10,
+          "topic_id": "C-11",
+          "topic": "有機・低農薬食品の選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "値段が高価で経済的な負担にも繋がるが、健康維持のために、有機・低農薬食品を選択・消費するようにする。",
+          "sentence_2": "健康維持のために良いのは分かるが、値段が高価で経済的な負担にも繋がるため、有機・低農薬食品は選択・消費しないようにする。"
+        },
+        {
+          "id": "8",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 14,
+          "topic_id": "C-15",
+          "topic": "余暇のスポーツ・運動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "余暇にスポーツや運動をする際は、会費や用具代などの経済的負担があっても、体調管理や心身の健康維持を優先して、地域のスポーツ施設や運動教室を利用しながら定期的に続ける。",
+          "sentence_2": "余暇にスポーツや運動をすることは心身の健康に役立つと分かっていても、会費や用具代などの経済的負担を優先して考え、できるだけ費用のかからない範囲にとどめたり、参加を控えたりする。"
+        },
+        {
+          "id": "9",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 15,
+          "topic_id": "C-16",
+          "topic": "筋力強化運動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "筋力強化運動は、ジムの会費や器具代などでお金がかかっても、健康のために大切だと思うので、定期的に行う。",
+          "sentence_2": "筋力強化運動は、健康のために大切だと分かっていても、ジムの会費や器具代などの出費を抑えてお金を優先し、積極的には行わない。"
+        },
+        {
+          "id": "10",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 17,
+          "topic_id": "C-18",
+          "topic": "長時間座位の抑制",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "仕事の効率や収入につながる作業を優先することも大切だが、健康面を考慮して、長時間座り続けることは避け、適度に作業を中断することをためらわない。",
+          "sentence_2": "長時間座り続けることは健康面では良くないが、仕事の効率や収入につながる作業を優先したいので、特に中断などは行わず、作業を続ける。"
+        },
+        {
+          "id": "11",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 18,
+          "topic_id": "C-19",
+          "topic": "スクリーン時間の管理",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康のためにスマートフォンやPCの使用時間を減らすことは大切だと考え、収入に直結する仕事の効率が下がることは気になるが、スクリーン時間の管理を意識して使用する。",
+          "sentence_2": "健康のためにスマートフォンやPCの使用時間を減らした方が良いと分かっていても、収入に直結する仕事の効率を優先して、スクリーン時間の管理は特に気にせず使用する。"
+        },
+        {
+          "id": "12",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 19,
+          "topic_id": "C-20",
+          "topic": "睡眠時間の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "経済的な負担が増えても、健康を保つために、残業や副業の時間を調整して睡眠時間を十分に確保するようにする。",
+          "sentence_2": "健康のために睡眠時間を確保することは大切だと分かっていても、収入や貯蓄を優先して、残業や副業を続けるために睡眠時間は必要最低限にとどめるようにする。"
+        },
+        {
+          "id": "13",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 20,
+          "topic_id": "C-21",
+          "topic": "睡眠リズムの確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "収入面を考えることも大切だが、健康のために睡眠リズムを整えることを優先し、残業や副業の時間を調整したり減らしてでも、就寝・起床の時刻を規則正しく保つようにする。",
+          "sentence_2": "健康のために睡眠リズムを整えることは大切だと分かっていても、収入面を優先して、残業や副業をためらわず、就寝・起床の時刻が不規則になっても睡眠リズムの確保は後回しにする。"
+        },
+        {
+          "id": "14",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 21,
+          "topic_id": "C-22",
+          "topic": "睡眠の質の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "経済的な負担が増えても、睡眠の質を確保して心身の不調を避けることを優先し、必要に応じて寝具や快適な睡眠環境づくりなどにお金をかけるようにする。",
+          "sentence_2": "睡眠の質を高める工夫が心身の健康に役立つことは分かっているが、出費を抑えることを優先するため、寝具や快適な睡眠環境への支出は控える。"
+        },
+        {
+          "id": "15",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 22,
+          "topic_id": "C-23",
+          "topic": "日中の休息・疲労回復",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "仕事中に疲労を感じたときは、仕事を続けることで収入や経済的な利益を優先するよりも、少しでも多く休息を取ることを優先する。",
+          "sentence_2": "仕事中に疲労を感じたときは、休息を取ることの大切さは理解しつつも、休憩時間をできるだけ短くして仕事を続け、収入や経済的な利益を優先する。"
+        },
+        {
+          "id": "16",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 23,
+          "topic_id": "C-24",
+          "topic": "ストレス対処・リラクゼーション",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "経済的な負担が増えても、心身の健康のためにストレス対処を優先し、仕事を中断したり休むことをためらわず、ストレス対処を行う。",
+          "sentence_2": "心身の健康のためにストレス対処が大切だと分かっていても、経済的な面を優先して、仕事を中断したり休んだりせずストレス対処を後回しにする。"
+        },
+        {
+          "id": "17",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 27,
+          "topic_id": "C-28",
+          "topic": "受動喫煙の回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "受動喫煙を避けることを優先し、多少費用がかかり経済的な負担となってでも、料金の安い喫煙可能な店や場所を避けて、禁煙席や禁煙の施設を選ぶ。",
+          "sentence_2": "受動喫煙を避けることは大切だと分かっていても、費用を抑えて経済的な負担を減らすことを優先し、禁煙席や禁煙の施設を選ぶより、料金の安い喫煙可能な店や場所を利用するようにする。"
+        },
+        {
+          "id": "18",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 31,
+          "topic_id": "C-32",
+          "topic": "手洗い・石けん使用",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "石けんの購入費用が負担だが、手を清潔に保つことは大切だと考え、家でも石けんを購入して使用する。",
+          "sentence_2": "手を清潔に保つことは大切だと分かっているが、石けんの購入費用が負担なため、家では石けんの購入・使用はしない。"
+        },
+        {
+          "id": "19",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 32,
+          "topic_id": "C-33",
+          "topic": "アルコール消毒",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "アルコール消毒の購入費用が負担だが、健康のためにアルコール消毒を使用することは大切だと考え、家でもアルコール消毒を購入して使用する。",
+          "sentence_2": "健康のためにアルコール消毒が大切なことは分かっているが、経済的な負担をできるだけ抑えたいので、家ではアルコール消毒の購入・使用はしない。"
+        },
+        {
+          "id": "20",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 34,
+          "topic_id": "C-35",
+          "topic": "歯間清掃の実施",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "経済的な負担を抑えることよりも、口の健康に役立つことを優先して、歯間ブラシやデンタルフロスを購入・使用する。",
+          "sentence_2": "口の健康に役立つことは分かっていても、歯間ブラシやデンタルフロスにかかる費用を抑えることを優先して、歯間清掃は特に行わない。"
+        },
+        {
+          "id": "21",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 35,
+          "topic_id": "C-36",
+          "topic": "定期的な歯科検診の受診",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "費用面で経済的な負担にはなるが、口の健康のために定期的な歯科検診を受ける。",
+          "sentence_2": "口の健康に役立つことは分かっているが、費用を抑えて経済的な負担を抑えたいので、歯科検診は定期的には受けない。"
+        },
+        {
+          "id": "22",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 36,
+          "topic_id": "C-37",
+          "topic": "体重・体格の把握",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康を優先して、体重や体格を把握するために、多少費用がかかっても体組成計や定期的な測定サービスを利用し、体の状態をこまめに確認する。",
+          "sentence_2": "経済的な負担を優先して、体重や体格を把握することは健康管理に役立つと分かっていても、体組成計や測定サービスにはお金をかけず、必要最低限の確認にとどめる。"
+        },
+        {
+          "id": "23",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 37,
+          "topic_id": "C-38",
+          "topic": "適正体重の維持・体重管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "経済的な負担を抑えることよりも、健康を優先して、適正体重を維持するために、安いファストフードなどの不健康な食事習慣を見直し野菜中心の食事習慣に変更する。",
+          "sentence_2": "健康のために適正体重の維持が大切だと分かっていても、経済的な負担を抑えることを優先して、野菜中心の食事習慣には変更せず安いファストフードなどの不健康な食事習慣を続ける。"
+        },
+        {
+          "id": "24",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 38,
+          "topic_id": "C-39",
+          "topic": "血圧測定・高血圧管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "血圧測定や高血圧管理にかかる費用は負担だが、健康を優先して、機器の購入や通院・服薬にかかる費用を惜しまず、家庭での血圧測定や定期的な受診を行う。",
+          "sentence_2": "血圧測定や高血圧管理の重要性は理解しているが、機器の購入費や通院・服薬にかかる費用を抑えて家計を優先し、家庭での血圧測定や定期的な受診は必要最小限にとどめる。"
+        },
+        {
+          "id": "25",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 39,
+          "topic_id": "C-40",
+          "topic": "血糖測定・糖尿病管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "血糖測定や糖尿病管理にかかる費用は負担になるが、健康を優先して、機器や消耗品、通院・服薬にかかる費用を惜しまず、自己測定や受診、服薬、食事管理を積極的に行う。",
+          "sentence_2": "血糖測定や糖尿病管理の必要性は理解しているが、機器や消耗品、通院にかかる費用を抑えて家計を優先し、自己測定や受診、服薬、食事管理は必要最小限にとどめる。"
+        },
+        {
+          "id": "26",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 40,
+          "topic_id": "C-41",
+          "topic": "脂質測定・コレステロール管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "経済的な負担はあるが、健康のために、脂質やコレステロールの状態を確認するために定期的に血液検査や受診をを行う。",
+          "sentence_2": "脂質やコレステロールの状態が気になっても、経済的な負担を抑えることを優先して、検査費用や通院費を抑えるために定期的な血液検査や受診は控える。"
+        },
+        {
+          "id": "27",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 41,
+          "topic_id": "C-42",
+          "topic": "定期的な健康診断・検診の受診",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "経済的な負担があっても、健康のために、定期的に健康診断や検診を行う。",
+          "sentence_2": "健康のために大切だと分かっていても、経済的な負担を抑えることを優先して、必要性を感じる場合以外は健康診断や検診を控える。"
+        },
+        {
+          "id": "28",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "1_economic",
+          "external_factor": "経済的要因",
+          "external_factor_values": [
+            "Wealth"
+          ],
+          "external_factor_values_definitions": {
+            "Wealth": "material possessions, money"
+          },
+          "topic_index": 42,
+          "topic_id": "C-43",
+          "topic": "予防接種・ワクチン接種",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "経済的な負担に繋がるが、健康管理のために、予防接種・ワクチン接種は積極的に行う。",
+          "sentence_2": "健康管理のために必要なことは分かるが、経済的な負担に繋がるため、予防接種・ワクチン接種は積極的には行わない。"
+        }
+      ]
+    },
+    "2_hedonism": {
+      "records": [
+        {
+          "id": "29",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 0,
+          "topic_id": "C-1",
+          "topic": "果物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "あまり味が好みではなくとも、健康のために、果物は意識的に食べる。",
+          "sentence_2": "果物は健康に良いと分かっているが、あまり味が好みではないため、特に食べることは意識しない。"
+        },
+        {
+          "id": "30",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 1,
+          "topic_id": "C-2",
+          "topic": "野菜の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "味が好みではないが、健康のために日々の食事で野菜を摂取することを意識する。",
+          "sentence_2": "健康のために日々の食事で野菜を摂取した方が良いと分かっているが、味が好みではないため、野菜は特に食べない。"
+        },
+        {
+          "id": "31",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 2,
+          "topic_id": "C-3",
+          "topic": "砂糖入り飲料の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために砂糖入り飲料は控えた方が良いと思っているので、甘くて飲むと気分が上がるが、普段から量や回数を意識して控える。",
+          "sentence_2": "健康のために控えた方が良いとは思っているが、砂糖入り飲料は甘くて飲むと気分が上がるので、普段から量や回数をあまり気にせずに飲む。"
+        },
+        {
+          "id": "32",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 3,
+          "topic_id": "C-4",
+          "topic": "高食物繊維食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "高食物繊維食品は満足感があり健康維持にも役立つと考えるため、白米や揚げ物などよりも、野菜や豆類などを意識して選び、楽しさや好みよりも健康を優先して食べる。",
+          "sentence_2": "高食物繊維食品は体に良いと分かっていても、食事の楽しさや好みを優先して、白米や揚げ物などを中心にしつつ、野菜や豆類などはあまり意識せずに食べる。"
+        },
+        {
+          "id": "33",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 4,
+          "topic_id": "C-5",
+          "topic": "高塩分食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "高塩分の食品は味わいが強く食事の満足感が高いが、体を健康に保ちたいので、外食や惣菜でも塩分の多いものは控えめにして、薄味のものを選ぶ。",
+          "sentence_2": "体を健康に保つことも気にしているが、味の濃い高塩分の食品は食べる楽しみが大きいので、外食や惣菜でも塩分の多いものをあまり気にせず選ぶ。"
+        },
+        {
+          "id": "34",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 5,
+          "topic_id": "C-6",
+          "topic": "高脂肪・揚げ物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "高脂肪なものや揚げ物は好物でたくさん食べたいが、健康維持のために摂取を制限する。",
+          "sentence_2": "健康維持のために摂取を制限した方が良いと思っているが、好物なため高脂肪なものや揚げ物はたくさん食べる。"
+        },
+        {
+          "id": "35",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 6,
+          "topic_id": "C-7",
+          "topic": "高糖食品・菓子類の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "高糖食品や菓子類はおいしくて楽しみもあるが、体調を崩さないように、普段は量や回数を控えて摂取する。",
+          "sentence_2": "体調を整えたい気持ちはあるが、おいしさや食べる楽しみを優先して、高糖食品や菓子類はあまり控えずに摂取する。"
+        },
+        {
+          "id": "36",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 7,
+          "topic_id": "C-8",
+          "topic": "高タンパク質食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "食事の際は健康のために、他の好きなものよりも、鶏むね肉、卵、豆腐、納豆、ヨーグルトなどを意識して取り入れ、たんぱく質量を考えながら食べる。",
+          "sentence_2": "健康のために高タンパク質食品を意識した方がよいと思っているが、食事の楽しさや好みを優先して、鶏むね肉、卵、豆腐、納豆、ヨーグルトなどは特に意識せず、好きなものを中心に食べる。"
+        },
+        {
+          "id": "37",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 8,
+          "topic_id": "C-9",
+          "topic": "食事量・エネルギー摂取量の調整",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "食事の際は楽しみや満足感も大事だが、健康のために食事量を控えめにして、適切な量を意識して食べる。",
+          "sentence_2": "健康のために食事量を控えめにした方がよいと思っているが、楽しみや満足感を優先して、満腹になるまでしっかり食べる。"
+        },
+        {
+          "id": "38",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 9,
+          "topic_id": "C-10",
+          "topic": "外食・中食・加工食品での健康的選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "外食や中食、加工食品を選ぶときは、食べる楽しさもあるが、体調を崩したくない気持ちを優先して、野菜が多い定食や減塩表示のある商品、揚げ物を控えたメニューを選ぶ。",
+          "sentence_2": "外食や中食、加工食品を選ぶときは、体調管理も気になるが、食べる楽しさや満足感を優先して、好みの味付けのメニューや菓子パン、味の濃い加工食品を選ぶ。"
+        },
+        {
+          "id": "39",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 10,
+          "topic_id": "C-11",
+          "topic": "有機・低農薬食品の選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために有機・低農薬食品を選んだ方がよいと思っているので、食べる楽しみよりも健康を優先して、より美味しいと感じる他の通常品ではなく有機・低農薬食品を選ぶ。",
+          "sentence_2": "健康のために有機・低農薬食品を選んだ方がよいと思っているが、食べる楽しみを優先して、より美味しいと感じる他の通常品を選ぶ。"
+        },
+        {
+          "id": "40",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 11,
+          "topic_id": "C-12",
+          "topic": "徒歩による移動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康のためには徒歩で移動した方がよいと思っているので、疲労も無く楽で、道中に他のこともできて楽しい自動車や公共交通機関での移動よりも、徒歩で移動することを優先する。",
+          "sentence_2": "健康のためには徒歩で移動した方がよいと思っているが、疲労も無く楽で、道中に他のこともできて楽しいため、自動車や公共交通機関での移動をためらわない。"
+        },
+        {
+          "id": "41",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 12,
+          "topic_id": "C-13",
+          "topic": "自転車による移動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康のためには自転車で移動した方がよいと思っているので、疲労も無く楽で、道中に他のこともできて楽しい自動車や公共交通機関での移動よりも、自転車で移動することを優先する。",
+          "sentence_2": "健康のために自転車で移動した方が良いと思っているが、疲労も無く楽で、道中に他のこともできて楽しいため、自動車や公共交通機関での移動をためらわない。"
+        },
+        {
+          "id": "42",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 14,
+          "topic_id": "C-15",
+          "topic": "余暇のスポーツ・運動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "他のゲームなどのインドアな趣味の方が楽しいと思っているが、健康のために余暇のスポーツや運動を行った方が良いと思っているので、インドアな趣味よりもそちらを優先する。",
+          "sentence_2": "健康のために余暇のスポーツや運動を行った方が良いと思っているが、他のゲームなどのインドアな趣味の方が楽しいため、運動やスポーツよりもそちらを優先する。"
+        },
+        {
+          "id": "43",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 17,
+          "topic_id": "C-18",
+          "topic": "長時間座位の抑制",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康のために体を動かした方がよいと思っているので、座りながら食事や動画視聴などを楽しむ方が好きでも、楽しさよりも健康を優先して、長時間座り続けず体を動かす。",
+          "sentence_2": "健康のために体を動かした方がよいとは思っているが、座りながら食事や動画視聴などを楽しむ方が好きなので、健康よりも楽しさを優先して、長時間座り続ける。"
+        },
+        {
+          "id": "44",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 18,
+          "topic_id": "C-19",
+          "topic": "スクリーン時間の管理",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "スマートフォンや動画のスクリーン時間は気分転換や楽しみになるが、心身の健康を保つために、就寝前や長時間の連続使用を避けて、あらかじめ時間を決めて管理する。",
+          "sentence_2": "心身の健康を保つためにはスクリーン時間を管理した方がよいと思っているが、スマートフォンや動画は気分転換や楽しみになるため、就寝前や長時間の連続使用もあまり気にせず、時間を決めずに使う。"
+        },
+        {
+          "id": "45",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 19,
+          "topic_id": "C-20",
+          "topic": "睡眠時間の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "睡眠時間を削ると趣味の時間を長く楽しめるが、心身の健康を保つために、毎日できるだけ十分な睡眠時間を確保する。",
+          "sentence_2": "心身の健康のためには十分な睡眠時間を確保したいと思っているが、趣味の時間を長く楽しめるため、睡眠時間はあまり気にせず夜更かしをためらわない。"
+        },
+        {
+          "id": "46",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 20,
+          "topic_id": "C-21",
+          "topic": "睡眠リズムの確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "夜更かしして動画や趣味を楽しみたい気持ちはあるが、心身の健康を保つために、毎日できるだけ同じ時間に寝起きして睡眠リズムを整える。",
+          "sentence_2": "心身の健康のためには睡眠リズムを整えたいと思っているが、夜に動画や趣味を楽しむことの満足感を優先して、就寝時間はあまり固定せずに過ごす。"
+        },
+        {
+          "id": "47",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 21,
+          "topic_id": "C-22",
+          "topic": "睡眠の質の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "睡眠の質を保ちたいので、夜更かしして動画視聴や娯楽でくつろいで楽しみたい気持ちもあるが、就寝時間を整えたり睡眠の質を保つ工夫をする。",
+          "sentence_2": "夜の動画視聴や娯楽でくつろいで楽しみたいので、睡眠の質を保ちたい気持ちもあるが、就寝時間を整えたり睡眠の質を保つ工夫は気にせず、夜更かしして楽しむ。"
+        },
+        {
+          "id": "48",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 23,
+          "topic_id": "C-24",
+          "topic": "ストレス対処・リラクゼーション",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "ストレスを和らげるために、入浴や軽いストレッチ、深呼吸などのリラクゼーションを取り入れたい気持ちがあるので、他の好きな娯楽に時間を使うよりも、リラクゼーションを優先して行う。",
+          "sentence_2": "ストレスを和らげるために、入浴や軽いストレッチ、深呼吸などのリラクゼーションを取り入れたい気持ちはあるが、他の好きな娯楽に時間を使いたい気持ちの方が大きいので、そちらを優先する。"
+        },
+        {
+          "id": "49",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 24,
+          "topic_id": "C-25",
+          "topic": "燃焼式タバコの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "燃焼式タバコの使用はストレス発散になるが、健康の維持のために、使用しないようにする。",
+          "sentence_2": "健康維持のために回避したいが、ストレス発散になるため、燃焼式タバコの使用は回避しない。"
+        },
+        {
+          "id": "50",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 25,
+          "topic_id": "C-26",
+          "topic": "無煙タバコの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "気分転換や楽しみよりも、健康を保つことを優先して、無煙タバコの使用は控える。",
+          "sentence_2": "健康を保つことは大切だと思っているが、気分転換や楽しみを優先して、無煙タバコの使用をためらない。"
+        },
+        {
+          "id": "51",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 26,
+          "topic_id": "C-27",
+          "topic": "電子タバコ・ベイピングの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "電子タバコやベイピングは気分転換や楽しみになるが、健康を保ちたいので、使用を控える。",
+          "sentence_2": "健康を保ちたい気持ちはあるが、気分転換や楽しみになるため、電子タバコやベイピングの使用をためらわない。"
+        },
+        {
+          "id": "52",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 27,
+          "topic_id": "C-28",
+          "topic": "受動喫煙の回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "受動喫煙は健康に良くないと分かっているので、食事や会話を楽しむことよりも健康を優先して、煙のある店や喫煙可能な場所は避ける。",
+          "sentence_2": "受動喫煙は健康に良くないと分かっていても、食事や会話を楽しむことを優先して、煙のある店や喫煙可能な場所でも特に気にせず利用する。"
+        },
+        {
+          "id": "53",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 28,
+          "topic_id": "C-29",
+          "topic": "飲酒頻度の管理",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "酔うと気持ち良くなるため，特に頻度を気にせず頻繁に飲酒したいが，健康維持のために，飲酒頻度の管理を行う。",
+          "sentence_2": "健康を維持したい気持ちはあるが，酔うと気持ちよくなるため，特に頻度の管理は行わずに頻繁に飲酒を行う。"
+        },
+        {
+          "id": "54",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 29,
+          "topic_id": "C-30",
+          "topic": "飲酒量の調整",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "飲酒によって食事や会話をより楽しめるが、健康の意識を優先して、量を控えめにして飲む。",
+          "sentence_2": "健康も意識しているが、飲酒によって食事や会話をより楽しめるため、量は特に気にせずに飲む。"
+        },
+        {
+          "id": "55",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 30,
+          "topic_id": "C-31",
+          "topic": "減酒・断酒の実践",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "健康のために断酒を行った方がよいと思っているので、飲酒はストレス発散や気分転換になり心地よいが、健康を優先して断酒を行う。",
+          "sentence_2": "健康のために断酒を行いたい気持ちはあるが、飲酒はストレス発散や気分転換になり心地よいので、断酒はせずにためらわずに飲酒を行う。"
+        },
+        {
+          "id": "56",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 35,
+          "topic_id": "C-36",
+          "topic": "定期的な歯科検診の受診",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "歯科検診で口の中の健康を保ちたい気持ちがあるので、食事や余暇を楽しみたい気持ちよりも健康を優先して、定期的に歯科検診を受診する。",
+          "sentence_2": "歯科検診で口の中の健康を保ちたい気持ちもあるが、食事や余暇を楽しみたい気持ちを優先して、定期的な歯科検診の受診は行わない。"
+        },
+        {
+          "id": "57",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 37,
+          "topic_id": "C-38",
+          "topic": "適正体重の維持・体重管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために体重管理を行った方が良いと思っているので、甘いものや外食などを制限するなど、食事の楽しみよりも健康を優先して、体重管理を行う。",
+          "sentence_2": "健康のために体重管理を行った方がよいと思っているが、食事の楽しみを優先したいので、甘いものや外食などもためらわず、体重管理は特に行わない。"
+        },
+        {
+          "id": "58",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 38,
+          "topic_id": "C-39",
+          "topic": "血圧測定・高血圧管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "高血圧管理は健康のために必要だと考えているが、食事を楽しむことの満足感よりも健康を優先して、塩分の高い食事などは控える。",
+          "sentence_2": "高血圧管理は健康のために必要だと考えているが、食事を楽しむことの満足感を優先し、塩分の高い食事などもためらわずに食べる。"
+        },
+        {
+          "id": "59",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 39,
+          "topic_id": "C-40",
+          "topic": "血糖測定・糖尿病管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のための血糖値の管理は大事だと思っているので、食事や間食を楽しむ気持ちよりも健康を優先して、血糖値が上がるような食事内容や食事習慣は控える。",
+          "sentence_2": "食事や間食を楽しみたい気持ちを優先して、健康のための血糖値の管理は大事だと思っているが、血糖値が上がるような食事内容や食事習慣を続ける。"
+        },
+        {
+          "id": "60",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 40,
+          "topic_id": "C-41",
+          "topic": "脂質測定・コレステロール管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のためのコレステロール管理は大事だと思っているので、味の好みや食事の満足感よりも健康を優先して、コレステロール値が上がるような食事内容は控える。",
+          "sentence_2": "コレステロール管理は健康のために大事だと思っていても、味の好みや食事の満足感を優先して、コレステロール値が上がるとしても好きなものを食べることを優先する。"
+        },
+        {
+          "id": "61",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 41,
+          "topic_id": "C-42",
+          "topic": "定期的な健康診断・検診の受診",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために定期的な健康診断・検診を受けた方がよいと思っているので、食事や余暇を楽しむ気持ちよりも健康を優先して、定期的に受診する。",
+          "sentence_2": "食事や余暇を楽しむ時間を優先したいので、定期的な健康診断・検診は、健康のために受けた方がよいと思いながらも、特に受けない。"
+        },
+        {
+          "id": "62",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "2_hedonism",
+          "external_factor": "快楽要因",
+          "external_factor_values": [
+            "Pleasure",
+            "Enjoying Life"
+          ],
+          "external_factor_values_definitions": {
+            "Pleasure": "gratification of desires",
+            "Enjoying Life": "enjoying food, sex, leisure etc."
+          },
+          "topic_index": 42,
+          "topic_id": "C-43",
+          "topic": "予防接種・ワクチン接種",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために予防接種やワクチン接種を受けたい気持ちがあるので、接種日の他の楽しい予定や接種後の予定よりも健康を優先して、必要な時期に適切に受ける。",
+          "sentence_2": "健康のために予防接種やワクチン接種を受けたい気持ちはあるが、接種日の他の楽しい予定や接種後の予定を優先して、必要な時期にも特に受けない。"
+        }
+      ]
+    },
+    "3_functionality_and_convenience": {
+      "records": [
+        {
+          "id": "63",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 0,
+          "topic_id": "C-1",
+          "topic": "果物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために果物を摂取したいので、購入や調理の手間が不便でも、毎日果物を食べるようにする。",
+          "sentence_2": "健康のために果物を摂取したいが、購入や調理の手間が不便なので、果物の摂取は控える。"
+        },
+        {
+          "id": "64",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 1,
+          "topic_id": "C-2",
+          "topic": "野菜の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "調理や準備が大変で手間がかかるが、健康のために野菜を摂取することを優先して、毎日の食事に野菜を取り入れる。",
+          "sentence_2": "野菜を摂ることは意識しているが、調理や準備が大変で手間がかかるので、野菜の摂取は控えめにする。"
+        },
+        {
+          "id": "65",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 3,
+          "topic_id": "C-4",
+          "topic": "高食物繊維食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために食物繊維を多く含む食品を取り入れたいので、購入や調理の手間がかかっても、毎日の食事に食物繊維を意識して摂る。",
+          "sentence_2": "健康のために食物繊維を多く含む食品を取り入れたいが、購入や調理の手間がかかるので、食物繊維が不足しても、すぐに食べられる便利な食品を優先して選ぶ。"
+        },
+        {
+          "id": "66",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 4,
+          "topic_id": "C-5",
+          "topic": "高塩分食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために塩分を減らしたいので、手軽で便利な高塩分食品は控え、塩分の濃い惣菜やインスタント食品は避ける。",
+          "sentence_2": "健康のために塩分を減らしたいが、高塩分食品は手軽で便利なので、塩分の濃い惣菜やインスタント食品をためらわずに選ぶ。"
+        },
+        {
+          "id": "67",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 5,
+          "topic_id": "C-6",
+          "topic": "高脂肪・揚げ物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "手早く便利に入手・摂取できることよりも、健康的な食事を摂りたい気持ちを優先して、外食や中食では揚げ物や脂肪分の少ない料理を選ぶ。",
+          "sentence_2": "健康的な食事を摂りたい気持ちもあるが、手早く便利に入手・摂取できることを優先して、外食や中食では揚げ物や脂肪分の多い料理を選ぶ。"
+        },
+        {
+          "id": "68",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 6,
+          "topic_id": "C-7",
+          "topic": "高糖食品・菓子類の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "糖分のとりすぎが気になるので、たとえ手軽で用意しやすく、すぐに食べられて便利だとしても、糖分の多い食事は避ける。",
+          "sentence_2": "糖分のとりすぎは気になるが、手軽で用意しやすく、すぐに食べられて便利なので、糖分の多い食事を摂ることをためらわない。"
+        },
+        {
+          "id": "69",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 7,
+          "topic_id": "C-8",
+          "topic": "高タンパク質食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために高タンパク質の摂取を心がけたいので、食事内容でタンパク質を摂取することは不便だが、全体的な栄養面で劣るプロテイン飲料で効率よく摂取するよりも、食事内容でタンパク質を摂取することに努める。",
+          "sentence_2": "健康のために高タンパク質の摂取を心がけたく、なるべく食事内容でタンパク質を摂取したいが、食事内容の調整よりも、全体的な栄養面で劣るがプロテイン飲料で効率よく摂取することを優先する。"
+        },
+        {
+          "id": "70",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 9,
+          "topic_id": "C-10",
+          "topic": "外食・中食・加工食品での健康的選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "すぐに食べることができる加工食品は非常に便利だが、栄養面を考慮して、手間をかけてでも自炊をする。",
+          "sentence_2": "栄養面を考慮する気持ちもあるが、手間のかかる自炊をするよりも、すぐに食べることができて便利な加工食品を食べる。"
+        },
+        {
+          "id": "71",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 10,
+          "topic_id": "C-11",
+          "topic": "有機・低農薬食品の選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために有機・低農薬食品を選択したいので、入手のための負担が大きくても、より手軽に買える通常品ではなく有機・低農薬食品を購入する。",
+          "sentence_2": "健康のために有機・低農薬食品を選択したいが、入手のための負担が大きいので、より手軽に買える通常品の購入を優先する。"
+        },
+        {
+          "id": "72",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 11,
+          "topic_id": "C-12",
+          "topic": "徒歩による移動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "公共交通機関を利用した方が時間を節約できて効率的だが、健康のために、徒歩で毎日通勤する。",
+          "sentence_2": "健康のために毎日徒歩で通勤したいが、時間が節約できて効率的なので、公共交通機関を利用して毎日通勤する。"
+        },
+        {
+          "id": "73",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 12,
+          "topic_id": "C-13",
+          "topic": "自転車による移動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "自動車や公共交通機関の方が効率的で便利だが、健康のために体を動かしたいという気持ちを優先し、自転車で移動する。",
+          "sentence_2": "健康のために体を動したいと考えているが、効率的で便利なので、自転車ではなく自動車や公共交通機関を利用して移動する。"
+        },
+        {
+          "id": "74",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 13,
+          "topic_id": "C-14",
+          "topic": "日常生活・仕事・家事での身体活動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "仕事や家事で忙しくても、健康を保つために、エレベーターや車に頼りすぎず、通勤や買い物の際はできるだけ階段を使ったり、少し遠回りして歩いたりして、日常の中で身体を動かすようにする。",
+          "sentence_2": "健康のために身体を動かしたい気持ちはあるが、効率よく移動や作業を進められて使い勝手もよいので、通勤や買い物、家事ではエレベーターや車を活用し、日常の身体活動は特に増やさない。"
+        },
+        {
+          "id": "75",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 18,
+          "topic_id": "C-19",
+          "topic": "スクリーン時間の管理",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "非常に便利で生活における効率化につながるが、長時間のスクリーン使用による健康への悪影響を考慮し、PCやスマホの使用時間はなるべく制限する。",
+          "sentence_2": "長時間のスクリーン使用による健康への悪影響は気になるが、非常に便利で生活における効率化に繋がるため、PCやスマホの使用時間は特に制限しない。"
+        },
+        {
+          "id": "76",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 19,
+          "topic_id": "C-20",
+          "topic": "睡眠時間の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "日中よりも夜の方が仕事や家事を効率よく進められるとしても、睡眠不足による心身への影響を避けることを優先して、就寝前の作業は控え、睡眠時間の確保を優先する。",
+          "sentence_2": "睡眠不足による心身への影響は気になるが、日中よりも夜の方が仕事や家事を効率よく進められるので、就寝前の作業を優先し、睡眠時間が減ることもためらわない。"
+        },
+        {
+          "id": "77",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 20,
+          "topic_id": "C-21",
+          "topic": "睡眠リズムの確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "仕事の都合上夜に作業した方が効率が良い場合もあるが、健康のために睡眠リズムの確保を意識したいので、就寝時刻や起床時刻はなるべく固定するようにする。",
+          "sentence_2": "健康のためには睡眠リズムの確保を意識したい気持ちもあるが、仕事の都合上夜に作業した方が効率が良い場合もあるので、就寝時刻や起床時刻はその日の都合に合わせて柔軟に変え、睡眠リズムは特に固定しない。"
+        },
+        {
+          "id": "78",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 21,
+          "topic_id": "C-22",
+          "topic": "睡眠の質の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "就寝前のスマホやPCの使用は睡眠に悪影響を及ぼしうるので、健康のために睡眠の質の確保を優先し、たとえ夜に作業をした方が効率的でも、就寝前はスマホやPCの使用を控える。",
+          "sentence_2": "就寝前のスマホやPCの使用は睡眠に悪影響を及ぼしうるが、夜に作業した方が効率的なので、睡眠の質の確保よりも効率を優先し、就寝前のスマホやPC使用もためらわない。"
+        },
+        {
+          "id": "79",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 22,
+          "topic_id": "C-23",
+          "topic": "日中の休息・疲労回復",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "日中に疲れを感じたときは、すぐに仕事や作業へ戻ることよりも、健康のために休息を優先し、横になってしっかり休む。",
+          "sentence_2": "日中に疲れを感じたときはしっかり休みたい気持ちもあるが、すぐに仕事や作業へ戻りやすくて便利なため、横にならずに椅子に座って短く休む。"
+        },
+        {
+          "id": "80",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 23,
+          "topic_id": "C-24",
+          "topic": "ストレス対処・リラクゼーション",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "ストレスが溜まっていると感じた時は、手軽で効率的であることよりも、健康のためにしっかりとしたリラクゼーション行動を優先して、横になって休むなどの方法でストレスを解消する。",
+          "sentence_2": "ストレスが溜まっていると感じた時でも、手軽で効率的であることを優先して、横になって休むなどのしっかりしたリラクゼーション行動は特に行わずに、軽めに休む。"
+        },
+        {
+          "id": "81",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 27,
+          "topic_id": "C-28",
+          "topic": "受動喫煙の回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "受動喫煙による健康への悪影響を避けるために、駅前や繁華街では喫煙所の近くを通る場合でも、移動のしやすさや効率よりも健康を優先して、迂回して喫煙所を避ける。",
+          "sentence_2": "受動喫煙によって健康に悪影響に及ぼしうるのは気になるが、移動のしやすさや効率を優先して、駅前や繁華街では喫煙所の近くを通ることがあっても、特に迂回せずにそのまま移動する。"
+        },
+        {
+          "id": "82",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 28,
+          "topic_id": "C-29",
+          "topic": "飲酒頻度の管理",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "飲酒は付き合いや気分転換に使いやすく、手軽で効率的だが、健康のために頻度を抑えたい気持ちを優先して、飲酒の頻度は細かく管理し、頻度が多くならないようにする。",
+          "sentence_2": "健康のために頻度を抑えたい気持ちもあるが、付き合いや気分転換に使いやすく、手軽で効率的なので、飲酒の頻度は特に細かく管理せず、頻度が多くともためらわない。"
+        },
+        {
+          "id": "83",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 29,
+          "topic_id": "C-30",
+          "topic": "飲酒量の調整",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "健康のために飲酒量を減らしたいので、ストレス発散や仲間との付き合いにおいて飲酒は手軽で効率的な手段だが、飲み会では量を制限して飲む。",
+          "sentence_2": "健康のために飲酒量を減らしたい気持ちもあるが、ストレス発散や仲間との付き合いにおいて飲酒は手軽で効率的な手段なので、飲み会では特に量を制限を設けずに飲む。"
+        },
+        {
+          "id": "84",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 30,
+          "topic_id": "C-31",
+          "topic": "減酒・断酒の実践",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "飲酒は付き合いや気分転換に使いやすく、手軽で効率的だが、健康のために断酒をしたい気持ちを優先して、飲酒は控える。",
+          "sentence_2": "健康のために断酒をしたい気持ちもあるが、飲酒は付き合いや気分転換に使いやすく、手軽で効率的なので、断酒はせずにためらわずに飲む。"
+        },
+        {
+          "id": "85",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 31,
+          "topic_id": "C-32",
+          "topic": "手洗い・石けん使用",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "すぐに手洗いを終わらせたい気持ちもあるが、健康のために、手洗いの際は水だけではなく石けんを使用して丁寧に洗う。",
+          "sentence_2": "健康のために手洗いの際は石けんを使用して丁寧に洗いたい気持ちもあるが、すぐに手洗いを終わらせたいので、手早く済ませるために水だけで手を洗う。"
+        },
+        {
+          "id": "86",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 33,
+          "topic_id": "C-34",
+          "topic": "歯磨き",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "歯磨きでは効率的ですぐに終わることよりも、丁寧な磨き方を優先し、時間をかけてでも歯の隅々まで磨くようにする。",
+          "sentence_2": "歯磨きでは丁寧な磨き方よりも、効率的ですぐに終わることを優先し、短時間で済む簡単な磨き方によって、毎日無理なくさっと磨く。"
+        },
+        {
+          "id": "87",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 34,
+          "topic_id": "C-35",
+          "topic": "歯間清掃の実施",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "歯間清掃で口の健康を保つことは重要だと考え、多少時間や手間がかかっても、毎日フロスや歯間ブラシを使って歯間清掃を行う。",
+          "sentence_2": "歯間清掃で口の健康を保つことの重要性も意識しているが、短時間で効率的に済むことを優先して、無理に毎日行わず、必要に応じてフロスや歯間ブラシを使う。"
+        },
+        {
+          "id": "88",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 35,
+          "topic_id": "C-36",
+          "topic": "定期的な歯科検診の受診",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "予約や通院の手間が不便だが、口の中の健康を保つことを優先して、定期的に歯科検診を受ける。",
+          "sentence_2": "口の中の健康を保つことも意識しているが、予約や通院の手間が不便なため、定期的な歯科検診は必要に応じて受ける程度にとどめる。"
+        },
+        {
+          "id": "89",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 37,
+          "topic_id": "C-38",
+          "topic": "適正体重の維持・体重管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "食事内容を日々考えて調整するのは手間で効率が悪いが、健康のために適正体重を維持することを優先して、体重が増えないように食事内容を意識して調整する。",
+          "sentence_2": "適正体重を維持することは重要だと考えているが、食事内容を日々考えて調整するのは手間で効率が悪いので、体重が増えてでも日々の食事内容は特に気にしない。"
+        },
+        {
+          "id": "90",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 38,
+          "topic_id": "C-39",
+          "topic": "血圧測定・高血圧管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために高血圧にならないよう意識したいので、日々の食事内容を考えて調整するのは手間で効率が悪くとも、塩分を控えた食事内容を意識する。",
+          "sentence_2": "健康のために高血圧にならないよう意識したい気持ちもあるが、日々の食事内容を考えて調整するのは手間で効率が悪いので、たとえ高塩分な食事内容になっても気にしない。"
+        },
+        {
+          "id": "91",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 39,
+          "topic_id": "C-40",
+          "topic": "血糖測定・糖尿病管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために血糖値を安定させたいので、日々の血糖測定や記録は手間で効率が悪くても、毎日測定して記録し、血糖値を管理する。",
+          "sentence_2": "健康のために血糖値を安定させたい気持ちはあるが、日々の血糖測定や記録は手間で効率が悪いので、必要なときだけ測定して管理する。"
+        },
+        {
+          "id": "92",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 40,
+          "topic_id": "C-41",
+          "topic": "脂質測定・コレステロール管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために脂質の数値を確認して管理したいので、予約や受信が手間で効率が悪くとも、定期的に受診して脂質やコレステロール管理を行う。",
+          "sentence_2": "健康のために脂質の数値を確認して管理したい気持ちはあるが、予約や受診が手間で効率が悪いので、必要なときだけ受診して脂質やコレステロール管理を行う。"
+        },
+        {
+          "id": "93",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 41,
+          "topic_id": "C-42",
+          "topic": "定期的な健康診断・検診の受診",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために定期的に健康診断・検診を受けたいので、予約や受診が手間で効率が悪くても、定期的に受診して体調管理を行う。",
+          "sentence_2": "健康のために定期的に健康診断・検診を受けたい気持ちはあるが、予約や受診が手間で効率が悪いので、必要なときだけ受診して体調管理を行う。"
+        },
+        {
+          "id": "94",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "3_functionality_and_convenience",
+          "external_factor": "機能・利便性要因",
+          "external_factor_values": [
+            "Capable",
+            "Convenience"
+          ],
+          "external_factor_values_definitions": {
+            "Capable": "competent, effective, efficient",
+            "Convenience": "ease of use, usefulness"
+          },
+          "topic_index": 42,
+          "topic_id": "C-43",
+          "topic": "予防接種・ワクチン接種",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "接種の予約や会場までの移動は少し手間で不便だが、インフルエンザが流行っているので健康を優先して予防接種を受ける。",
+          "sentence_2": "インフルエンザが流行っているので予防接種を受けたいが、接種の予約や会場までの移動が少し手間で不便なので、今回は受けない。"
+        }
+      ]
+    },
+    "4_social_belonging": {
+      "records": [
+        {
+          "id": "95",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 0,
+          "topic_id": "C-1",
+          "topic": "果物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "友人や家族と一緒に食事をする場では、皆と同じものを分け合って関係を大切にしたい気持ちもあるが、健康のために果物を日常的に取り入れることは大切だと考え、周囲に無理に合わせず果物を選ぶ。",
+          "sentence_2": "健康のために果物を日常的に取り入れたい気持ちもあるが、友人や家族と一緒に食事をする場では、皆と同じものを分け合って関係を大切にしたいので、無理に果物を選ばず周囲に合わせる。"
+        },
+        {
+          "id": "96",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 1,
+          "topic_id": "C-2",
+          "topic": "野菜の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "友人や家族と一緒に食事をする場では、皆と同じものを分け合って関係を大切にしたい気持ちもあるが、健康のために野菜を取ることは大切だと考え、周囲に無理に合わせず野菜を選ぶ。",
+          "sentence_2": "野菜を取ることが健康につながると分かっていても、友人や家族との食事の場では一緒に同じものを食べることや場の一体感を大切にし、無理に野菜を選ばず周囲に合わせる。"
+        },
+        {
+          "id": "97",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 2,
+          "topic_id": "C-3",
+          "topic": "砂糖入り飲料の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "友人や職場の人との場の雰囲気や付き合いを大切にしたいが、健康のために砂糖入り飲料は控えたいので、勧められた砂糖入り飲料を断ることをためらわない。",
+          "sentence_2": "健康のために砂糖入り飲料は控えたいと思うが、友人や職場の人との場の雰囲気や付き合いを大切にして、勧められた砂糖入り飲料を飲む。"
+        },
+        {
+          "id": "98",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 3,
+          "topic_id": "C-4",
+          "topic": "高食物繊維食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "友人や家族と一緒に食事をする場では、みんなと同じものを食べて場の一体感を大切にしたい気持ちもあるが、健康のために食物繊維の多い食品を選ぶことは大切だと考え、無理に周囲に無理に合わせず食物繊維の多い食品を選ぶ。",
+          "sentence_2": "健康のために食物繊維の多い食品を選びたい気持ちもあるが、友人や家族と同じものを食べて場の一体感を大切にしたいので、無理に食物繊維の多い食品を選ばず、周囲に合わせる。"
+        },
+        {
+          "id": "99",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 4,
+          "topic_id": "C-5",
+          "topic": "高塩分食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "親しい友人や家族と食事をする場では、一体感や相手への気遣いも大切だが、健康のために高塩分食品は控えたい気持ちを優先して、みんなと異なってでも減塩や薄味の料理を選ぶ。",
+          "sentence_2": "健康のために高塩分食品は控えたい気持ちもあるが、親しい友人や家族との一体感や、相手への気遣いを大切にして、食事の場ではみんなと同じ高塩分の料理を選んで食べる。"
+        },
+        {
+          "id": "100",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 5,
+          "topic_id": "C-6",
+          "topic": "高脂肪・揚げ物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "友人や家族と食事をする場では、付き合いを大切にしつつも、健康を優先して揚げ物や脂っこい料理は控え、定食なら焼き魚や煮物を選ぶ。",
+          "sentence_2": "友人や家族と食事をする場では、健康のことも気にしながらも、関係を大切にして場の雰囲気に合わせ、揚げ物や脂っこい料理も一緒に食べる。"
+        },
+        {
+          "id": "101",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 6,
+          "topic_id": "C-7",
+          "topic": "高糖食品・菓子類の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "友人や家族と一緒にいる場では、一体感や付き合いも大切にしたいが、健康のために高糖食品や菓子類の摂取を控えたいので、勧められた菓子類を断ることをためらわない。",
+          "sentence_2": "健康のために高糖食品や菓子類の摂取を控えたい気持ちもあるが、友人や家族との一体感や付き合いを大切にし、集まりでは勧められた菓子類を断らずに食べる。"
+        },
+        {
+          "id": "102",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 7,
+          "topic_id": "C-8",
+          "topic": "高タンパク質食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために多くのタンパク質を摂りたい気持ちがあるので、友人や家族と一緒に食事をする場では、皆と同じ料理を楽しむことや場の一体感も大切だが、無理に周囲には合わせず、タンパク質を意識して料理を選ぶ。",
+          "sentence_2": "健康のために多くのタンパク質を摂りたい気持ちもあるが、友人や家族と一緒に食事をする場では、皆と同じ料理を楽しむことや場の一体感を大切にし、無理にタンパク質は意識せず、周囲に合わせる。"
+        },
+        {
+          "id": "103",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 8,
+          "topic_id": "C-9",
+          "topic": "食事量・エネルギー摂取量の調整",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康を優先して食事量を控えめにしたい気持ちがあるので、家族や親しい人との食事の場では、周囲との一体感や相手への気遣いも大切だが、勧められた分を断ることをためらわない。",
+          "sentence_2": "健康のために食事量を控えめにしたい気持ちもあるが、家族や親しい人との食事の場では、周囲との一体感や相手への気遣いを優先して、勧められた分は断らずに食べる。"
+        },
+        {
+          "id": "104",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 9,
+          "topic_id": "C-10",
+          "topic": "外食・中食・加工食品での健康的選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "外食や中食で家族や友人と同じものを選びたい気持ちはあるが、健康を優先して、定食では野菜が多いものや揚げ物を避けたメニューを選び、加工食品も成分表示を見て塩分や脂質の少ないものを買う。",
+          "sentence_2": "外食や中食で家族や友人と同じものを選ぶことで一緒にいる感じを大切にしたいので、健康面では少し気になるが、定食では皆と同じ揚げ物の多いメニューを選び、加工食品も周囲に合わせてよく食べるものを買う。"
+        },
+        {
+          "id": "105",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 10,
+          "topic_id": "C-11",
+          "topic": "有機・低農薬食品の選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "家族や仲間との関係性も大切だが、健康のために有機・低農薬の食品を選びたい気持ちがあるので、買い物では無理に周囲の好みに合わせず、有機・低農薬の食品を選ぶ。",
+          "sentence_2": "健康のために有機・低農薬の食品を選びたい気持ちもあるが、家族や仲間との関係性を優先して、買い物では無理に有機・低農薬の食品を選ばず、周囲が好む種類の食品を選ぶ。"
+        },
+        {
+          "id": "106",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 11,
+          "topic_id": "C-12",
+          "topic": "徒歩による移動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "仲間は自動車での移動を希望していても、健康のために徒歩で移動したい気持ちを優先して、仲間の意向に合わせず徒歩で移動する。",
+          "sentence_2": "健康のために徒歩で移動したい気持ちもあるが、仲間は自動車での移動を希望しているので、仲間の意向に合わせて徒歩ではなく自動車で移動する。"
+        },
+        {
+          "id": "107",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 12,
+          "topic_id": "C-13",
+          "topic": "自転車による移動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "仲間は自転車ではなく自動車での移動を希望していても、健康のために自転車で移動したい気持ちがあるので、仲間の意向に合わせず自転車で移動する。",
+          "sentence_2": "健康のために自動車ではなく自転車で移動したい気持ちがあるが、仲間は自動車での移動を希望しているので、仲間の意向に合わせて自動車で移動する。"
+        },
+        {
+          "id": "108",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 13,
+          "topic_id": "C-14",
+          "topic": "日常生活・仕事・家事での身体活動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "家族や仲間との関係性も大切だが、健康のために日常生活・仕事・家事においては頻繁に運動をしたいので、家事や仕事の合間も周囲に合わせず、座って過ごすよりもなるべく動くようにする。",
+          "sentence_2": "健康のために日常生活・仕事・家事においては頻繁に運動をしたいが、家族や職場の人との関係を優先して、家事や仕事の合間は周囲に合わせ、必要以上に動かず座って過ごす。"
+        },
+        {
+          "id": "109",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 14,
+          "topic_id": "C-15",
+          "topic": "余暇のスポーツ・運動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康のために休日は運動をしたい気持ちがあるので、休日に仲間と過ごす際も、仲間の希望に合わせて室内で遊ぶのではなく、運動をすることを選ぶ。",
+          "sentence_2": "健康のために休日は運動をしたい気持ちもあるが、仲間の希望を優先して、休日に仲間と過ごす際は運動ではなく室内で遊ぶことを選ぶ。"
+        },
+        {
+          "id": "110",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 17,
+          "topic_id": "C-18",
+          "topic": "長時間座位の抑制",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康のために長時間座り続けることは避けたい気持ちがあるので、授業や会議や作業の合間では、周囲に無理に合わせずに立ったり歩いたりして体を動かす。",
+          "sentence_2": "長時間座り続けるのは健康によくないと分かっているが、周囲との一体感や場の雰囲気を大切にしたいので、授業や会議や作業の合間では、周囲に合わせて座り続ける。"
+        },
+        {
+          "id": "111",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 18,
+          "topic_id": "C-19",
+          "topic": "スクリーン時間の管理",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "友人や家族とのつながりも大切だが、心身の健康を保つためにスクリーン時間を抑えるため、夜は連絡やグループのやり取りを控えてスマホの使用を短めにする。",
+          "sentence_2": "心身の健康のためにスクリーン時間を抑えたい気持ちもあるが、友人や家族とのつながりを大切にするため、夜は連絡やグループのやり取りを優先してスマホを長めに使う。"
+        },
+        {
+          "id": "112",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 19,
+          "topic_id": "C-20",
+          "topic": "睡眠時間の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "友人や家族とのつながりも大切にしたいが、健康のために睡眠時間を確保したいので、夜遅くまでの集まりには途中で切り上げて帰宅し、早めに寝る。",
+          "sentence_2": "健康のために睡眠時間を確保したい気持ちもあるが、友人や家族とのつながりを優先し、夜遅くまでの集まりには最後まで参加して、就寝が遅くなってもその場に残る。"
+        },
+        {
+          "id": "113",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 20,
+          "topic_id": "C-21",
+          "topic": "睡眠リズムの確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "友人や家族とのつながりも大切にしたいが、健康のために睡眠リズムを整えたいので、夜更かしの誘いがあっても早めに切り上げるか断り、決まった時間に寝る。",
+          "sentence_2": "健康のために睡眠リズムを整えたいが、友人や家族とのつながりを大切にしたいので、夜更かしの誘いがあれば就寝時間が遅くなったとしても付き合う。"
+        },
+        {
+          "id": "114",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 21,
+          "topic_id": "C-22",
+          "topic": "睡眠の質の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "友人や家族との付き合いも大切にしたいが、健康のために睡眠の質を保ちたいので、夜遅くまでの集まりには途中で切り上げて帰宅し、十分な睡眠時間を確保する。",
+          "sentence_2": "健康のために睡眠の質を保ちたい気持ちもあるが、友人や家族との付き合いを優先し、睡眠時間が短くなったとしても夜遅くまでの集まりへの参加をためらわない。"
+        },
+        {
+          "id": "115",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 22,
+          "topic_id": "C-23",
+          "topic": "日中の休息・疲労回復",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "友人から明日の日中に遊びに行こうと誘われたが、健康のために家で休息を取った方が良いと考えたため、誘いを断り休息を優先する。",
+          "sentence_2": "友人から明日の日中に遊びに行こうと誘われたので、健康のために家で休息を取った方が良いと考えたが、休息を取らずに誘いを優先して遊びに行く。"
+        },
+        {
+          "id": "116",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 24,
+          "topic_id": "C-25",
+          "topic": "燃焼式タバコの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "健康のために燃焼式タバコの使用を避けたいので、友人や職場の人との付き合いを大切にしつつも、燃焼式タバコを勧められても断る。",
+          "sentence_2": "健康のために燃焼式タバコの使用を避けたいが、友人や職場の人との付き合いを大切にして、勧められた燃焼式タバコを吸う。"
+        },
+        {
+          "id": "117",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 25,
+          "topic_id": "C-26",
+          "topic": "無煙タバコの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "仲間とのつながりや周囲への気遣いも大切にしているが、健康を損ねたくないので、友人や職場の集まりで無煙タバコを勧められても使用しない。",
+          "sentence_2": "健康を損ねたくない気持ちもあるが、仲間とのつながりや周囲への気遣いを優先して、友人や職場の集まりで無煙タバコを勧められたら使用する。"
+        },
+        {
+          "id": "118",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 26,
+          "topic_id": "C-27",
+          "topic": "電子タバコ・ベイピングの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "健康のために電子タバコやベイピングの使用を避けたいので、友人や職場の人との付き合いを大切にしつつも、誘われても周囲に合わせず使用しない。",
+          "sentence_2": "健康のために電子タバコやベイピングは避けたいと思っているが、友人や職場の人との付き合いを優先して、誘われたら周囲に合わせて使う。"
+        },
+        {
+          "id": "119",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 27,
+          "topic_id": "C-28",
+          "topic": "受動喫煙の回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "喫煙者である仲間のことも配慮したいが、健康のために受動喫煙を回避したいので、居酒屋などでは禁煙席を選ぶ。",
+          "sentence_2": "健康のために受動喫煙を回避したい気持ちもあるが、喫煙者である仲間のことも配慮し、居酒屋などでは喫煙可能な席を選ぶ。"
+        },
+        {
+          "id": "120",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 28,
+          "topic_id": "C-29",
+          "topic": "飲酒頻度の管理",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "友人や職場の輪を大切にしたいが、健康のために飲酒頻度を抑えたいので、飲み会や集まりでは周囲に合わせずに飲酒頻度を抑える。",
+          "sentence_2": "健康への心配もあるが、友人や職場の輪を大切にしたいので、飲み会や集まりでは周囲に合わせて飲酒し、特に頻度も気にしない。"
+        },
+        {
+          "id": "121",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 29,
+          "topic_id": "C-30",
+          "topic": "飲酒量の調整",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "友人や職場の付き合いで飲み会に参加することは大切にしつつも、健康のために飲酒量は控えめにしたいので、最初の一杯だけにしてその後はノンアルコール飲料や水に切り替える。",
+          "sentence_2": "健康のために飲酒量は控えめにしたい気持ちもあるが、友人や職場の付き合いを大切にしたいので、飲み会では周囲に合わせて飲酒し、勧められた分は断りきらずに飲む。"
+        },
+        {
+          "id": "122",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 30,
+          "topic_id": "C-31",
+          "topic": "減酒・断酒の実践",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "仲間との付き合いのためにお酒の席では飲酒したいが、健康維持の観点から断酒に努めているので、そのような場でも飲酒をしない。",
+          "sentence_2": "健康維持の観点から断酒に努めているが、仲間との付き合いのために、お酒の席では断酒をやめて飲酒する。"
+        },
+        {
+          "id": "123",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 34,
+          "topic_id": "C-35",
+          "topic": "歯間清掃の実施",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "友人や家族との食事の場でも、歯の健康を保つことを優先したいので、他のことを仲間が始めても、食後の歯間清掃はその場で行う。",
+          "sentence_2": "歯の健康を保つことも大切だが、友人や家族との食事の場では、他のことを仲間が始めたので、食後の歯間清掃は後回しにする。"
+        },
+        {
+          "id": "124",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 37,
+          "topic_id": "C-38",
+          "topic": "適正体重の維持・体重管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "友人や家族との食事の場では、周りに合わせて食べることも大切だと思うが、健康のために適正体重を維持したいので、主食や間食の量を控えめにして自分の食べ方を調整する。",
+          "sentence_2": "健康のために適正体重を維持したい気持ちもあるが、友人や家族との食事の場では、みんなと同じように食べることで一緒にいる感じや関係を大切にしたいので、主食や間食の量をあまり気にせず周囲に合わせて食べる。"
+        },
+        {
+          "id": "125",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 38,
+          "topic_id": "C-39",
+          "topic": "血圧測定・高血圧管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "家族や周囲とのつながりも大切にしたいが、健康のために血圧をきちんと管理したい気持ちがあるので、食事内容は無理に周囲に合わせず、塩分を控えた食事をとるようにする。",
+          "sentence_2": "健康のために血圧をきちんと管理したい気持ちもあるが、家族や周囲とのつながりを大切にしたいので、食事内容は周囲に合わせ、高塩分の食事をとることもためらわない。"
+        },
+        {
+          "id": "126",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 39,
+          "topic_id": "C-40",
+          "topic": "血糖測定・糖尿病管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "家族や周囲との付き合いも大切にしたいが、健康を保つために血糖値が上がらないような食事を取りたいので、食事の場では無理に周囲に合わせず、血糖値が上がるような食事は控える。",
+          "sentence_2": "健康を保つために血糖値が上がらないような食事を取りたいが、家族や周囲との付き合いを大切にしたいので、食事の場では周囲に合わせて食べ、血糖値が上がるような食事をとることもためらわない。"
+        },
+        {
+          "id": "127",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 40,
+          "topic_id": "C-41",
+          "topic": "脂質測定・コレステロール管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康を保つために脂質の少ない食事を取りたいので、家族や親しい人との集まりで食事をする時でも、周囲に合わせずに脂質が多い食事は控える。",
+          "sentence_2": "健康を保つために脂質の少ない食事を取りたいが、家族や親しい人との集まりで食事をする時は、周囲との関係を大切にし、脂質が多い食事も勧められたら断らずに食べる。"
+        },
+        {
+          "id": "128",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "4_social_belonging",
+          "external_factor": "社会的要因 (関係維持・所属)",
+          "external_factor_values": [
+            "Sense of Belonging",
+            "Loyal",
+            "Honoring of Parents and Elders"
+          ],
+          "external_factor_values_definitions": {
+            "Sense of Belonging": "feeling that others care about me",
+            "Loyal": "faithful to my friends, group",
+            "Honoring of Parents and Elders": "showing respect"
+          },
+          "topic_index": 42,
+          "topic_id": "C-43",
+          "topic": "予防接種・ワクチン接種",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "周囲との付き合いも大切だが、流行病のワクチンの接種を受けたい気持ちを優先して、たとえ家族や友人に反対されても、接種を受ける。",
+          "sentence_2": "流行病のワクチンの接種を受けたい気持ちもあるが、周囲との付き合いを優先して、もし家族や友人に反対された場合は、接種を控える。"
+        }
+      ]
+    },
+    "5_social_reputation": {
+      "records": [
+        {
+          "id": "129",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 2,
+          "topic_id": "C-3",
+          "topic": "砂糖入り飲料の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "周囲からの評価や体裁も気になるが、健康のために砂糖入り飲料は控えたいので、職場や友人との場でも甘い清涼飲料水や加糖のカフェドリンクはできるだけ選ばず、水やお茶を頼むようにする。",
+          "sentence_2": "健康のために砂糖入り飲料は控えたいが、周囲からの評価や体裁を優先したいので、職場や友人との場では勧められた甘い清涼飲料水や加糖のカフェドリンクを断らずに飲むようにする。"
+        },
+        {
+          "id": "130",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 4,
+          "topic_id": "C-5",
+          "topic": "高塩分食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "なるべく周囲に合わせたいが、健康のために塩分を控えたいので、仲間と食事をする際にも塩分が高い食品の摂取は避けるようにする。",
+          "sentence_2": "なるべく周囲に合わせたいので、健康のために塩分を控えたいが、仲間と食事をする際には塩分が高い食品の摂取もためらわない。"
+        },
+        {
+          "id": "131",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 5,
+          "topic_id": "C-6",
+          "topic": "高脂肪・揚げ物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "周囲からの評価や体裁も気になるが、健康のために高脂肪・揚げ物の摂取を控えたい気持ちを優先して、会食などでも周囲に合わせず揚げ物の摂取を控える。",
+          "sentence_2": "健康のために高脂肪・揚げ物の摂取を控えたいが、周囲からの評価や体裁を優先して、会食などでは揚げ物を勧められたときに断らず、周囲に合わせて食べる。"
+        },
+        {
+          "id": "132",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 6,
+          "topic_id": "C-7",
+          "topic": "高糖食品・菓子類の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "周囲からの評価や体裁も気になるが、健康のために甘い菓子や高糖食品の摂取を控えたいので、職場や集まりで勧められても必要以上には食べず、飲み物も無糖のものを選ぶ。",
+          "sentence_2": "健康のために甘い菓子や高糖食品の摂取を控えたいが、周囲からの評価や体裁を保ちたいので、職場や集まりで勧められた菓子は断りにくく、差し出されたものはなるべく受け取って食べる。"
+        },
+        {
+          "id": "133",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 7,
+          "topic_id": "C-8",
+          "topic": "高タンパク質食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "周囲からの評価や体裁は気になるが、健康のために高タンパク質食品を取り入れたいので、職場や友人との食事でも無理に周りに合わせず、揚げ物や菓子類ではなく高タンパク質食品を選ぶことをためらない。",
+          "sentence_2": "健康のために高タンパク質食品を取り入れたいが、周囲からの評価や体裁も気になるので、職場や友人との食事では周りに合わせて、高タンパク質食品ではなく揚げ物や菓子類を選ぶことをためらわない。"
+        },
+        {
+          "id": "134",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 8,
+          "topic_id": "C-9",
+          "topic": "食事量・エネルギー摂取量の調整",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "周囲からの評価や体裁も気になるが、健康のために食事量を控えたいので、外食や会食でも無理に周りに合わせず、満腹になる前に食事を終える。",
+          "sentence_2": "健康のために食事量を控えたいが、周囲からの評価や体裁を優先し、外食や会食では周囲に合わせて食べ、満腹になるまで食事をすることもためらわない。"
+        },
+        {
+          "id": "135",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 9,
+          "topic_id": "C-10",
+          "topic": "外食・中食・加工食品での健康的選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "周囲からの評価や体裁も気になるが、健康のために外食では栄養成分表示を確認し、健康的なメニューを選びたいので、周囲に無理に合わせずに揚げ物や高塩分のメニューは避ける。",
+          "sentence_2": "健康のために外食では栄養成分表示を確認し、健康的なメニューを選びたいが、周囲からの評価や体裁を優先して、周りに合わせて揚げ物や高塩分のメニューを選ぶこともためらわない。"
+        },
+        {
+          "id": "136",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 10,
+          "topic_id": "C-11",
+          "topic": "有機・低農薬食品の選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "周囲からの評価や体裁も気になるが、健康のために有機・低農薬食品を選びたい気持ちがあるので、家族や職場の人と食事をする場でも、無理に周囲に合わせず、有機・低農薬食品を選ぶことを優先する。",
+          "sentence_2": "健康のために有機・低農薬食品を選びたいが、周囲からの評価や体裁も気になるので、家族や職場の人と食事をする場では、相手に合わせて他の通常品を選ぶことが多く、有機・低農薬食品へのこだわりは前面に出さない。"
+        },
+        {
+          "id": "137",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 13,
+          "topic_id": "C-14",
+          "topic": "日常生活・仕事・家事での身体活動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康のために日常の身体活動を増やしたいので、周囲の目線も気になるが、通勤や仕事中でもなるべく運動などの身体活動を取り入れる。",
+          "sentence_2": "健康のために日常の身体活動を増やしたいが、周囲の目線を気にして、通勤や仕事中は周囲の動きに合わせて目立たないようにする。"
+        },
+        {
+          "id": "138",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 17,
+          "topic_id": "C-18",
+          "topic": "長時間座位の抑制",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康のために長時間の座位を抑制したいので、周囲からの見られ方や自分の立場は気になるが、会議中や打ち合わせ中でも席を立つことをためらわない。",
+          "sentence_2": "健康のために長時間の座位を抑制したい気持ちはあるが、周囲からの見られた方や自分の立場を気にして、会議中や打ち合わせ中は席を立つのを控え、長時間座っていてもその場の流れに合わせて座り続ける。"
+        },
+        {
+          "id": "139",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 18,
+          "topic_id": "C-19",
+          "topic": "スクリーン時間の管理",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康を保つことは大切だと考えているので、周囲からの評価や立場も気になるが、連絡への反応の速さや仕事の面で不都合だとしても、スクリーン時間の使用時間は制限する。",
+          "sentence_2": "健康を保つことも大切だと考えているが、周囲からの評価や立場を意識して、連絡への反応の早さや仕事のために、スクリーン時間の使用時間は特に制限しない。"
+        },
+        {
+          "id": "140",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 19,
+          "topic_id": "C-20",
+          "topic": "睡眠時間の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "周囲からの評価や立場も気になるが、健康のために十分な睡眠を確保したいので、夜遅い時間での会合や何かしらの誘いがあっても、誘いを断ったりできるだけ早めに切り上げて睡眠時間を確保する。",
+          "sentence_2": "健康のために十分な睡眠を確保したいが、周囲からの評価や立場を保ちたいので、夜遅い時間での会合や何かしらの誘いがあれば、睡眠時間が短くなってでも参加する。"
+        },
+        {
+          "id": "141",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 20,
+          "topic_id": "C-21",
+          "topic": "睡眠リズムの確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "健康のために睡眠リズムを整えたいと思っているので、夜遅い会合の参加や残業などの必要があれば、周囲からの評価や立場を気にしつつも、できるだけ早めに切り上げて睡眠リズムを崩さないようにする。",
+          "sentence_2": "健康のために睡眠リズムを整えたいと思いつつも、周囲からの評価や立場が気になるので、夜遅い会合の参加や残業などの必要があれば、睡眠リズムが崩れてでも参加して、周囲との関係や面目を保つようにする。"
+        },
+        {
+          "id": "142",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 21,
+          "topic_id": "C-22",
+          "topic": "睡眠の質の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "周囲からの評価や立場は気になるが、健康のために睡眠の質を確保したいので、夜遅い会合の参加や残業などがあれば、できるだけ早めに切り上げて睡眠の質を落とさないようにする。",
+          "sentence_2": "睡眠の質を確保したい気持ちはあるが、周囲からの評価や立場を損ねたくないので、睡眠の質が悪化することもためらわずに、夜遅い会合の参加や残業も周囲に合わせて続ける。"
+        },
+        {
+          "id": "143",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 22,
+          "topic_id": "C-23",
+          "topic": "日中の休息・疲労回復",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "日中に疲れをためて体調を崩したくないので、周囲からの評価や自分の立場も気になるが、昼休みや空き時間には無理に周囲に合わせず席を外して休息を取る。",
+          "sentence_2": "日中に疲れをためて体調を崩したくはないが、周囲からの評価や自分の立場を気にするので、昼休みや空き時間でもできるだけ席を外さず、周囲に合わせて休息を後回しにする。"
+        },
+        {
+          "id": "144",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 23,
+          "topic_id": "C-24",
+          "topic": "ストレス対処・リラクゼーション",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "周囲から不安に思われたり場の空気を乱しかねないことは気になるが、心身の不調を長引かせたくないので、仕事の合間にも無理に周囲に合わせずストレス対処のための行動を行う。",
+          "sentence_2": "心身の不調を長引かせたくない気持ちはあるが、周囲から不安に思われたり場の空気を乱すことを避けたいので、仕事の合間でも周囲に合わせてストレス対処のための行動は控える。"
+        },
+        {
+          "id": "145",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 24,
+          "topic_id": "C-25",
+          "topic": "燃焼式タバコの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "周囲からの評価や立場を気にすることはあるが、健康を損ないたくないので、職場や付き合いの場で勧められても燃焼式タバコは吸わず、必要ならその場を外して断る。",
+          "sentence_2": "健康を損ないたくない気持ちはあるが、周囲からの評価や自分の立場を保ちたいので、職場や付き合いの場で勧められたときは燃焼式タバコを断りきらず、周囲に合わせて吸うことがある。"
+        },
+        {
+          "id": "146",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 25,
+          "topic_id": "C-26",
+          "topic": "無煙タバコの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "周囲からの評価や自分の面子を保ちたい気持ちもあるが、健康を損ないたくないので、職場や集まりで無煙タバコを勧められても使用を断る。",
+          "sentence_2": "健康を損ないたくない気持ちはあるが、周囲からの評価や自分の面目を保ちたいので、職場や集まりで勧められた無煙タバコは断らない。"
+        },
+        {
+          "id": "147",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 26,
+          "topic_id": "C-27",
+          "topic": "電子タバコ・ベイピングの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "周囲からの評価や体裁は気になるが、電子タバコやベイピングの使用によって健康を損ねたくないので、勧められても使わない。",
+          "sentence_2": "電子タバコやベイピングの使用によって健康を損ねたくないが、周囲からの評価や体裁を気にして、勧められた場では使用を断らない。"
+        },
+        {
+          "id": "148",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 27,
+          "topic_id": "C-28",
+          "topic": "受動喫煙の回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "周囲からの評価や立場も気になるが、受動喫煙を回避したい気持ちがあるので、飲食店や職場でたばこの煙が気になった場合は、無理に周囲に合わせずに移動して受動喫煙を回避する。",
+          "sentence_2": "受動喫煙を回避したい気持ちはあるが、周囲からの評価や立場を気にして、飲食店や職場でたばこの煙が気になっても、移動せずに周囲に合わせて過ごす。"
+        },
+        {
+          "id": "149",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 28,
+          "topic_id": "C-29",
+          "topic": "飲酒頻度の管理",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "欠席が多くなると周囲からの目線が気になるが、健康のために飲酒頻度を制限したいので、飲み会を欠席することをためらわない。",
+          "sentence_2": "健康のために飲酒頻度を制限したいが、欠席が多くなると周囲からの目線が気になるので、飲み会はなるべく欠席せず出席するように努める。"
+        },
+        {
+          "id": "150",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 29,
+          "topic_id": "C-30",
+          "topic": "飲酒量の調整",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "周囲からの評価や場の空気を保つことも気になるが、健康を大事にしたい気持ちを優先して、飲み会や会食の際は飲酒量を減らすように心がけ、周囲に無理に合わせない。",
+          "sentence_2": "健康を大事にしたい気持ちもあるが、周囲からの評価や場の空気を保つことを優先して、飲み会や会食の際は飲酒量を減らさず、周囲に合わせて飲むことを優先する。"
+        },
+        {
+          "id": "151",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 30,
+          "topic_id": "C-31",
+          "topic": "減酒・断酒の実践",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "周囲からの評価や面子も気になるが、健康のために断酒をしたい気持ちを優先して、職場や付き合いの場では周囲に無理に合わせず、飲酒をしない。",
+          "sentence_2": "健康のために断酒をしたい気持ちもあるが、周囲からの評価や面子を優先して、職場や付き合いの場では周囲に合わせて飲酒をすることをためらわない。"
+        },
+        {
+          "id": "152",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 33,
+          "topic_id": "C-34",
+          "topic": "歯磨き",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "周囲からの印象は気になるが、歯の健康を保ちたいので、外出先や人前でも歯磨きはためらわずに行う。",
+          "sentence_2": "歯の健康も大切だが、周囲からの印象を気にして、外出先や人前では歯磨きは控え、目立たないタイミングで済ませるようにする。"
+        },
+        {
+          "id": "153",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 34,
+          "topic_id": "C-35",
+          "topic": "歯間清掃の実施",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "周囲からどう見られるかは気になるが、口の健康を保って不調を避けたいので、人前でも歯間ブラシやフロスを使って歯間清掃を続ける。",
+          "sentence_2": "口の健康を保って不調を避けたい気持ちはあるが、周囲からの評価や印象を気にするので、人前では歯間ブラシやフロスの使用を控え、見えない場面で済ませるようにする。"
+        },
+        {
+          "id": "154",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 36,
+          "topic_id": "C-37",
+          "topic": "体重・体格の把握",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "周囲からの目線を気にする気持ちや情報を知られたくない気持ちがあっても、健康のために自分の体重や体格を把握しておきたいので、周囲にそれらの情報が知られそうな場合でも計測はためらわずに行う。",
+          "sentence_2": "健康のために自分の体重や体格を把握しておきたいが、周囲からの目線を気にする気持ちや情報を知られたくない気持ちから、周囲にそれらの情報が知られそうな場合は計測を控える。"
+        },
+        {
+          "id": "155",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 37,
+          "topic_id": "C-38",
+          "topic": "適正体重の維持・体重管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "誘いを断ることで周囲から距離を置かれるのは嫌だが、体重をこれ以上増やしたくないので、仲間からの食事の誘いを断る。",
+          "sentence_2": "誘いを断って周囲から距離を置かれるのは嫌なので、体重をこれ以上増やしたくないが、仲間からの食事の誘いは断らず参加する。"
+        },
+        {
+          "id": "156",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 38,
+          "topic_id": "C-39",
+          "topic": "血圧測定・高血圧管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "周囲からの評価や面子も気になるが、健康のために血圧は高くなりすぎないように管理したいので、塩分の高い食事や飲酒も周囲に合わせずに断る。",
+          "sentence_2": "健康のために血圧は高くなりすぎないように管理したい気持ちがあるが、周囲からの評価や面子を保ちたいので、塩分の高い食事や飲酒も断らずに周囲に合わせる。"
+        },
+        {
+          "id": "157",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 39,
+          "topic_id": "C-40",
+          "topic": "血糖測定・糖尿病管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "周囲からの評価や体裁も気になるが、健康のために血糖値を安定させたいので、血糖値を上げるような食事内容でも周囲に合わせずに断る。",
+          "sentence_2": "健康のために血糖値を安定させたい気持ちはあるが、周囲からの評価や体裁を気にして、血糖値を上げるような食事内容でも断らずに、周囲に合わせて共に食べる。"
+        },
+        {
+          "id": "158",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 40,
+          "topic_id": "C-41",
+          "topic": "脂質測定・コレステロール管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "周囲からの評価や体裁も気になるが、健康のために脂質の摂取を控えたいので、脂質の高い食事内容は周囲に合わせずに断る。",
+          "sentence_2": "健康のために脂質の摂取を控えたいが、周囲からの評価や体裁を気にして、脂質の高い食事内容でも周囲に合わせて食べる。"
+        },
+        {
+          "id": "159",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 41,
+          "topic_id": "C-42",
+          "topic": "定期的な健康診断・検診の受診",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために定期的に健康診断や検診を受診したいので、周囲からの見られ方は気になるが、周囲とタイミングが異なったとしても自分のペースで定期的に受診する。",
+          "sentence_2": "健康のために定期的に健康診断や検診を受診したいが、周囲からの見られ方が気になるので、周囲と同じタイミングで受診するようにする。"
+        },
+        {
+          "id": "160",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "5_social_reputation",
+          "external_factor": "社会的要因 (周囲からの評価・評判)",
+          "external_factor_values": [
+            "Social Recognition",
+            "Authority",
+            "Preserving My Public Image"
+          ],
+          "external_factor_values_definitions": {
+            "Social Recognition": "respect, approval by others",
+            "Authority": "the right to lead or command",
+            "Preserving My Public Image": "protecting my 'face'"
+          },
+          "topic_index": 42,
+          "topic_id": "C-43",
+          "topic": "予防接種・ワクチン接種",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "流行の病のワクチンを接種したい気持ちがあるので、周囲からの見られ方や体裁は気になるが、周囲に無理に同調せずに接種を行う。",
+          "sentence_2": "流行の病のワクチンを接種したい気持ちもあるが、周囲からの見られ方や体裁が気になるので、周囲に同調して接種を控える。"
+        }
+      ]
+    },
+    "6_social_order_and_norms": {
+      "records": [
+        {
+          "id": "161",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 0,
+          "topic_id": "C-1",
+          "topic": "果物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために果物を多く食べたいので、親族の集まりでは肉を中心に果物は少なめの食事をする慣習があるが、習慣よりも健康を優先して果物を多く摂取する。",
+          "sentence_2": "健康のために果物を多く食べたいが、親族の集まりでは肉を中心に果物は少なめの食事をする慣習があるので、健康よりもその場の慣習を優先して、果物の摂取は抑える。"
+        },
+        {
+          "id": "162",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 1,
+          "topic_id": "C-2",
+          "topic": "野菜の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために野菜を多く摂取したいので、親族の間では野菜よりも肉を中心とした食事をとる慣習があるが、健康を優先して野菜を多く摂取する。",
+          "sentence_2": "健康のために野菜を多く摂取したいが、親族の間では野菜よりも肉を中心とした食事をとる慣習があるので、慣習を優先して野菜の摂取は控えめにする。"
+        },
+        {
+          "id": "163",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 2,
+          "topic_id": "C-3",
+          "topic": "砂糖入り飲料の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "職場ではイベントの際に甘い清涼飲料を飲む慣習があるが、健康のために砂糖入り飲料を控えたい気持ちを優先して、周囲の慣習に合わせずに水や無糖のお茶を飲む。",
+          "sentence_2": "職場ではイベントの際に甘い清涼飲料を飲む慣習があるので、健康のために砂糖入り飲料を控えたい気持ちはあるが、周囲の慣習に合わせて甘い清涼飲料を飲む。"
+        },
+        {
+          "id": "164",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 3,
+          "topic_id": "C-4",
+          "topic": "高食物繊維食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために食物繊維をこれまでよりも多く摂りたいので、家族でのこれまでの献立の形にこだわらず、食卓では食物繊維を増やす。",
+          "sentence_2": "健康のために食物繊維をこれまでよりも多く摂りたいが、家族でのこれまでの献立の形を優先して、食卓では特に食物繊維は増やさない。"
+        },
+        {
+          "id": "165",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 4,
+          "topic_id": "C-5",
+          "topic": "高塩分食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために塩分を控えたい気持ちがあるので、地域の集まりや家庭の食卓では昔ながらの塩味の味付けが重視されているが、社会的な慣習に無理に合わせずに汁物や漬物を控えめに食べ、味付けも塩分を抑える。",
+          "sentence_2": "健康のために塩分を控えたい気持ちはあるが、地域の集まりや家庭の食卓では昔ながらの塩味の味付けが重視されているので、社会的な慣習を優先して汁物や漬物を普段どおりに食べ、味付けも周囲に合わせる。"
+        },
+        {
+          "id": "166",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 5,
+          "topic_id": "C-6",
+          "topic": "高脂肪・揚げ物の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "親族の集まりでは多くの揚げ物を食べる伝統があるが、健康を意識して揚げ物の摂取を制限したいので、伝統より健康意識を優先して揚げ物の量を減らす。",
+          "sentence_2": "親族の集まりでは多くの揚げ物を食べる伝統があるので、健康を意識して揚げ物の摂取を制限したいが、伝統を優先して揚げ物を多く食べる。"
+        },
+        {
+          "id": "167",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 6,
+          "topic_id": "C-7",
+          "topic": "高糖食品・菓子類の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "職場や地域の集まりで慣習的に菓子類が配られるが、健康のために高糖食品の摂取を控えたいので、周囲との調和や慣習に無理に合わせず、自分は菓子を少量にとどめる。",
+          "sentence_2": "職場や地域の集まりで慣習的に菓子類が配られるので、健康のために高糖食品の摂取を控えたいが、周囲との調和や慣習を優先して、出された菓子を断らずに食べる。"
+        },
+        {
+          "id": "168",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 7,
+          "topic_id": "C-8",
+          "topic": "高タンパク質食品の摂取",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のためにタンパク質を多く摂取しようという意識があるので、野菜中心の食事を重視する慣例がある中、自分の意識を優先して野菜よりもタンパク質を多く摂取する。",
+          "sentence_2": "健康のためにタンパク質を多く摂取しようという意識があるが、野菜中心の食事を重視する慣例があるので、慣例を優先してタンパク質の摂取より野菜を多く摂取する。"
+        },
+        {
+          "id": "169",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 8,
+          "topic_id": "C-9",
+          "topic": "食事量・エネルギー摂取量の調整",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために食事量を控えたいと思っていても、所属組織での食事の際は出される料理は慣習で決まっているが、慣習よりも健康を優先して、たとえ残してでも食事量を調整する。",
+          "sentence_2": "所属組織での食事の際は、出される料理は慣習で決まっているので、健康のために食事量を控えたいと思っていても、慣習を優先して出された分は残さず食べる。"
+        },
+        {
+          "id": "170",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 9,
+          "topic_id": "C-10",
+          "topic": "外食・中食・加工食品での健康的選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために加工食品をより健康的な種類にしたい気持ちがあるので、家族の間での決まりよりも健康を優先して、家族の間で決まっている加工食品以外の、より健康的な種類を選んで購入する。",
+          "sentence_2": "家族の間では特定の加工食品を購入・消費するように決まっているので、より健康的な種類を選びたい気持ちもあるが、家族の間での決まりを優先して加工食品を選ぶ。"
+        },
+        {
+          "id": "171",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 10,
+          "topic_id": "C-11",
+          "topic": "有機・低農薬食品の選択",
+          "topic_subcategory_en": "Diet, Food Choices, and Purchasing",
+          "topic_subcategory_ja": "食生活・食品選択・購買",
+          "sentence_1": "健康のために有機・低農薬食品を選びたいので、地域の慣習として近所や親族と同じ店でまとめて買うことが多い中でも、社会的な調和より自分の健康を優先して、表示を確認しながら有機・低農薬の食品を選んで購入する。",
+          "sentence_2": "健康のために有機・低農薬食品を選びたいが、地域の慣習として近所や親族と同じ店でまとめて買うことが多いので、健康より社会的な調和や慣習を優先して、周囲と同じ店で一般的な食品を選んで購入する。"
+        },
+        {
+          "id": "172",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 13,
+          "topic_id": "C-14",
+          "topic": "日常生活・仕事・家事での身体活動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "健康のために、仕事中にも休憩として軽い運動などこまめな身体活動を取り入れたいので、あまり周囲に目立つ行動をしないという職場での規範よりも健康を優先して、そういった行動を行う。",
+          "sentence_2": "健康のために、仕事中にも休憩として軽い運動などこまめな身体活動を取り入れたいが、あまり周囲に目立つ行動をしないという職場での規範を優先して、そういった行動は控える。"
+        },
+        {
+          "id": "173",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 14,
+          "topic_id": "C-15",
+          "topic": "余暇のスポーツ・運動",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "家族の間では、休日は室内でのインドアな娯楽を皆で楽しむといった慣習があるが、慣習よりも健康を優先して、軽いスポーツや運動を娯楽に取り入れる。",
+          "sentence_2": "家族の間では、休日は室内でのインドアな娯楽を皆で楽しむといった慣習があるので、健康よりも慣習を優先して、軽いスポーツや運動などではなく、室内での娯楽を行う。"
+        },
+        {
+          "id": "174",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 17,
+          "topic_id": "C-18",
+          "topic": "長時間座位の抑制",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "職場では会議やデスクワークで長く座ることがあるが、健康のために座り続ける時間を減らしたいので、職場での秩序や慣習よりも健康を優先して、会議中でも適度に立ち上がったり、デスクワーク中に軽い運動を取り入れるなどして、長時間座位を避ける。",
+          "sentence_2": "職場では会議やデスクワークで長く座ることがあるので、健康のために座り続ける時間を減らしたい気持ちはあるが、健康よりも職場での秩序や慣習を優先して、会議中は立ち上がらず、デスクワーク中も軽い運動は控えて、長時間座位を続ける。"
+        },
+        {
+          "id": "175",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 18,
+          "topic_id": "C-19",
+          "topic": "スクリーン時間の管理",
+          "topic_subcategory_en": "Physical Activity and Exercise",
+          "topic_subcategory_ja": "身体活動・運動",
+          "sentence_1": "仕事に関する連絡はすぐに返信を行うという規範があるが、健康のためにスクリーン時間を減らしたい気持ちはあるので、規範よりも健康を優先して、夜は使用を控えるなどしてスクリーン時間を減らす。",
+          "sentence_2": "仕事に関する連絡はすぐに返信を行うという規範があるので、健康のためにスクリーン時間を減らしたい気持ちはあるが、健康よりも規範を優先して、スクリーン時間を減らさず夜でもためらわず使用する。"
+        },
+        {
+          "id": "176",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 19,
+          "topic_id": "C-20",
+          "topic": "睡眠時間の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "仲間の間での集まりは夜に行われる慣習があるが、健康のために睡眠時間を確保したいので、周囲との調和や慣習よりも健康を優先して、会合の参加時間や夜の予定を調整して睡眠時間を確保する。",
+          "sentence_2": "仲間の間での集まりは夜に行われる慣習があるので、健康のために睡眠時間を確保したい気持ちはあるが、健康よりも周囲との調和や慣習を優先して、会合の参加時間や夜の予定を調整せずに睡眠時間を削る。"
+        },
+        {
+          "id": "177",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 20,
+          "topic_id": "C-21",
+          "topic": "睡眠リズムの確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "夜更かしを避けて睡眠リズムを整えることが健康に重要だと考えているので、地域の集まりや職場の慣例的な遅い時間の付き合いがたまにあっても、健康を優先して早めに切り上げて就寝する。",
+          "sentence_2": "夜更かしを避けて睡眠リズムを整えることが健康に重要だと考えているが、地域の集まりや職場の慣例的な遅い時間の付き合いがたまにあるので、慣例を優先して最後まで参加し、就寝を遅らせる。"
+        },
+        {
+          "id": "178",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 21,
+          "topic_id": "C-22",
+          "topic": "睡眠の質の確保",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "職場や地域の集まりで夜遅くまで付き合う慣習があるが、睡眠の質を確保して心身の健康を保ちたいので、周囲の慣習よりも健康を優先して早めに切り上げ、十分な睡眠の質を確保する。",
+          "sentence_2": "職場や地域の集まりで夜遅くまで付き合う慣習があるので、睡眠の質を確保して心身の健康を保ちたい気持ちはあるが、睡眠の質を犠牲にしてでも、慣習を優先して最後まで参加する。"
+        },
+        {
+          "id": "179",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 22,
+          "topic_id": "C-23",
+          "topic": "日中の休息・疲労回復",
+          "topic_subcategory_en": "Sleep, Rest, and Stress Management",
+          "topic_subcategory_ja": "睡眠・休養・ストレス対象",
+          "sentence_1": "日中に短い休憩を取って疲労を回復したいので、職場では昼休みに周囲の規範や文化に合わせて無理に活動をし続けたり周囲との談笑に付き合ったりせず、静かな場所で少し横になったり目を閉じたりして休む。",
+          "sentence_2": "日中に短い休憩を取って疲労を回復したいが、職場では昼休みに周囲の規範や文化に合わせ、静かな場所で少し横になったり目を閉じたりして休むのではなく、活動をし続けたり周囲との談笑に付き合う。"
+        },
+        {
+          "id": "180",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 24,
+          "topic_id": "C-25",
+          "topic": "燃焼式タバコの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "職場や地域の集まりでは喫煙所で一息つく流れがあるが、健康のために燃焼式タバコを避けたいので、周囲の慣習よりも自分の健康を優先して喫煙所には入らず、紙巻きタバコも吸わない。",
+          "sentence_2": "職場や地域の集まりでは喫煙所で一息つく流れがあるので、健康のために燃焼式タバコを避けたいが、場の秩序や慣習を優先して喫煙所に入り、紙巻きタバコを吸う。"
+        },
+        {
+          "id": "181",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 25,
+          "topic_id": "C-26",
+          "topic": "無煙タバコの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "職場や友人との場で無煙タバコを勧められることがあっても、心身の健康を損ねたくないので、仲間内での慣習よりも健康を優先して使用を断る。",
+          "sentence_2": "職場や友人との場で無煙タバコを勧められることがあれば、仲間内での慣習を優先して、心身の健康への懸念があっても使用を断らずに受け入れる。"
+        },
+        {
+          "id": "182",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 26,
+          "topic_id": "C-27",
+          "topic": "電子タバコ・ベイピングの使用回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "電子タバコやベイピングを勧められる場面があっても、周囲との調和やこれまでの喫煙に対する慣習よりも、心身の健康を損ねたくないという気持ちを優先して、場の流れに合わせず使用を避ける。",
+          "sentence_2": "電子タバコやベイピングを勧められる場面があっても、心身の健康を損ねたくないという気持ちよりも、周囲との調和やこれまでの喫煙に対する慣習を重視して、場の流れに合わせて使用を避けない。"
+        },
+        {
+          "id": "183",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 27,
+          "topic_id": "C-28",
+          "topic": "受動喫煙の回避",
+          "topic_subcategory_en": "Tobacco and Nicotine Use",
+          "topic_subcategory_ja": "タバコ・ニコチン関連行動",
+          "sentence_1": "職場では特に受動喫煙を気にしない慣習があるが、健康のために受動喫煙を回避したいので、席を移動したり禁煙席を選んだりして、社会的な秩序や慣習よりも健康を優先して受動喫煙を避ける。",
+          "sentence_2": "職場では特に受動喫煙を気にしない慣習があるので、健康のために受動喫煙を回避したい気持ちよりも、周囲との調和や慣習を優先して、喫煙可能な場所ではその場の決まりに従い、煙を避ける行動を控える。"
+        },
+        {
+          "id": "184",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 28,
+          "topic_id": "C-29",
+          "topic": "飲酒頻度の管理",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "健康のために飲酒頻度を管理したいので、職場での飲み会の慣例よりも自分の健康を優先して、頻度を減らして職場での飲み会などへの参加を控える。",
+          "sentence_2": "健康のために飲酒頻度を管理したい気持ちもあるが、職場での飲み会の慣例に合わせることを優先して、特に頻度を減らさずに職場での飲み会などに参加する。"
+        },
+        {
+          "id": "185",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 29,
+          "topic_id": "C-30",
+          "topic": "飲酒量の調整",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "職場の懇親会では周囲に合わせて飲むのが自然だという空気があるが、健康のために飲酒量を抑えたいので、場の秩序や慣例よりも健康を優先して、周囲に合わせず飲酒量を抑える。",
+          "sentence_2": "職場の懇親会では周囲に合わせて飲むのが自然だという空気があるので、健康のために飲酒量を抑えたいが、健康よりも場の秩序や慣例を優先して、周囲と同じように飲酒をする。"
+        },
+        {
+          "id": "186",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 30,
+          "topic_id": "C-31",
+          "topic": "減酒・断酒の実践",
+          "topic_subcategory_en": "Alcohol Use",
+          "topic_subcategory_ja": "アルコール関連行動",
+          "sentence_1": "会社の飲み会には基本的には参加するのが慣例だが、健康のために減酒を開始したので、健康を優先して飲み会に参加しない。",
+          "sentence_2": "会社の飲み会には基本的には参加するのが慣例なので、健康のために減酒を開始したが、慣例を優先して飲み会に参加し飲酒する。"
+        },
+        {
+          "id": "187",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 33,
+          "topic_id": "C-34",
+          "topic": "歯磨き",
+          "topic_subcategory_en": "Hygiene and Oral Health",
+          "topic_subcategory_ja": "衛生・口腔",
+          "sentence_1": "食後は必ず歯磨きをしたい気持ちがあるので、職場ではランチ後に歯磨きをする人はおらず、すぐに仕事を再開する慣習があっても、健康を優先して歯磨きを行う。",
+          "sentence_2": "食後は必ず歯磨きをしたい気持ちもあるが、職場ではランチ後に歯磨きをする人はおらず、すぐに仕事を再開する慣習があるので、健康よりも慣習を優先して歯磨きを控える。"
+        },
+        {
+          "id": "188",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 37,
+          "topic_id": "C-38",
+          "topic": "適正体重の維持・体重管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "体重の増加を抑えるために栄養管理や食事量の調整をしたいので、職場や家庭での食事の場では皆と同じ量や内容を合わせることが規範であっても、無理に周囲に合わせず、自身の体重抑制のための食事内容とする。",
+          "sentence_2": "体重の増加を抑えるために栄養管理や食事量の調整をしたい気持ちもあるが、職場や家庭での食事の場では皆と同じ量や内容を合わせることが規範なので、自身の体重抑制よりも周囲に合わせて食事をする。"
+        },
+        {
+          "id": "189",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 38,
+          "topic_id": "C-39",
+          "topic": "血圧測定・高血圧管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために塩分を抑えた食事をとって血圧を下げたいので、職場や家庭での食事の場では皆と同じ量や内容を合わせることが規範であっても、無理に周囲に合わせず、自身の血圧抑制のための食事内容とする。",
+          "sentence_2": "健康のために塩分を抑えた食事をとって血圧を下げたいが、職場や家庭での食事の場では皆と同じ量や内容を合わせることが規範なので、周囲に合わせて塩分の多い食事もためらわずに食べる。"
+        },
+        {
+          "id": "190",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 39,
+          "topic_id": "C-40",
+          "topic": "血糖測定・糖尿病管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために糖分を控えた食事をとって血糖を下げたいので、職場や家庭での食事の場では皆と同じ量や内容を合わせることが規範であっても、無理に周囲に合わせず、自身の血糖抑制のための食事内容とする。",
+          "sentence_2": "健康のために糖分を控えた食事をとって血糖を下げたいが、職場や家庭での食事の場では皆と同じ量や内容を合わせることが規範なので、周囲に合わせて糖分の多い食事もためらわずに食べる。"
+        },
+        {
+          "id": "191",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 40,
+          "topic_id": "C-41",
+          "topic": "脂質測定・コレステロール管理",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "健康のために脂質を抑えてコレステロール管理をしたいので、職場や家庭での食事の場では皆と同じ量や内容を合わせることが規範であっても、無理に周囲に合わせず、自身のコレステロール抑制のための食事内容とする。",
+          "sentence_2": "健康のために脂質を抑えてコレステロール管理をしたいが、職場や家庭での食事の場では皆と同じ量や内容を合わせることが規範なので、周囲に合わせて脂質の多い食事もためらわずに食べる。"
+        },
+        {
+          "id": "192",
+          "country": "日本",
+          "domain": "C_health",
+          "external_factor_key": "6_social_order_and_norms",
+          "external_factor": "社会的要因 (文化・規範・秩序)",
+          "external_factor_values": [
+            "Social Order",
+            "Respect for Tradition"
+          ],
+          "external_factor_values_definitions": {
+            "Social Order": "stability of society",
+            "Respect for Tradition": "preservation of time-honored customs"
+          },
+          "topic_index": 42,
+          "topic_id": "C-43",
+          "topic": "予防接種・ワクチン接種",
+          "topic_subcategory_en": "Health Management and Self-Monitoring",
+          "topic_subcategory_ja": "医療・健康管理・自己モニタリング",
+          "sentence_1": "流行の病のワクチンを十分に接種したいので、家族の間で必要以上の接種を避ける慣習があっても、健康を優先してワクチン接種を行う。",
+          "sentence_2": "流行の病のワクチンを十分に接種したい気持ちもあるが、家族の間では必要以上のそうした接種を避ける慣習があるので、家族の慣習を優先してワクチン接種は控える。"
+        }
+      ]
+    }
+  }
+}
