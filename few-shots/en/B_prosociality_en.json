@@ -1,0 +1,177 @@
+{
+  "domain": "B_prosociality",
+  "name": "Prosociality",
+  "ja_name": "向社会的行動",
+  "total_factor_count": 6,
+  "total_example_set_count": 18,
+  "examples": {
+    "1_economic": {
+      "factor_name": "Economic",
+      "factor_ja_name": "経済的要因",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "B-1-1",
+          "topic": "Purchasing fair-trade and producer-supporting products",
+          "topic_id": "B-6",
+          "sentence_1": "Although it is expensive and financially burdensome for me, I buy fair-trade products as an ethical consumer choice.",
+          "sentence_2": "Although ethical consumption matters to me, fair-trade products are expensive and financially burdensome, so I buy conventional products instead."
+        },
+        {
+          "set_id": "B-1-2",
+          "topic": "Donations to charitable and nonprofit organizations",
+          "topic_id": "B-1",
+          "sentence_1": "Although I have little financial leeway, I make a donation requested by a local charity.",
+          "sentence_2": "I would like to make a donation requested by a local charity, but I cannot because I have little financial leeway."
+        },
+        {
+          "set_id": "B-1-3",
+          "topic": "Choosing food and products that support animal welfare",
+          "topic_id": "B-9",
+          "sentence_1": "Although it is more expensive and financially burdensome than other options, I choose and buy food produced with animal welfare in mind.",
+          "sentence_2": "I would like to choose and buy food produced with animal welfare in mind, but it is more expensive and financially burdensome than other options, so I buy less expensive food instead."
+        }
+      ]
+    },
+    "2_hedonism": {
+      "factor_name": "Hedonism",
+      "factor_ja_name": "快楽要因",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "B-2-1",
+          "topic": "Giving up a seat on public transportation",
+          "topic_id": "B-16",
+          "sentence_1": "On a train, I may want to stay seated and relax, but I stand up and give my seat to someone else.",
+          "sentence_2": "On a train, I may want to give my seat to someone else, but I stay seated because I want to relax."
+        },
+        {
+          "set_id": "B-2-2",
+          "topic": "Checking ethical certifications and supply-chain information when shopping",
+          "topic_id": "B-10",
+          "sentence_1": "Although I would prefer to buy another product that tastes better to me, I prioritize ethical consumption and buy a product with verifiable ethical certifications or supply-chain information.",
+          "sentence_2": "Although I want to prioritize ethical consumption, I buy another product that tastes better to me instead of one with verifiable ethical certifications or supply-chain information."
+        },
+        {
+          "set_id": "B-2-3",
+          "topic": "Administrative support for organizations",
+          "topic_id": "B-33",
+          "sentence_1": "Although I would prefer to enjoy participating casually as a member, I help run the organization so I can contribute more to the community group.",
+          "sentence_2": "Although I would like to contribute more to the community group, I prefer to enjoy participating casually as a member, so I do not help run the organization."
+        }
+      ]
+    },
+    "3_functionality_and_convenience": {
+      "factor_name": "Functionality and Convenience",
+      "factor_ja_name": "機能・利便性要因",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "B-3-1",
+          "topic": "Purchasing fair-trade products that support producers",
+          "topic_id": "B-6",
+          "sentence_1": "Although fair-trade products are less convenient in many ways than other products, I buy them.",
+          "sentence_2": "I would like to buy fair-trade products, but they are less convenient in many ways than other products, so I buy conventional products instead."
+        },
+        {
+          "set_id": "B-3-2",
+          "topic": "Supporting community and school activities",
+          "topic_id": "B-34",
+          "sentence_1": "Although I am unsure whether my abilities and circumstances will allow me to make a real contribution, and I might even create extra work for others, I join a community support activity and try to help.",
+          "sentence_2": "I would like to join a community support activity and contribute, but I am unsure whether my abilities and circumstances will allow me to do so and might create extra work for others, so I deliberately do not participate."
+        },
+        {
+          "set_id": "B-3-3",
+          "topic": "Advice on legal, medical, and public-service matters",
+          "topic_id": "B-29",
+          "sentence_1": "Although I am not confident in my knowledge or understanding, I help someone who is having difficulty understanding the healthcare system by discussing their questions with them.",
+          "sentence_2": "Even if someone is having difficulty understanding the healthcare system, I do not offer help or discuss their questions because I am not confident in my knowledge or understanding."
+        }
+      ]
+    },
+    "4_social_belonging": {
+      "factor_name": "Social Belonging",
+      "factor_ja_name": "社会的要因 (関係維持・所属)",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "B-4-1",
+          "topic": "Boycotting or avoiding unethical companies and products",
+          "topic_id": "B-8",
+          "sentence_1": "I want to avoid buying products from a company that has been reported to act unethically. Although my peers favor its products, I avoid buying them.",
+          "sentence_2": "I want to avoid buying products from a company that has been reported to act unethically, but my peers favor its products, so I continue buying them to avoid making my peers uncomfortable."
+        },
+        {
+          "set_id": "B-4-2",
+          "topic": "Supporting people affected by disasters",
+          "topic_id": "B-38",
+          "sentence_1": "I already have other plans with my group of friends, but I want to take part in disaster relief, so I prioritize the relief activity.",
+          "sentence_2": "I want to take part in disaster relief, but I already have other plans with my group of friends, so I prioritize those plans."
+        },
+        {
+          "set_id": "B-4-3",
+          "topic": "Blood donation and other bodily resource contributions",
+          "topic_id": "B-5",
+          "sentence_1": "My family is uncomfortable with blood donation, but I want to donate to contribute to society, so I prioritize my own wishes over my family's and donate blood.",
+          "sentence_2": "I would like to donate blood to contribute to society, but my family is uncomfortable with it, so I respect their wishes and do not donate."
+        }
+      ]
+    },
+    "5_social_reputation": {
+      "factor_name": "Social Reputation",
+      "factor_ja_name": "社会的要因 (周囲からの評価・評判)",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "B-5-1",
+          "topic": "Raising awareness and sharing information about social issues",
+          "topic_id": "B-35",
+          "sentence_1": "People may distance themselves from me for being outspoken, but I believe my efforts could help, so I raise awareness and share information about social issues.",
+          "sentence_2": "I believe raising awareness and sharing information about social issues could help, but I avoid doing so because people may distance themselves from me for being outspoken."
+        },
+        {
+          "set_id": "B-5-2",
+          "topic": "Checking ethical certifications and supply-chain information when shopping",
+          "topic_id": "B-10",
+          "sentence_1": "Others may think I am overthinking it, but I check ethical certifications and supply-chain information when choosing products as part of ethical consumption.",
+          "sentence_2": "I want to make ethical purchases, but I do not pay particular attention to ethical certifications or supply-chain information when choosing products because others may think I am overthinking it."
+        },
+        {
+          "set_id": "B-5-3",
+          "topic": "Learning support and tutoring",
+          "topic_id": "B-27",
+          "sentence_1": "Others may see it as unfair that I do not do the same for everyone, but I provide learning support to one of my peers in a subject I know well.",
+          "sentence_2": "I would like to provide learning support to one of my peers in a subject I know well, but I do not because others may see it as unfair that I do not do the same for everyone."
+        }
+      ]
+    },
+    "6_social_order_and_norms": {
+      "factor_name": "Social Order and Norms",
+      "factor_ja_name": "社会的要因 (文化・規範・秩序)",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "B-6-1",
+          "topic": "Choosing products made with respect for labor and human rights",
+          "topic_id": "B-7",
+          "sentence_1": "My family has a customary type of product that we always buy, but I prioritize products that claim to respect human rights.",
+          "sentence_2": "My family has a customary type of product that we always buy, so I prioritize our usual products instead of products that claim to respect human rights."
+        },
+        {
+          "set_id": "B-6-2",
+          "topic": "Boycotting or avoiding unethical companies and products",
+          "topic_id": "B-8",
+          "sentence_1": "The company has a customary supplier for the products it buys, but I want to avoid products from a company considered unethical, so I disregard the custom and buy from a different company.",
+          "sentence_2": "The company has a customary supplier for the products it buys, so I follow the custom and continue buying from that supplier, even though I want to avoid products from a company considered unethical."
+        },
+        {
+          "set_id": "B-6-3",
+          "topic": "Community cleanups and maintenance of public spaces",
+          "topic_id": "B-39",
+          "sentence_1": "I want to contribute to my community by cleaning public areas on my own. Although the municipality has rules for cleanup activities, I disregard them and do the cleanup independently.",
+          "sentence_2": "I want to contribute to my community by cleaning public areas on my own, but the municipality has rules for cleanup activities, so I follow those rules and do not clean independently."
+        }
+      ]
+    }
+  }
+}

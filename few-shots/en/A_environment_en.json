@@ -1,0 +1,177 @@
+{
+  "domain": "A_environment",
+  "name": "Environment",
+  "ja_name": "環境配慮行動",
+  "total_factor_count": 6,
+  "total_example_set_count": 18,
+  "examples": {
+    "1_economic": {
+      "factor_name": "Economic",
+      "factor_ja_name": "経済的要因",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "A-1-1",
+          "topic": "Travel by private car",
+          "topic_id": "A-28",
+          "sentence_1": "Although traveling by private car costs less per person, I use public transportation for environmental reasons.",
+          "sentence_2": "Although public transportation is better for the environment, I travel by private car because it costs less per person."
+        },
+        {
+          "set_id": "A-1-2",
+          "topic": "Use of residential solar power",
+          "topic_id": "A-23",
+          "sentence_1": "Although the high upfront cost would strain my household budget, I install a residential solar power system for the sake of the environment.",
+          "sentence_2": "I would like to install a residential solar power system for the sake of the environment, but I do not because the high upfront cost would strain my household budget."
+        },
+        {
+          "set_id": "A-1-3",
+          "topic": "Donations to environmental organizations",
+          "topic_id": "A-38",
+          "sentence_1": "I donate to an environmental organization, even if it means having less disposable income.",
+          "sentence_2": "I do not donate to an environmental organization because I do not want to reduce my disposable income."
+        }
+      ]
+    },
+    "2_hedonism": {
+      "factor_name": "Hedonism",
+      "factor_ja_name": "快楽要因",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "A-2-1",
+          "topic": "Consumption of plant-based foods",
+          "topic_id": "A-15",
+          "sentence_1": "Although animal-based meat tastes better to me, I choose and eat plant-based meat for environmental reasons.",
+          "sentence_2": "Although plant-based meat is better for the environment, I choose animal-based meat because I find it tastier."
+        },
+        {
+          "set_id": "A-2-2",
+          "topic": "Water use",
+          "topic_id": "A-20",
+          "sentence_1": "Taking a bath or shower feels good, but I try to reduce how often and how long I do so to conserve water.",
+          "sentence_2": "I should reduce how often and how long I take baths or showers to conserve water, but I do so frequently and for a long time because it feels good."
+        },
+        {
+          "set_id": "A-2-3",
+          "topic": "Extending product use and repairing products",
+          "topic_id": "A-10",
+          "sentence_1": "Buying a brand-new, pristine item is exciting and makes me happy, but I try to use my belongings for as long as possible and avoid buying new ones because replacing usable items feels wasteful.",
+          "sentence_2": "I should use my belongings for as long as possible and avoid buying new ones because replacing usable items feels wasteful, but I buy brand-new, pristine items because doing so is exciting and makes me happy."
+        }
+      ]
+    },
+    "3_functionality_and_convenience": {
+      "factor_name": "Functionality and Convenience",
+      "factor_ja_name": "機能・利便性要因",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "A-3-1",
+          "topic": "Use of disposable chopsticks",
+          "topic_id": "A-6",
+          "sentence_1": "Although using reusable chopsticks means having to wash them, I use them for meals at home instead of disposable chopsticks to reduce waste.",
+          "sentence_2": "Although disposable chopsticks create waste, I use them for meals at home because they are convenient and require no washing."
+        },
+        {
+          "set_id": "A-3-2",
+          "topic": "Checking environmental labels and certifications when shopping",
+          "topic_id": "A-4",
+          "sentence_1": "When buying a product, I prioritize whether it has environmental labels or certifications over its functionality or convenience for me.",
+          "sentence_2": "When buying a product, I prioritize its functionality or convenience for me over whether it has environmental labels or certifications."
+        },
+        {
+          "set_id": "A-3-3",
+          "topic": "Use of gas",
+          "topic_id": "A-22",
+          "sentence_1": "A gas stove is more convenient and efficient, but I cook with an induction cooktop because using electricity is better for the environment.",
+          "sentence_2": "Using electricity is better for the environment, but I cook with a gas stove because it is more convenient and efficient."
+        }
+      ]
+    },
+    "4_social_belonging": {
+      "factor_name": "Social Belonging",
+      "factor_ja_name": "社会的要因 (関係維持・所属)",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "A-4-1",
+          "topic": "Use of heating and air conditioning",
+          "topic_id": "A-24",
+          "sentence_1": "A friend wants to leave the air conditioning on while we are out so the home stays cool when we return, but I turn it off while we are away.",
+          "sentence_2": "A friend wants to leave the air conditioning on while we are out so the home stays cool when we return, so I leave it on while we are away."
+        },
+        {
+          "set_id": "A-4-2",
+          "topic": "Air travel",
+          "topic_id": "A-27",
+          "sentence_1": "On a group trip, someone suggests that flying would be the easiest option, but I choose another mode of transportation for environmental reasons.",
+          "sentence_2": "On a group trip, someone suggests that flying would be the easiest option. Although another mode of transportation would be better for the environment, I choose to fly."
+        },
+        {
+          "set_id": "A-4-3",
+          "topic": "Leisure activities in natural environments",
+          "topic_id": "A-33",
+          "sentence_1": "For an annual group trip, I choose a new ecotourism itinerary instead of the usual plan that participants expect and that has been followed in previous years.",
+          "sentence_2": "For an annual group trip, ecotourism is considered as an option, but I choose the usual plan that participants expect and that has been followed in previous years."
+        }
+      ]
+    },
+    "5_social_reputation": {
+      "factor_name": "Social Reputation",
+      "factor_ja_name": "社会的要因 (周囲からの評価・評判)",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "A-5-1",
+          "topic": "Sharing information about environmental issues",
+          "topic_id": "A-39",
+          "sentence_1": "People may distance themselves from me for being outspoken, but I actively share information about environmental issues.",
+          "sentence_2": "I avoid sharing information about environmental issues because people may distance themselves from me for being outspoken."
+        },
+        {
+          "set_id": "A-5-2",
+          "topic": "Reusing and giving away products",
+          "topic_id": "A-8",
+          "sentence_1": "When buying a product, I choose a used item rather than a new one, regardless of what others may think of me.",
+          "sentence_2": "When buying a product, I choose a new item rather than a used one because I care about what others may think of me."
+        },
+        {
+          "set_id": "A-5-3",
+          "topic": "Use of heating and air conditioning",
+          "topic_id": "A-24",
+          "sentence_1": "Although I care about what others may think of me, I limit the use of heating and air conditioning as much as possible at home or in my car, even when I have guests.",
+          "sentence_2": "Because I care about what others may think of me, I use heating or air conditioning freely at home or in my car when I have guests."
+        }
+      ]
+    },
+    "6_social_order_and_norms": {
+      "factor_name": "Social Order and Norms",
+      "factor_ja_name": "社会的要因 (文化・規範・秩序)",
+      "example_set_count": 3,
+      "example_sets": [
+        {
+          "set_id": "A-6-1",
+          "topic": "Choosing product packaging",
+          "topic_id": "A-1",
+          "sentence_1": "Because gift packaging is likely to be discarded, I avoid wrapping gifts more than necessary.",
+          "sentence_2": "Although gift packaging is likely to be discarded, I wrap gifts elaborately."
+        },
+        {
+          "set_id": "A-6-2",
+          "topic": "Actions related to food waste",
+          "topic_id": "A-16",
+          "sentence_1": "When relatives gather, there is a tradition of preparing more food than can be eaten, but I try to prepare less to reduce food waste.",
+          "sentence_2": "When relatives gather, there is a tradition of preparing more food than can be eaten, so I uphold the tradition and do not reduce the amount of food, despite concerns about food waste."
+        },
+        {
+          "set_id": "A-6-3",
+          "topic": "Choosing how agricultural products are grown",
+          "topic_id": "A-12",
+          "sentence_1": "Even when a locally renowned crop is produced using traditional methods, I do not buy it if those methods harm the environment; instead, I buy crops produced more sustainably in another region.",
+          "sentence_2": "Even if the traditional methods used to produce a locally renowned crop harm the environment, I buy that traditional local crop rather than a crop produced more sustainably in another region."
+        }
+      ]
+    }
+  }
+}

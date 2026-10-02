@@ -1,0 +1,96 @@
+{
+  "domain": "B_prosociality",
+  "name": "Prosociality",
+  "ja_name": "向社会的行動",
+  "total_subcategory_count": 8,
+  "total_item_count": 39,
+  "subcategories": {
+    "Resource Provision & Donation": {
+      "ja_name": "資源提供・寄付",
+      "item_count": 5,
+      "items": [
+        { "id": "B-1", "topic": "Donations to charitable and nonprofit organizations" },
+        { "id": "B-2", "topic": "Donations of clothing and household goods" },
+        { "id": "B-3", "topic": "Providing food, medical supplies, and essential goods" },
+        { "id": "B-4", "topic": "Sharing and lending goods, tools, and information" },
+        { "id": "B-5", "topic": "Blood donation and other bodily resource contributions" }
+      ]
+    },
+    "Ethical Consumer Choices": {
+      "ja_name": "倫理的消費・購買選択",
+      "item_count": 5,
+      "items": [
+        { "id": "B-6", "topic": "Purchasing fair-trade products that support producers" },
+        { "id": "B-7", "topic": "Choosing products made with respect for labor and human rights" },
+        { "id": "B-8", "topic": "Boycotting or avoiding unethical companies and products" },
+        { "id": "B-9", "topic": "Choosing food and products that support animal welfare" },
+        { "id": "B-10", "topic": "Checking ethical certifications and supply-chain information when shopping" }
+      ]
+    },
+    "Stranger & Public Assistance": {
+      "ja_name": "見知らぬ人・公共場面での援助",
+      "item_count": 6,
+      "items": [
+        { "id": "B-11", "topic": "Helping someone carry luggage" },
+        { "id": "B-12", "topic": "Providing transportation" },
+        { "id": "B-13", "topic": "Holding doors, assisting with elevators, and helping people pass" },
+        { "id": "B-14", "topic": "Giving up a place in line, one's turn, or an opportunity to use a facility" },
+        { "id": "B-15", "topic": "Assisting and showing consideration for older adults and people with disabilities" },
+        { "id": "B-16", "topic": "Giving up a seat on public transportation" }
+      ]
+    },
+    "Direct Help for Close Others": {
+      "ja_name": "身近な他者への直接援助",
+      "item_count": 5,
+      "items": [
+        { "id": "B-17", "topic": "Helping friends and colleagues with activities and tasks" },
+        { "id": "B-18", "topic": "Helping with moving and everyday tasks" },
+        { "id": "B-19", "topic": "Helping with shopping, medical visits, and outings" },
+        { "id": "B-20", "topic": "Helping with household chores and daily errands" },
+        { "id": "B-21", "topic": "Providing daily-life support during illness or hardship" }
+      ]
+    },
+    "Emotional Support & Care": {
+      "ja_name": "情緒的支援・ケア",
+      "item_count": 5,
+      "items": [
+        { "id": "B-22", "topic": "Supporting people experiencing loneliness or anxiety" },
+        { "id": "B-23", "topic": "Listening to concerns and offering advice" },
+        { "id": "B-24", "topic": "Mentoring and ongoing support" },
+        { "id": "B-25", "topic": "Personal care and assistance" },
+        { "id": "B-26", "topic": "Helping prevent problems in daily life" }
+      ]
+    },
+    "Knowledge, Skills & Expertise Support": {
+      "ja_name": "知識・技能・専門性の提供",
+      "item_count": 4,
+      "items": [
+        { "id": "B-27", "topic": "Learning support and tutoring" },
+        { "id": "B-28", "topic": "Education, training, and skills instruction" },
+        { "id": "B-29", "topic": "Advice on legal, medical, and public-service matters" },
+        { "id": "B-30", "topic": "IT, web, and data support" }
+      ]
+    },
+    "Community & Organizational Volunteering": {
+      "ja_name": "地域・団体ボランティア",
+      "item_count": 6,
+      "items": [
+        { "id": "B-31", "topic": "Activities with charitable and nonprofit organizations" },
+        { "id": "B-32", "topic": "Participating in fundraising activities" },
+        { "id": "B-33", "topic": "Organizational management and administrative support" },
+        { "id": "B-34", "topic": "Supporting community and school activities" },
+        { "id": "B-35", "topic": "Raising awareness and sharing information about social issues" },
+        { "id": "B-36", "topic": "Connecting support providers with people in need" }
+      ]
+    },
+    "Relief & Public-Good Support": {
+      "ja_name": "困窮・被災・公共支援",
+      "item_count": 3,
+      "items": [
+        { "id": "B-37", "topic": "Providing meals to people in need" },
+        { "id": "B-38", "topic": "Supporting people affected by disasters" },
+        { "id": "B-39", "topic": "Community cleanups and maintenance of public spaces" }
+      ]
+    }
+  }
+}

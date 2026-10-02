@@ -1,0 +1,96 @@
+{
+  "domain": "A_environment",
+  "name": "Environment",
+  "ja_name": "環境配慮行動",
+  "total_subcategory_count": 8,
+  "total_item_count": 39,
+  "subcategories": {
+    "Consumption and Purchasing": {
+      "ja_name": "消費・購買",
+      "item_count": 5,
+      "items": [
+        { "id": "A-1", "topic": "Choosing product packaging" },
+        { "id": "A-2", "topic": "Using bags when shopping" },
+        { "id": "A-3", "topic": "Using refill products" },
+        { "id": "A-4", "topic": "Checking environmental labels and certifications when shopping" },
+        { "id": "A-5", "topic": "Choosing product materials and ingredients" }
+      ]
+    },
+    "Product Use and Circularity": {
+      "ja_name": "製品の利用・循環",
+      "item_count": 6,
+      "items": [
+        { "id": "A-6", "topic": "Using disposable chopsticks" },
+        { "id": "A-7", "topic": "Using reusable water bottles" },
+        { "id": "A-8", "topic": "Reusing and passing products on" },
+        { "id": "A-9", "topic": "Purchasing, using, and disposing of clothing" },
+        { "id": "A-10", "topic": "Extending product use and repairing products" },
+        { "id": "A-11", "topic": "Sharing products and services" }
+      ]
+    },
+    "Diet and Food Choices": {
+      "ja_name": "食生活・食品選択",
+      "item_count": 5,
+      "items": [
+        { "id": "A-12", "topic": "Choosing how agricultural products are grown" },
+        { "id": "A-13", "topic": "Choosing seafood production and sourcing methods" },
+        { "id": "A-14", "topic": "Meat consumption" },
+        { "id": "A-15", "topic": "Consumption of plant-based foods" },
+        { "id": "A-16", "topic": "Actions to reduce food waste" }
+      ]
+    },
+    "Waste and Resource Circularity": {
+      "ja_name": "廃棄物・資源循環",
+      "item_count": 3,
+      "items": [
+        { "id": "A-17", "topic": "Actions related to household waste" },
+        { "id": "A-18", "topic": "Recycling practices" },
+        { "id": "A-19", "topic": "Actions related to plastic waste" }
+      ]
+    },
+    "Water, Energy, and Housing": {
+      "ja_name": "水・エネルギー・住居",
+      "item_count": 7,
+      "items": [
+        { "id": "A-20", "topic": "Water use" },
+        { "id": "A-21", "topic": "Electricity use" },
+        { "id": "A-22", "topic": "Gas use" },
+        { "id": "A-23", "topic": "Use of solar power" },
+        { "id": "A-24", "topic": "Use of heating and air conditioning" },
+        { "id": "A-25", "topic": "Choosing the energy performance of homes and household equipment" },
+        { "id": "A-26", "topic": "Actions related to wastewater and water quality impacts" }
+      ]
+    },
+    "Mobility and Transportation": {
+      "ja_name": "移動・交通",
+      "item_count": 6,
+      "items": [
+        { "id": "A-27", "topic": "Air travel" },
+        { "id": "A-28", "topic": "Travel by private car" },
+        { "id": "A-29", "topic": "Use of public transportation" },
+        { "id": "A-30", "topic": "Travel by bicycle" },
+        { "id": "A-31", "topic": "Walking for transportation" },
+        { "id": "A-32", "topic": "Choosing vehicles based on environmental performance" }
+      ]
+    },
+    "Engagement with Nature": {
+      "ja_name": "自然環境との関わり",
+      "item_count": 3,
+      "items": [
+        { "id": "A-33", "topic": "Leisure activities in natural environments" },
+        { "id": "A-34", "topic": "Participation in nature conservation activities" },
+        { "id": "A-35", "topic": "Interactions with wild plants and animals" }
+      ]
+    },
+    "Social Participation and Advocacy": {
+      "ja_name": "社会参加・アドボカシー",
+      "item_count": 4,
+      "items": [
+        { "id": "A-36", "topic": "Activities with environmental organizations" },
+        { "id": "A-37", "topic": "Signing petitions and participating in protests about environmental issues" },
+        { "id": "A-38", "topic": "Donations to environmental organizations" },
+        { "id": "A-39", "topic": "Sharing information about environmental issues" }
+      ]
+    }
+  }
+}

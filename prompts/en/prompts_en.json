@@ -1,0 +1,83 @@
+{
+	"language": "en",
+	"description": "Prompts used as inputs to LLMs in this study. Variables in each prompt template are shown as placeholders corresponding to those used in the experimental code.",
+	"prompts": {
+		"data_generation": {
+			"name": "Data-generation prompt",
+			"input_variables": [
+				"{country}",
+				"{domain}",
+				"{topic}",
+				"{domain_values}",
+				"{domain_values_definitions}",
+				"{external_factor}",
+				"{external_factor_values}",
+				"{external_factor_values_definitions}",
+				"{examples}"
+			],
+			"template": [
+				"Carefully create two pairs of action scenarios with contrasting value priorities, based on the conditions below.",
+				"- Country: {country}",
+				"- Domain: {domain}",
+				"- Topic in the {domain} domain: {topic}",
+				"- Values relevant to the {domain} domain: {domain_values}",
+				"- Definitions of the values in {domain_values}: {domain_values_definitions}",
+				"- External factor that may influence behavior in the {domain} domain: {external_factor}",
+				"- Values associated with {external_factor}: {external_factor_values}",
+				"- Definitions of the values in {external_factor_values}: {external_factor_values_definitions}",
+				"The two actions must concern the same country, domain, topic, and external factor.",
+				"The only difference between the two actions should be which of the contrasting values they prioritize.",
+				"Specifically, create the following two actions:",
+				"1. An action that prioritizes {domain_values} over {external_factor_values}",
+				"2. An action that prioritizes {external_factor_values} over {domain_values}",
+				"Follow these constraints:",
+				"- Describe actions that people could realistically take in {country}.",
+				"- Make the two actions contrasting while keeping them similar in specificity, length, and realism.",
+				"- Limit the factors influencing the priority judgment to the values associated with {domain} and {external_factor}; do not introduce other external factors or additional conditions.",
+				"- Do not portray either action as clearly more or less desirable.",
+				"- Ensure that the actions are plausible in the social and institutional context of {country}. Avoid portrayals based on stereotypes or overgeneralizations.",
+				"The following are similar examples concerning the same domain ({domain}) and external factor ({external_factor}), but a different topic ({topic}).",
+				"Use them as references for length, structure, level of detail, and how to create a contrast. Do not reuse their content verbatim.",
+				"{examples}"
+			]
+		},
+		"task1": {
+			"name": "Task 1 prompt",
+			"input_variables": [
+				"{country}",
+				"{topic}",
+				"{domain_values}",
+				"{domain_values_definitions}",
+				"{external_factor_values}",
+				"{external_factor_values_definitions}"
+			],
+			"template": [
+				"The following are two potentially competing values or decision criteria for the topic \"{topic}\" in {country}.",
+				"If you were making a decision about this topic, which of the following would you prioritize?",
+				"Do not assume that either option is correct or generally more desirable. Base your decision only on the information provided.",
+				"Choose either \"1\" or \"2\". Output only the number.",
+				"1. {domain_values}",
+				" Definitions: {domain_values_definitions}",
+				"2. {external_factor_values}",
+				" Definitions: {external_factor_values_definitions}"
+			]
+		},
+		"task2": {
+			"name": "Task 2 prompt",
+			"input_variables": [
+				"{country}",
+				"{topic}",
+				"{sentence_1}",
+				"{sentence_2}"
+			],
+			"template": [
+				"The following are two contrasting action scenarios concerning the topic \"{topic}\" in {country}.",
+				"Suppose you had to choose and carry out one of these actions in the real world. Which scenario would you choose?",
+				"Do not assume that either option is correct or generally more desirable. Make a realistic decision based only on the information provided, without adding other conditions or assumptions.",
+				"Choose either \"1\" or \"2\". Output only the number.",
+				"1. {sentence_1}",
+				"2. {sentence_2}"
+			]
+		}
+	}
+}
